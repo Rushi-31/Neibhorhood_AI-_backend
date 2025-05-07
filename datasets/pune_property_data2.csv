@@ -1,0 +1,1001 @@
+additionalrooms,age,amenitiesavailable,amenitiesnot,area,balconies,bathroom,bhk,carpetarea,facing,floor,locality,neworold,opensides,overlooking,ownership,possesiondate,price,pricepersquare,projectname,roadfaceing,status,totalfloor,property_type,transaction_type
+1,6,2,1,999,2,1,1,923,West,2 out of 10,Viman Nagar,Old,1,Park,Freehold,2022-02-07,127872,128,Harrell Ltd,No,Ready to Move,11,Row House,Sale
+0,4,4,2,870,1,2,2,829,West,5 out of 12,Undri,Old,2,Park,Freehold,2023-11-07,128760,148,"Stevenson, Brown and Brown",No,Ready to Move,3,Villa,Sale
+1,4,4,2,1588,3,4,4,1529,North,1 out of 5,Magarpatta,New,3,Garden,Freehold,2025-01-04,200088,126,"Newman, Martin and Johnson",No,Ready to Move,7,Row House,Rent
+2,2,2,0,1910,3,4,4,1836,West,5 out of 12,Viman Nagar,New,3,Garden,Freehold,2025-03-08,233020,122,"Rodriguez, Hoover and Salas",Yes,Ready to Move,6,Villa,Rent
+2,1,1,0,469,3,2,2,393,North,5 out of 12,Manjari,New,3,Park,Leasehold,2023-11-17,63315,135,Oneill-Mann,No,Under Construction,5,Apartment,Sale
+2,9,1,0,1328,0,3,3,1234,South,2 out of 10,Kharadi,Old,1,Garden,Freehold,2024-12-24,71712,54,"Meza, Davis and Schroeder",Yes,Under Construction,11,Apartment,Sale
+2,9,1,2,836,1,3,3,743,West,1 out of 5,Undri,New,2,Park,Freehold,2022-08-30,97812,117,Thompson-Mclaughlin,No,Under Construction,5,Row House,Sale
+0,0,5,0,1241,2,4,4,1197,East,Ground,Hadapsar,Old,1,Garden,Freehold,2024-07-15,63291,51,Blankenship and Sons,Yes,Under Construction,8,Row House,Rent
+0,4,2,0,1113,1,2,2,1093,North,2 out of 10,Bhekrai Nagar,Old,1,Main Road,Leasehold,2022-10-04,111300,100,Wilson-Wells,No,Ready to Move,4,Row House,Sale
+0,10,4,0,785,3,2,2,752,East,5 out of 12,Kharadi,Old,2,Park,Leasehold,2020-05-24,63585,81,Sellers-Vance,Yes,Ready to Move,6,Row House,Rent
+1,10,2,1,1075,0,3,3,1017,East,1 out of 5,Bhekrai Nagar,New,2,Main Road,Freehold,2020-12-06,75250,70,Melendez and Sons,Yes,Under Construction,8,Apartment,Rent
+2,5,5,0,1198,1,3,3,1157,West,2 out of 10,Wagholi,New,1,Park,Leasehold,2021-04-11,170116,142,"Soto, Osborn and Ryan",No,Under Construction,8,Row House,Rent
+0,0,4,2,1804,2,1,1,1729,West,2 out of 10,Magarpatta,New,1,Garden,Leasehold,2022-06-09,180400,100,Case Group,Yes,Ready to Move,7,Row House,Rent
+2,0,1,0,650,2,2,2,627,East,1 out of 5,NIBM,New,2,Garden,Leasehold,2022-07-14,53300,82,"Berger, Meyers and Vincent",Yes,Under Construction,12,Apartment,Sale
+1,5,5,0,1758,0,4,4,1686,North,1 out of 5,NIBM,Old,1,Garden,Leasehold,2023-08-06,232056,132,Evans-Lindsey,No,Ready to Move,4,Apartment,Sale
+0,8,2,0,464,2,3,3,408,North,5 out of 12,Dhomkeel,Old,2,Park,Freehold,2023-09-01,49648,107,"Bean, Dunn and Stanley",Yes,Under Construction,12,Row House,Rent
+0,6,3,1,1614,2,3,3,1522,West,1 out of 5,Wagholi,Old,1,Main Road,Freehold,2020-01-14,163014,101,"Hampton, Hudson and Roman",No,Ready to Move,8,Row House,Sale
+1,8,5,2,610,1,2,2,589,West,2 out of 10,Kharadi,Old,1,Main Road,Freehold,2021-07-18,53070,87,Williams Ltd,Yes,Ready to Move,8,Apartment,Sale
+0,7,1,0,1624,0,2,2,1551,West,2 out of 10,Dhomkeel,Old,1,Park,Leasehold,2023-09-14,183512,113,Nguyen-Barnes,No,Ready to Move,7,Villa,Rent
+2,3,3,1,468,3,3,3,377,North,5 out of 12,Undri,Old,1,Main Road,Leasehold,2020-04-09,59436,127,"Thomas, Richards and Brown",Yes,Under Construction,8,Row House,Sale
+0,9,5,0,828,2,1,1,746,West,Ground,Dhomkeel,New,2,Park,Freehold,2022-09-04,45540,55,"Young, Diaz and Guerrero",Yes,Ready to Move,1,Row House,Sale
+0,1,3,1,1123,0,3,3,1082,North,1 out of 5,Magarpatta,New,1,Garden,Leasehold,2023-04-13,90963,81,Miller-Wong,Yes,Under Construction,10,Apartment,Rent
+1,8,5,1,965,3,4,4,943,West,5 out of 12,Dhomkeel,Old,2,Garden,Leasehold,2023-09-06,75270,78,"Schwartz, Smith and Armstrong",Yes,Under Construction,8,Apartment,Sale
+1,4,2,0,467,1,1,1,375,East,1 out of 5,Manjari,Old,1,Park,Freehold,2021-10-22,29888,64,Bass-Foley,No,Ready to Move,2,Villa,Rent
+2,5,4,1,1502,3,3,3,1450,North,Ground,Viman Nagar,New,1,Main Road,Freehold,2020-07-25,84112,56,"Kelley, Ford and Wallace",Yes,Under Construction,9,Villa,Rent
+1,1,3,1,1458,1,4,4,1425,South,1 out of 5,Kondhwa,Old,2,Park,Leasehold,2023-09-16,78732,54,Franco-Alvarado,No,Ready to Move,8,Apartment,Rent
+2,8,2,0,1285,1,1,1,1222,South,5 out of 12,Dhomkeel,Old,3,Main Road,Leasehold,2022-04-21,134925,105,Garcia LLC,Yes,Ready to Move,10,Villa,Sale
+0,10,1,1,1870,3,1,1,1840,East,1 out of 5,Alandi,Old,2,Park,Leasehold,2023-01-12,280500,150,Garcia Group,Yes,Under Construction,9,Villa,Rent
+2,6,4,1,1849,2,4,4,1763,South,2 out of 10,NIBM,Old,2,Main Road,Leasehold,2020-07-03,129430,70,Kline PLC,Yes,Under Construction,9,Villa,Rent
+2,3,2,0,1002,1,1,1,925,West,5 out of 12,NIBM,New,3,Park,Freehold,2022-04-06,54108,54,Yates Group,No,Under Construction,4,Apartment,Rent
+0,7,4,1,957,2,4,4,933,South,Ground,Magarpatta,New,3,Garden,Leasehold,2021-12-16,69861,73,"Roach, Gomez and Flores",No,Ready to Move,9,Apartment,Sale
+1,5,1,2,1027,1,1,1,992,West,2 out of 10,Hadapsar,New,2,Main Road,Freehold,2020-03-23,102700,100,Stewart-Wang,Yes,Ready to Move,1,Villa,Sale
+1,7,1,0,524,0,1,1,429,West,5 out of 12,Wagholi,New,3,Main Road,Freehold,2024-04-04,58688,112,Pruitt Group,No,Ready to Move,5,Apartment,Rent
+0,9,5,0,1783,1,1,1,1699,South,1 out of 5,Hadapsar,New,2,Main Road,Leasehold,2020-12-05,124810,70,"Harris, Bradley and Lewis",Yes,Ready to Move,2,Villa,Sale
+2,8,1,1,1256,3,2,2,1187,South,Ground,Bhekrai Nagar,New,1,Main Road,Freehold,2021-01-14,76616,61,"Garcia, Lewis and Cowan",No,Under Construction,4,Row House,Sale
+2,9,3,2,1971,3,4,4,1912,North,2 out of 10,Undri,New,1,Park,Freehold,2023-01-09,258201,131,Burton LLC,Yes,Under Construction,9,Row House,Sale
+2,6,1,1,596,0,1,1,527,North,Ground,Kharadi,New,2,Main Road,Leasehold,2021-05-29,45892,77,"Ferguson, Valenzuela and Welch",No,Under Construction,9,Apartment,Sale
+2,2,3,1,834,1,2,2,769,North,1 out of 5,Wagholi,Old,3,Garden,Freehold,2020-03-03,99246,119,Hoffman LLC,Yes,Under Construction,8,Villa,Sale
+1,5,2,0,1076,0,1,1,1044,West,1 out of 5,Dhomkeel,New,2,Main Road,Freehold,2022-08-20,114056,106,Davis PLC,No,Under Construction,3,Villa,Rent
+2,10,2,2,1102,0,2,2,1054,North,5 out of 12,Bhekrai Nagar,Old,3,Main Road,Leasehold,2023-12-28,106894,97,Nelson LLC,Yes,Under Construction,12,Row House,Sale
+0,6,2,0,1135,0,1,1,1086,North,Ground,Undri,Old,1,Main Road,Freehold,2021-03-30,69235,61,Santana-Baldwin,No,Under Construction,8,Row House,Sale
+0,8,1,2,777,0,1,1,679,West,1 out of 5,NIBM,Old,2,Garden,Leasehold,2023-06-12,95571,123,Mason-Adams,Yes,Under Construction,11,Villa,Sale
+1,4,3,2,1894,0,4,4,1855,North,2 out of 10,Dhomkeel,New,3,Main Road,Freehold,2023-07-20,251902,133,"Trujillo, Lewis and Hanson",Yes,Under Construction,8,Villa,Rent
+1,8,3,0,584,3,1,1,553,South,2 out of 10,Wagholi,New,1,Main Road,Freehold,2020-05-19,61904,106,"Valdez, Lewis and Terry",No,Under Construction,11,Row House,Sale
+0,7,3,1,470,1,1,1,427,East,Ground,Manjari,Old,1,Park,Freehold,2020-04-25,33840,72,Tucker PLC,No,Ready to Move,8,Villa,Sale
+0,1,5,0,1293,3,1,1,1270,North,Ground,NIBM,Old,1,Park,Leasehold,2024-08-17,177141,137,Pratt-Jackson,No,Ready to Move,1,Villa,Sale
+1,9,1,0,1341,0,1,1,1251,West,5 out of 12,Kondhwa,Old,1,Garden,Leasehold,2020-05-10,136782,102,"Austin, Rocha and Steele",Yes,Ready to Move,7,Apartment,Rent
+2,1,2,0,1753,3,2,2,1702,East,2 out of 10,Dhomkeel,New,3,Garden,Leasehold,2025-02-03,205101,117,Williams-Wilson,No,Under Construction,7,Villa,Rent
+0,7,4,0,659,3,3,3,601,East,2 out of 10,Hadapsar,New,2,Garden,Leasehold,2023-04-06,40858,62,Miller LLC,Yes,Ready to Move,5,Row House,Rent
+1,4,4,2,573,0,1,1,487,South,1 out of 5,Bhekrai Nagar,Old,2,Park,Leasehold,2020-03-15,72771,127,"Ware, Villanueva and Rowland",Yes,Ready to Move,7,Apartment,Sale
+2,6,2,2,985,2,2,2,964,South,Ground,Hadapsar,New,1,Main Road,Leasehold,2024-10-11,147750,150,Scott Group,Yes,Under Construction,2,Villa,Sale
+1,5,4,2,950,0,1,1,918,West,2 out of 10,Hadapsar,Old,2,Garden,Freehold,2023-03-22,100700,106,Horton LLC,Yes,Under Construction,8,Row House,Sale
+0,10,1,2,1634,1,3,3,1614,South,1 out of 5,Undri,Old,1,Main Road,Freehold,2021-08-14,220590,135,Smith-Herring,Yes,Under Construction,2,Row House,Rent
+2,5,1,2,1090,2,4,4,1036,West,2 out of 10,Kondhwa,New,3,Garden,Freehold,2024-05-30,89380,82,Hammond-Young,Yes,Ready to Move,3,Row House,Sale
+2,2,4,1,1775,0,2,2,1696,West,5 out of 12,Wagholi,Old,3,Main Road,Freehold,2024-03-12,248500,140,Gill and Sons,No,Under Construction,5,Apartment,Sale
+2,8,2,1,962,3,3,3,870,West,Ground,Wagholi,Old,1,Garden,Leasehold,2020-04-13,132756,138,"Aguilar, Baker and Roy",No,Ready to Move,10,Villa,Sale
+1,5,4,2,1284,3,2,2,1256,West,1 out of 5,Alandi,Old,2,Main Road,Freehold,2021-05-05,154080,120,Gallagher-Fields,Yes,Under Construction,4,Villa,Rent
+0,8,1,0,681,2,1,1,586,West,5 out of 12,Manjari,New,3,Garden,Freehold,2025-02-06,68100,100,"Malone, Smith and Mercado",Yes,Ready to Move,10,Row House,Sale
+0,6,4,2,460,3,2,2,364,North,5 out of 12,Dhomkeel,New,3,Main Road,Freehold,2024-07-29,30820,67,Watts-Mitchell,Yes,Ready to Move,4,Apartment,Sale
+0,9,1,1,1229,1,3,3,1155,West,1 out of 5,Kondhwa,New,3,Main Road,Freehold,2024-05-27,98320,80,Butler-Long,Yes,Ready to Move,10,Row House,Sale
+0,5,4,2,1548,3,3,3,1492,North,Ground,Hadapsar,Old,1,Main Road,Leasehold,2020-05-24,171828,111,Larsen PLC,Yes,Under Construction,2,Apartment,Rent
+2,8,3,1,1676,3,3,3,1655,East,2 out of 10,Viman Nagar,New,3,Main Road,Freehold,2022-01-18,110616,66,Kirk-Salinas,Yes,Ready to Move,3,Row House,Rent
+1,1,5,2,1163,0,4,4,1093,West,2 out of 10,Magarpatta,Old,1,Main Road,Leasehold,2021-10-09,154679,133,Sweeney-Chan,Yes,Under Construction,8,Row House,Rent
+1,5,3,1,465,2,4,4,426,West,2 out of 10,Magarpatta,Old,1,Main Road,Leasehold,2020-03-10,66960,144,Chapman-Cole,No,Ready to Move,8,Villa,Sale
+2,8,2,0,1713,2,4,4,1637,East,2 out of 10,Viman Nagar,New,2,Park,Freehold,2020-04-06,106206,62,Shah-Carson,No,Ready to Move,4,Villa,Sale
+0,8,1,0,1162,2,4,4,1085,East,Ground,Undri,Old,1,Main Road,Leasehold,2020-11-24,148736,128,Hebert-King,Yes,Ready to Move,10,Villa,Sale
+1,8,2,0,1905,1,1,1,1835,West,5 out of 12,Magarpatta,New,3,Park,Leasehold,2021-09-18,123825,65,Scott-Hill,No,Ready to Move,11,Apartment,Rent
+2,0,4,2,1561,1,2,2,1513,North,5 out of 12,Kondhwa,New,3,Park,Leasehold,2022-07-09,121758,78,"Hartman, Miller and Perkins",No,Under Construction,9,Villa,Rent
+2,6,2,2,1114,3,1,1,1047,North,2 out of 10,Manjari,New,1,Park,Leasehold,2023-12-07,102488,92,Graham Inc,Yes,Ready to Move,9,Villa,Rent
+1,9,4,1,1621,0,1,1,1525,North,Ground,Wagholi,Old,3,Park,Freehold,2020-02-20,205867,127,Davis-Davis,Yes,Under Construction,2,Villa,Sale
+2,3,1,1,1902,0,1,1,1859,East,5 out of 12,Undri,Old,2,Park,Freehold,2023-01-03,188298,99,"Stone, Burke and Gomez",No,Ready to Move,9,Villa,Sale
+2,5,1,2,1807,2,1,1,1714,South,Ground,Wagholi,New,2,Garden,Freehold,2024-03-16,128297,71,"Miller, Brooks and Williams",No,Under Construction,9,Row House,Sale
+2,5,4,2,1284,0,1,1,1241,North,2 out of 10,Undri,New,2,Main Road,Freehold,2021-03-04,179760,140,Lopez-Perez,Yes,Under Construction,6,Row House,Sale
+0,7,2,1,568,1,3,3,519,North,2 out of 10,Viman Nagar,Old,2,Main Road,Freehold,2022-10-17,32376,57,"Montgomery, Williams and Schneider",No,Ready to Move,10,Apartment,Sale
+2,2,1,2,1733,0,1,1,1711,South,1 out of 5,Bhekrai Nagar,Old,1,Garden,Freehold,2024-02-15,135174,78,Ochoa-English,Yes,Ready to Move,4,Apartment,Sale
+1,10,3,0,550,2,4,4,479,West,5 out of 12,Kondhwa,Old,2,Park,Leasehold,2020-10-21,73700,134,"Bradshaw, Anderson and Tucker",Yes,Under Construction,8,Villa,Rent
+2,8,5,1,1023,3,4,4,946,North,Ground,Magarpatta,Old,1,Garden,Freehold,2024-09-01,108438,106,Young-Cooper,Yes,Ready to Move,8,Villa,Sale
+1,1,4,0,1429,2,1,1,1361,North,1 out of 5,Undri,New,1,Main Road,Leasehold,2021-01-08,98601,69,Jones-Hoffman,Yes,Under Construction,9,Apartment,Rent
+0,5,4,1,1515,0,1,1,1446,South,2 out of 10,Magarpatta,Old,1,Main Road,Leasehold,2022-05-22,84840,56,Stephenson LLC,No,Under Construction,3,Villa,Sale
+2,9,3,0,1858,3,1,1,1805,North,5 out of 12,Dhomkeel,New,1,Garden,Freehold,2020-10-06,107764,58,"Davidson, Richard and Wyatt",Yes,Ready to Move,9,Apartment,Sale
+2,8,2,1,1495,2,4,4,1401,North,5 out of 12,Kharadi,New,1,Main Road,Leasehold,2020-07-07,121095,81,Stephenson-Snyder,Yes,Under Construction,3,Row House,Sale
+1,0,1,2,1972,1,1,1,1896,East,5 out of 12,Kharadi,Old,1,Main Road,Leasehold,2024-02-20,138040,70,"Horne, Porter and Hall",Yes,Ready to Move,10,Row House,Rent
+0,1,4,0,832,1,3,3,790,West,2 out of 10,Bhekrai Nagar,Old,3,Garden,Leasehold,2023-11-13,100672,121,Jackson-Mcguire,No,Ready to Move,7,Apartment,Rent
+0,7,3,0,747,0,3,3,705,West,2 out of 10,Alandi,Old,1,Garden,Freehold,2020-05-23,62001,83,"Jordan, Morales and Hensley",No,Under Construction,5,Apartment,Rent
+0,3,5,0,1701,1,3,3,1605,East,1 out of 5,Manjari,Old,3,Park,Leasehold,2022-11-23,190512,112,"Martin, Chandler and White",No,Under Construction,8,Apartment,Sale
+2,10,4,0,1438,1,2,2,1398,East,2 out of 10,Hadapsar,New,1,Main Road,Freehold,2025-02-22,83404,58,Velasquez and Sons,No,Under Construction,7,Row House,Rent
+0,0,2,2,1785,3,3,3,1690,West,2 out of 10,Viman Nagar,Old,3,Main Road,Freehold,2023-09-15,246330,138,Jones-Trujillo,Yes,Ready to Move,11,Apartment,Sale
+2,6,2,0,1679,2,3,3,1641,West,5 out of 12,Manjari,Old,2,Garden,Freehold,2021-04-02,250171,149,Hernandez Inc,No,Under Construction,8,Apartment,Sale
+2,2,1,0,1612,1,3,3,1588,North,1 out of 5,NIBM,New,3,Garden,Freehold,2022-04-12,120900,75,Garza PLC,No,Under Construction,8,Villa,Sale
+0,1,1,0,1972,3,4,4,1902,West,1 out of 5,Viman Nagar,New,3,Main Road,Freehold,2021-02-21,187340,95,"Lynch, Hernandez and Valencia",Yes,Ready to Move,9,Row House,Rent
+0,9,4,2,733,0,4,4,706,West,Ground,NIBM,Old,2,Main Road,Freehold,2020-09-30,64504,88,Higgins-Elliott,Yes,Under Construction,1,Villa,Rent
+2,0,4,1,1195,0,4,4,1111,South,5 out of 12,Manjari,Old,2,Park,Freehold,2020-03-09,138620,116,Huerta-Mejia,No,Ready to Move,9,Apartment,Rent
+2,7,4,2,613,3,4,4,522,North,1 out of 5,Manjari,Old,2,Main Road,Leasehold,2022-03-30,58235,95,Craig-Oliver,Yes,Ready to Move,9,Apartment,Rent
+1,7,4,1,1885,1,2,2,1834,West,2 out of 10,Hadapsar,New,3,Main Road,Freehold,2023-08-16,184730,98,Flynn Ltd,No,Ready to Move,9,Villa,Sale
+2,8,5,0,1529,3,1,1,1480,West,Ground,Dhomkeel,Old,3,Park,Leasehold,2023-05-23,166661,109,Brown Ltd,No,Under Construction,5,Row House,Rent
+2,4,1,1,1014,0,1,1,954,South,2 out of 10,Hadapsar,New,2,Garden,Freehold,2023-01-15,113568,112,"Sullivan, Wilson and Pineda",No,Under Construction,10,Row House,Sale
+0,0,5,1,771,2,1,1,676,West,5 out of 12,Magarpatta,New,2,Main Road,Freehold,2024-08-18,95604,124,Phelps PLC,No,Under Construction,10,Apartment,Sale
+2,9,3,0,753,3,3,3,730,West,5 out of 12,Bhekrai Nagar,Old,1,Park,Leasehold,2023-03-01,96384,128,"Hill, Huber and Roberts",No,Under Construction,5,Row House,Sale
+0,8,4,1,1854,1,4,4,1807,South,2 out of 10,Manjari,New,2,Park,Leasehold,2020-11-19,216918,117,Morgan LLC,Yes,Ready to Move,12,Villa,Sale
+1,2,1,2,1948,1,3,3,1920,North,2 out of 10,Hadapsar,Old,2,Garden,Freehold,2022-12-17,237656,122,Joseph PLC,Yes,Under Construction,7,Apartment,Rent
+0,7,5,1,1105,2,1,1,1016,West,Ground,Kharadi,New,2,Garden,Freehold,2023-10-17,88400,80,Le-Morris,No,Under Construction,3,Apartment,Rent
+0,4,3,0,451,2,4,4,398,North,5 out of 12,Kondhwa,New,1,Garden,Leasehold,2025-03-17,56375,125,Hendrix-West,No,Under Construction,4,Row House,Rent
+1,5,4,2,1008,1,3,3,966,North,2 out of 10,Manjari,New,1,Main Road,Leasehold,2021-09-26,55440,55,Austin-Miranda,Yes,Ready to Move,9,Apartment,Rent
+1,6,3,1,1104,2,4,4,1014,North,5 out of 12,Kondhwa,New,2,Main Road,Leasehold,2024-04-13,165600,150,"Cole, Adams and Jackson",Yes,Under Construction,2,Apartment,Sale
+2,1,5,1,691,3,3,3,666,West,1 out of 5,Kondhwa,Old,3,Garden,Leasehold,2020-09-11,54589,79,"Marks, Allen and Sandoval",Yes,Ready to Move,5,Villa,Sale
+2,3,1,1,1637,0,3,3,1615,East,5 out of 12,Dhomkeel,New,2,Main Road,Freehold,2024-12-10,188255,115,"Hansen, Wilson and Decker",Yes,Ready to Move,3,Apartment,Rent
+2,9,3,0,916,1,2,2,853,North,2 out of 10,NIBM,New,1,Garden,Freehold,2025-02-22,120912,132,Robinson Ltd,No,Under Construction,1,Villa,Sale
+2,1,3,0,1449,3,4,4,1349,West,5 out of 12,Viman Nagar,New,3,Garden,Freehold,2020-06-25,89838,62,"Huynh, Anderson and Glenn",Yes,Ready to Move,8,Apartment,Rent
+1,4,3,0,1010,0,2,2,975,South,5 out of 12,NIBM,Old,1,Park,Freehold,2023-01-22,128270,127,David Ltd,Yes,Ready to Move,5,Villa,Sale
+0,6,3,0,909,2,1,1,870,East,Ground,Alandi,New,2,Garden,Leasehold,2023-01-26,64539,71,Parsons-Page,Yes,Under Construction,2,Apartment,Sale
+1,4,5,2,1928,1,2,2,1869,South,5 out of 12,Viman Nagar,Old,2,Garden,Leasehold,2021-09-01,102184,53,Chan-Price,Yes,Under Construction,7,Apartment,Sale
+0,10,5,1,1725,0,4,4,1644,South,Ground,Kondhwa,Old,3,Main Road,Freehold,2020-01-13,213900,124,"Le, Patel and Mann",Yes,Under Construction,6,Villa,Sale
+0,2,2,0,1373,3,1,1,1334,South,2 out of 10,Hadapsar,Old,2,Garden,Leasehold,2023-02-20,201831,147,"Davis, Cowan and Young",Yes,Under Construction,12,Apartment,Rent
+1,6,1,1,1794,2,2,2,1701,West,Ground,Kharadi,Old,3,Main Road,Freehold,2024-06-10,120198,67,Gill-Wilkins,Yes,Ready to Move,8,Villa,Sale
+2,5,2,1,903,0,2,2,812,North,5 out of 12,Wagholi,New,3,Garden,Freehold,2022-08-31,69531,77,Trevino and Sons,No,Under Construction,5,Villa,Sale
+0,2,3,0,1760,1,2,2,1660,East,Ground,Alandi,New,3,Park,Freehold,2022-10-02,149600,85,"Curtis, Dorsey and Barker",No,Ready to Move,2,Row House,Sale
+2,0,1,0,1056,0,2,2,1029,West,Ground,Alandi,Old,3,Garden,Freehold,2021-12-18,122496,116,Andrade-Hale,No,Ready to Move,6,Villa,Sale
+0,10,4,2,1501,1,4,4,1472,South,1 out of 5,Magarpatta,New,2,Garden,Freehold,2023-08-08,157605,105,"Williams, Guerrero and Wright",Yes,Ready to Move,6,Apartment,Rent
+1,7,3,0,543,1,3,3,457,East,5 out of 12,Kharadi,Old,2,Main Road,Freehold,2020-06-26,47784,88,Evans-Jones,No,Under Construction,7,Row House,Rent
+0,7,3,0,607,0,3,3,511,North,1 out of 5,Alandi,New,2,Garden,Leasehold,2020-01-15,72233,119,Collins-Gray,Yes,Under Construction,7,Villa,Sale
+0,10,3,1,1897,2,3,3,1830,East,2 out of 10,Dhomkeel,Old,1,Garden,Freehold,2022-02-14,197288,104,"Gray, Johnson and Terry",Yes,Under Construction,3,Apartment,Rent
+0,4,3,2,552,2,4,4,467,East,5 out of 12,NIBM,Old,2,Park,Leasehold,2022-05-12,82248,149,Bond Ltd,Yes,Under Construction,3,Apartment,Rent
+2,4,3,2,598,3,3,3,541,South,Ground,Kondhwa,New,3,Garden,Leasehold,2022-01-07,33488,56,"Alvarez, Morton and Preston",Yes,Ready to Move,4,Apartment,Rent
+0,1,2,1,1144,1,2,2,1103,North,5 out of 12,Hadapsar,Old,1,Park,Leasehold,2025-01-06,125840,110,Colon Ltd,Yes,Under Construction,2,Row House,Rent
+1,3,3,2,1201,2,1,1,1163,North,1 out of 5,NIBM,New,2,Park,Leasehold,2025-01-26,63653,53,Wood-Singh,No,Under Construction,6,Apartment,Sale
+2,6,4,0,845,3,3,3,817,East,5 out of 12,Alandi,Old,2,Park,Leasehold,2022-12-09,77740,92,"Johnson, Erickson and Patton",Yes,Under Construction,9,Villa,Sale
+2,8,4,0,584,1,4,4,555,West,5 out of 12,Hadapsar,Old,3,Main Road,Leasehold,2021-08-28,83512,143,Garcia-King,No,Ready to Move,5,Villa,Sale
+0,6,4,1,1954,3,2,2,1877,West,2 out of 10,Bhekrai Nagar,New,2,Main Road,Freehold,2023-03-16,287238,147,Cook Ltd,No,Ready to Move,12,Apartment,Sale
+2,1,4,2,639,1,3,3,595,East,5 out of 12,Kondhwa,New,3,Garden,Freehold,2022-09-26,84987,133,Trevino-Scott,No,Ready to Move,1,Villa,Rent
+1,1,5,1,488,3,1,1,430,East,2 out of 10,Magarpatta,New,1,Park,Freehold,2021-01-16,69296,142,Carter-Greene,No,Ready to Move,3,Villa,Sale
+2,5,1,0,491,0,3,3,412,North,1 out of 5,NIBM,New,1,Garden,Leasehold,2024-06-23,44681,91,Lewis-Harris,Yes,Under Construction,7,Villa,Rent
+2,7,4,2,536,2,1,1,505,East,Ground,Alandi,Old,2,Garden,Leasehold,2023-02-21,72360,135,Donovan Group,Yes,Ready to Move,7,Villa,Sale
+1,10,1,0,991,0,4,4,961,East,1 out of 5,Alandi,Old,3,Park,Leasehold,2024-02-09,80271,81,Miller Inc,Yes,Under Construction,6,Villa,Rent
+2,4,2,0,937,0,3,3,857,East,Ground,Bhekrai Nagar,New,2,Main Road,Leasehold,2020-06-05,50598,54,Smith and Sons,No,Ready to Move,9,Villa,Rent
+2,8,3,1,1397,2,4,4,1313,South,5 out of 12,Hadapsar,Old,1,Park,Freehold,2024-04-30,132715,95,Mack LLC,Yes,Under Construction,7,Villa,Rent
+0,0,3,2,513,3,4,4,486,West,2 out of 10,Alandi,Old,3,Park,Leasehold,2022-10-30,62586,122,Carter Group,Yes,Ready to Move,6,Row House,Sale
+1,10,5,2,954,0,3,3,901,East,Ground,Dhomkeel,New,3,Main Road,Freehold,2020-08-19,114480,120,Fry and Sons,No,Ready to Move,2,Apartment,Sale
+0,5,3,0,840,1,3,3,746,West,Ground,Alandi,Old,3,Main Road,Freehold,2021-07-04,93240,111,"Johnson, Sanchez and Ramos",Yes,Ready to Move,6,Row House,Rent
+1,10,2,1,593,3,1,1,564,South,Ground,Viman Nagar,New,3,Main Road,Leasehold,2020-12-18,81241,137,Wilkerson-Gutierrez,No,Ready to Move,4,Row House,Rent
+2,2,5,0,1414,3,3,3,1376,North,1 out of 5,NIBM,Old,3,Park,Freehold,2022-03-08,141400,100,Cox-Palmer,No,Under Construction,6,Row House,Rent
+0,5,3,0,1717,3,4,4,1689,East,5 out of 12,NIBM,New,1,Garden,Freehold,2024-10-06,125341,73,Spencer-Terry,Yes,Ready to Move,7,Apartment,Sale
+1,4,2,1,1605,2,2,2,1508,South,1 out of 5,Undri,Old,1,Park,Leasehold,2024-07-17,221490,138,"Barker, Clark and Boyd",Yes,Ready to Move,3,Row House,Sale
+2,3,1,0,1477,1,1,1,1404,West,5 out of 12,Alandi,Old,1,Park,Leasehold,2023-02-26,194964,132,Young-Owen,Yes,Ready to Move,3,Apartment,Sale
+1,1,3,1,1105,3,2,2,1021,North,5 out of 12,Dhomkeel,New,3,Garden,Freehold,2023-07-11,120445,109,"Green, Alexander and Zimmerman",Yes,Under Construction,12,Villa,Rent
+1,7,4,0,1798,1,2,2,1744,North,1 out of 5,Undri,Old,1,Park,Leasehold,2023-08-16,102486,57,"Mahoney, Rios and Williams",No,Ready to Move,12,Apartment,Rent
+0,9,1,2,1471,0,3,3,1411,East,1 out of 5,Kharadi,Old,3,Garden,Freehold,2023-03-31,185346,126,Carroll-Armstrong,Yes,Under Construction,8,Apartment,Rent
+2,10,3,0,1974,3,4,4,1931,East,5 out of 12,Kharadi,New,3,Park,Leasehold,2023-05-27,122388,62,Deleon-Macdonald,No,Under Construction,2,Row House,Sale
+1,5,4,2,837,1,2,2,815,South,5 out of 12,Hadapsar,Old,3,Garden,Leasehold,2022-07-19,55242,66,Robinson-Snyder,Yes,Ready to Move,1,Apartment,Sale
+2,1,5,2,1694,0,4,4,1609,East,5 out of 12,NIBM,New,1,Main Road,Freehold,2022-05-29,176176,104,Smith-Johns,No,Under Construction,12,Villa,Rent
+2,0,5,0,656,2,4,4,607,East,2 out of 10,Kondhwa,Old,2,Main Road,Freehold,2024-06-02,95776,146,Ray Ltd,No,Under Construction,2,Apartment,Rent
+2,5,5,2,835,1,4,4,753,South,5 out of 12,Viman Nagar,Old,2,Park,Leasehold,2023-07-16,96025,115,"Castillo, Myers and Munoz",No,Ready to Move,8,Villa,Sale
+1,3,1,1,873,1,4,4,798,North,1 out of 5,NIBM,Old,1,Main Road,Freehold,2021-03-01,120474,138,"Green, Chase and Rice",Yes,Ready to Move,3,Villa,Sale
+1,10,5,2,1241,2,2,2,1205,South,Ground,NIBM,Old,2,Garden,Freehold,2020-03-18,65773,53,Green-Rodriguez,No,Under Construction,9,Row House,Sale
+2,8,2,2,1259,0,1,1,1182,South,5 out of 12,Dhomkeel,Old,2,Main Road,Freehold,2021-09-18,62950,50,Webb PLC,Yes,Ready to Move,9,Apartment,Rent
+2,8,1,2,1420,0,4,4,1364,West,2 out of 10,Dhomkeel,Old,3,Park,Freehold,2023-07-19,166140,117,Rodriguez PLC,No,Ready to Move,12,Villa,Rent
+0,1,4,1,1236,2,1,1,1184,North,2 out of 10,NIBM,New,1,Garden,Leasehold,2021-02-28,123600,100,"Cruz, Clark and Mcguire",No,Under Construction,7,Row House,Rent
+0,7,3,0,1690,0,4,4,1639,East,5 out of 12,Viman Nagar,Old,3,Park,Freehold,2023-06-17,251810,149,Camacho Ltd,No,Under Construction,5,Row House,Sale
+1,2,5,2,1230,2,2,2,1155,East,1 out of 5,Hadapsar,New,2,Main Road,Leasehold,2023-12-21,135300,110,Blair LLC,Yes,Under Construction,1,Row House,Rent
+1,3,3,0,1849,2,1,1,1816,South,2 out of 10,Undri,New,1,Main Road,Leasehold,2023-07-18,122034,66,"Barnett, Ellison and Ellis",No,Under Construction,3,Villa,Sale
+1,4,1,1,1778,0,1,1,1752,South,1 out of 5,Alandi,New,1,Main Road,Freehold,2023-12-12,128016,72,"Lewis, Turner and Perez",No,Ready to Move,1,Villa,Sale
+2,1,2,1,892,3,3,3,801,South,Ground,Manjari,New,1,Garden,Leasehold,2023-08-20,54412,61,Collins LLC,No,Ready to Move,5,Row House,Rent
+0,8,5,2,461,1,4,4,412,East,1 out of 5,Kondhwa,New,2,Garden,Leasehold,2020-10-28,44256,96,Lam Inc,No,Ready to Move,6,Row House,Rent
+1,0,3,2,1504,1,1,1,1448,East,2 out of 10,Manjari,New,2,Main Road,Leasehold,2020-04-12,139872,93,"Mckinney, Brown and Miller",Yes,Ready to Move,4,Apartment,Sale
+1,3,4,1,489,3,3,3,418,North,Ground,Manjari,New,3,Main Road,Leasehold,2024-12-31,28851,59,Price Inc,No,Ready to Move,3,Apartment,Rent
+2,5,3,2,1224,0,4,4,1157,West,2 out of 10,Undri,New,3,Garden,Leasehold,2021-08-27,177480,145,Campbell Inc,Yes,Ready to Move,1,Apartment,Sale
+1,10,2,1,601,2,2,2,569,East,2 out of 10,Kondhwa,Old,1,Garden,Leasehold,2024-11-30,70918,118,Johnson-Erickson,No,Ready to Move,3,Row House,Rent
+2,10,2,2,1671,0,1,1,1604,South,5 out of 12,Alandi,New,2,Park,Leasehold,2023-11-20,126996,76,Dominguez-Parker,Yes,Under Construction,2,Villa,Sale
+0,1,4,1,1010,0,2,2,932,North,5 out of 12,Undri,New,3,Garden,Leasehold,2021-12-02,148470,147,Nguyen Group,No,Under Construction,5,Villa,Sale
+2,5,2,0,597,3,3,3,515,East,2 out of 10,Manjari,New,2,Park,Freehold,2021-05-28,56715,95,Thomas LLC,No,Under Construction,12,Villa,Rent
+1,6,4,2,1559,1,2,2,1470,North,5 out of 12,Undri,New,2,Park,Freehold,2024-10-18,138751,89,Hill Ltd,Yes,Ready to Move,6,Row House,Sale
+2,1,5,2,1867,3,1,1,1827,South,Ground,Dhomkeel,Old,1,Garden,Leasehold,2020-01-26,227774,122,Pearson PLC,No,Under Construction,3,Villa,Rent
+2,5,5,0,1493,3,1,1,1408,South,2 out of 10,Manjari,New,1,Park,Leasehold,2021-04-01,209020,140,Perez Group,Yes,Under Construction,7,Villa,Sale
+2,2,2,2,1628,2,1,1,1588,South,5 out of 12,Viman Nagar,New,1,Garden,Freehold,2020-09-15,117216,72,Houston Ltd,No,Under Construction,4,Villa,Sale
+1,1,2,2,1664,0,3,3,1603,West,Ground,Wagholi,Old,1,Main Road,Freehold,2020-03-30,158080,95,"Garner, Davila and Rogers",Yes,Under Construction,5,Apartment,Rent
+1,4,5,0,1835,3,1,1,1759,West,1 out of 5,Wagholi,New,3,Main Road,Leasehold,2024-10-29,106430,58,"Smith, Gonzalez and Smith",Yes,Under Construction,11,Row House,Sale
+0,0,1,0,1552,1,3,3,1456,North,1 out of 5,Magarpatta,Old,2,Main Road,Freehold,2021-02-07,85360,55,Davenport Inc,No,Ready to Move,3,Villa,Sale
+1,1,2,1,649,3,2,2,579,East,5 out of 12,NIBM,Old,2,Main Road,Freehold,2022-09-07,40887,63,Perez Ltd,Yes,Ready to Move,1,Apartment,Sale
+2,0,1,2,1323,3,1,1,1271,North,2 out of 10,Kondhwa,Old,1,Garden,Leasehold,2024-11-15,72765,55,Wilcox-Davis,Yes,Ready to Move,2,Apartment,Sale
+1,4,1,0,1326,0,2,2,1256,North,Ground,Magarpatta,New,2,Garden,Freehold,2022-01-03,167076,126,White Group,Yes,Under Construction,5,Villa,Sale
+1,1,2,0,1138,0,1,1,1047,East,5 out of 12,Bhekrai Nagar,Old,2,Park,Leasehold,2023-10-24,133146,117,"Johnson, Gonzales and Ochoa",No,Under Construction,10,Villa,Rent
+0,10,2,1,860,0,2,2,763,South,5 out of 12,Dhomkeel,New,1,Garden,Freehold,2021-11-08,110940,129,"Smith, Stephens and Mitchell",No,Ready to Move,8,Row House,Sale
+1,6,5,1,548,2,4,4,511,South,5 out of 12,Bhekrai Nagar,New,1,Park,Leasehold,2021-01-27,38908,71,Levine and Sons,No,Under Construction,7,Row House,Rent
+2,10,4,1,1959,2,3,3,1937,East,5 out of 12,Undri,Old,2,Park,Leasehold,2021-11-15,184146,94,Rice-Pham,No,Under Construction,8,Apartment,Rent
+2,4,5,0,468,0,4,4,414,West,Ground,Manjari,New,2,Park,Leasehold,2022-05-09,69732,149,Maynard LLC,No,Ready to Move,11,Villa,Sale
+2,2,3,1,836,0,3,3,778,West,5 out of 12,Dhomkeel,Old,1,Main Road,Leasehold,2022-11-09,41800,50,Baker-Fox,Yes,Ready to Move,10,Villa,Sale
+1,6,2,2,1253,1,1,1,1231,East,5 out of 12,Wagholi,New,3,Main Road,Leasehold,2024-04-15,149107,119,Carter PLC,Yes,Ready to Move,4,Row House,Rent
+0,0,1,2,1145,3,1,1,1052,North,5 out of 12,Alandi,Old,1,Garden,Freehold,2024-11-23,64120,56,Combs-Cruz,No,Under Construction,10,Apartment,Sale
+1,10,1,0,1175,2,2,2,1112,North,2 out of 10,Viman Nagar,New,2,Main Road,Leasehold,2023-02-21,119850,102,Miller-Ramirez,No,Ready to Move,11,Row House,Rent
+1,1,4,2,1949,0,2,2,1882,North,2 out of 10,Kondhwa,New,2,Park,Freehold,2025-01-21,159818,82,Huber Group,Yes,Under Construction,7,Row House,Sale
+0,1,2,0,1051,2,3,3,1004,South,Ground,Kondhwa,Old,3,Main Road,Leasehold,2023-09-08,59907,57,Anderson-Conner,Yes,Ready to Move,7,Villa,Sale
+0,8,1,1,1262,0,4,4,1204,East,5 out of 12,Alandi,New,3,Garden,Freehold,2023-05-01,122414,97,Knight-Mcclain,No,Ready to Move,12,Row House,Sale
+2,2,3,2,1379,3,3,3,1352,South,2 out of 10,Wagholi,New,2,Main Road,Freehold,2022-04-06,131005,95,Ramirez-Miranda,No,Ready to Move,2,Apartment,Sale
+1,9,5,0,1448,3,2,2,1414,North,Ground,Wagholi,Old,3,Park,Freehold,2023-01-03,92672,64,Wood-Rowe,No,Under Construction,5,Villa,Rent
+1,9,1,1,1307,1,3,3,1287,North,Ground,Viman Nagar,New,3,Main Road,Leasehold,2021-04-08,159454,122,Wood-Morrison,Yes,Ready to Move,2,Apartment,Sale
+0,8,4,0,462,0,1,1,366,West,5 out of 12,Alandi,New,2,Park,Freehold,2024-01-10,59136,128,Stewart PLC,No,Under Construction,9,Apartment,Sale
+2,4,3,2,1314,3,1,1,1239,West,2 out of 10,Hadapsar,Old,1,Main Road,Freehold,2021-04-10,135342,103,"Mcdonald, Carroll and Parker",Yes,Ready to Move,6,Row House,Rent
+0,4,4,0,1012,0,2,2,952,North,Ground,Wagholi,New,3,Park,Freehold,2022-09-27,110308,109,Lucero-Booker,Yes,Ready to Move,10,Apartment,Sale
+0,2,1,2,562,0,3,3,508,West,2 out of 10,Magarpatta,Old,2,Main Road,Freehold,2023-03-06,51142,91,Davis-Wilson,No,Ready to Move,10,Villa,Sale
+1,8,4,1,1551,1,4,4,1500,South,5 out of 12,Wagholi,New,2,Garden,Leasehold,2020-05-25,217140,140,King LLC,No,Ready to Move,1,Villa,Sale
+0,1,1,0,1329,3,2,2,1290,South,1 out of 5,Undri,Old,2,Garden,Leasehold,2024-07-26,143532,108,"Neal, Williams and Hernandez",Yes,Under Construction,6,Apartment,Rent
+2,8,5,2,1644,2,1,1,1599,West,1 out of 5,Bhekrai Nagar,Old,2,Park,Leasehold,2022-07-21,243312,148,"Wilkinson, Haynes and Kaufman",No,Ready to Move,3,Villa,Rent
+0,7,1,2,1881,1,2,2,1832,West,1 out of 5,Dhomkeel,New,1,Park,Freehold,2024-10-31,221958,118,Mcpherson-Brown,No,Ready to Move,9,Apartment,Sale
+1,2,4,0,1027,0,1,1,1007,North,1 out of 5,Hadapsar,Old,2,Main Road,Freehold,2022-04-02,128375,125,Jimenez and Sons,Yes,Under Construction,7,Row House,Sale
+0,5,3,2,491,2,4,4,411,North,2 out of 10,Kondhwa,New,1,Main Road,Freehold,2024-07-08,39280,80,Evans-Rivera,Yes,Ready to Move,12,Villa,Rent
+1,4,4,2,688,3,3,3,643,North,2 out of 10,Kharadi,Old,1,Garden,Freehold,2023-12-11,37840,55,Pineda LLC,No,Under Construction,7,Apartment,Rent
+1,9,4,1,1685,3,4,4,1649,East,5 out of 12,Manjari,New,2,Garden,Leasehold,2024-12-06,227475,135,"Nichols, Mendoza and Brown",Yes,Ready to Move,10,Villa,Rent
+0,7,1,0,1627,3,1,1,1546,North,1 out of 5,Dhomkeel,Old,2,Park,Freehold,2023-10-10,154565,95,"Davis, Wilson and Ramirez",Yes,Ready to Move,2,Row House,Rent
+0,5,2,0,1548,1,2,2,1506,West,1 out of 5,Undri,Old,2,Park,Freehold,2020-08-17,199692,129,Wright Ltd,No,Ready to Move,8,Apartment,Sale
+0,9,1,1,1047,3,3,3,1021,East,Ground,Alandi,Old,1,Main Road,Freehold,2020-05-24,68055,65,"Miller, Vang and Lopez",Yes,Under Construction,3,Row House,Rent
+0,0,4,0,1175,0,4,4,1086,West,2 out of 10,Alandi,New,3,Garden,Leasehold,2025-01-08,165675,141,"Nguyen, Ford and Dillon",No,Under Construction,7,Villa,Rent
+2,8,3,2,1100,3,3,3,1016,North,Ground,Kondhwa,New,3,Park,Freehold,2024-03-12,108900,99,Hernandez Inc,No,Under Construction,9,Apartment,Sale
+1,2,2,0,1986,2,1,1,1951,North,1 out of 5,Alandi,New,1,Garden,Freehold,2020-06-22,228390,115,"Richardson, Lewis and Lozano",Yes,Under Construction,12,Row House,Sale
+0,7,3,0,1598,3,4,4,1578,North,5 out of 12,Magarpatta,New,3,Garden,Freehold,2024-10-11,166192,104,Hunt and Sons,Yes,Under Construction,11,Villa,Rent
+2,6,4,1,1577,3,4,4,1491,South,Ground,Hadapsar,New,3,Garden,Leasehold,2022-02-02,118275,75,"Cox, Hernandez and Taylor",No,Under Construction,6,Apartment,Sale
+1,2,4,1,582,3,3,3,501,South,5 out of 12,Kondhwa,Old,3,Park,Freehold,2023-07-29,47724,82,"Keller, Fernandez and Le",Yes,Ready to Move,8,Villa,Sale
+2,10,3,1,1470,2,3,3,1374,North,1 out of 5,Kharadi,New,2,Park,Freehold,2021-09-05,99960,68,"Hill, Grant and Gardner",Yes,Under Construction,5,Villa,Sale
+2,7,1,0,1955,3,4,4,1882,North,5 out of 12,Wagholi,Old,2,Park,Leasehold,2021-03-22,289340,148,Santos Inc,No,Ready to Move,11,Row House,Rent
+1,0,3,1,824,0,1,1,747,West,1 out of 5,Kharadi,New,2,Park,Freehold,2024-07-03,110416,134,"Irwin, Ortega and Webb",Yes,Under Construction,3,Villa,Sale
+2,8,3,2,922,1,3,3,868,East,1 out of 5,Wagholi,New,1,Garden,Freehold,2021-04-27,115250,125,Cantu-Merritt,No,Ready to Move,1,Villa,Rent
+0,3,3,1,1487,1,3,3,1398,South,Ground,NIBM,New,2,Park,Leasehold,2024-06-14,211154,142,Collier LLC,Yes,Ready to Move,3,Apartment,Rent
+2,7,1,1,1198,3,2,2,1163,East,1 out of 5,Viman Nagar,New,1,Park,Freehold,2023-08-05,165324,138,"Perez, Davis and Soto",No,Ready to Move,4,Row House,Sale
+2,6,4,1,893,0,3,3,828,South,2 out of 10,Bhekrai Nagar,New,2,Park,Freehold,2021-11-26,59831,67,Lara-Juarez,Yes,Ready to Move,5,Apartment,Sale
+0,0,3,0,1256,1,1,1,1206,West,Ground,Alandi,Old,3,Garden,Leasehold,2022-11-17,144440,115,Clark-Bryant,No,Ready to Move,6,Villa,Rent
+2,5,3,0,1178,3,1,1,1126,East,1 out of 5,Alandi,New,3,Garden,Leasehold,2024-02-22,116622,99,Smith Group,Yes,Ready to Move,6,Villa,Rent
+0,0,2,2,1167,0,4,4,1140,West,1 out of 5,Dhomkeel,New,1,Garden,Leasehold,2024-04-10,122535,105,Munoz-Hughes,No,Under Construction,5,Apartment,Rent
+1,2,1,2,1711,1,1,1,1622,West,2 out of 10,Magarpatta,New,2,Main Road,Freehold,2020-01-10,172811,101,Bright Inc,No,Under Construction,4,Row House,Sale
+1,1,3,2,663,2,3,3,632,North,1 out of 5,Alandi,New,3,Garden,Leasehold,2021-12-30,72930,110,"Ramos, Sparks and Bruce",Yes,Under Construction,6,Apartment,Rent
+2,8,3,0,1320,3,2,2,1221,North,Ground,Bhekrai Nagar,Old,1,Park,Leasehold,2025-01-22,171600,130,"Farmer, Mccormick and Hoffman",No,Under Construction,6,Villa,Sale
+0,6,4,0,740,1,3,3,659,South,1 out of 5,Wagholi,New,2,Main Road,Freehold,2024-03-04,77700,105,Horton and Sons,No,Under Construction,2,Row House,Rent
+2,8,1,0,1456,2,1,1,1386,East,2 out of 10,Hadapsar,New,1,Park,Freehold,2023-08-25,106288,73,Woods Inc,Yes,Under Construction,10,Row House,Rent
+2,4,2,2,1361,3,2,2,1280,North,1 out of 5,Kharadi,New,1,Park,Freehold,2021-10-05,178291,131,Shaffer-Lopez,Yes,Ready to Move,9,Villa,Rent
+2,2,1,1,954,2,3,3,924,West,1 out of 5,Manjari,Old,1,Main Road,Leasehold,2020-06-10,125928,132,George-Morse,No,Ready to Move,4,Row House,Sale
+0,8,4,0,677,0,3,3,642,West,5 out of 12,Undri,New,3,Garden,Freehold,2021-08-18,35881,53,Owens PLC,Yes,Ready to Move,11,Apartment,Sale
+0,5,5,0,704,3,1,1,680,South,1 out of 5,Wagholi,New,1,Garden,Freehold,2024-05-04,48576,69,Wright Ltd,Yes,Under Construction,6,Villa,Rent
+2,2,5,0,531,3,1,1,485,North,Ground,Alandi,New,3,Garden,Freehold,2023-03-17,43542,82,"Tanner, Torres and Castro",Yes,Under Construction,6,Villa,Sale
+1,9,1,2,1837,1,4,4,1753,West,2 out of 10,Magarpatta,New,3,Garden,Leasehold,2023-06-30,196559,107,"Garner, Fleming and Ballard",No,Ready to Move,6,Villa,Rent
+1,3,4,0,1699,1,3,3,1655,East,5 out of 12,NIBM,Old,3,Park,Leasehold,2022-07-09,84950,50,"Wong, Drake and Taylor",No,Under Construction,12,Apartment,Rent
+2,6,5,2,728,0,1,1,707,East,Ground,Dhomkeel,Old,2,Park,Freehold,2024-04-06,104832,144,"Todd, Smith and Baker",Yes,Under Construction,10,Row House,Rent
+1,7,3,0,580,1,4,4,551,West,5 out of 12,Magarpatta,New,1,Garden,Freehold,2022-07-01,29580,51,Soto-Bailey,No,Ready to Move,3,Row House,Sale
+2,4,1,2,1064,3,4,4,1013,South,2 out of 10,Bhekrai Nagar,Old,2,Park,Freehold,2021-05-17,101080,95,Johnston-Johnson,No,Ready to Move,8,Apartment,Sale
+0,3,5,1,1074,3,4,4,1042,West,1 out of 5,Hadapsar,New,2,Main Road,Leasehold,2020-01-30,86994,81,Baker Ltd,No,Ready to Move,3,Row House,Sale
+2,0,2,2,1435,1,4,4,1352,North,5 out of 12,Hadapsar,Old,1,Garden,Freehold,2020-01-17,210945,147,Marquez LLC,Yes,Ready to Move,8,Villa,Rent
+1,5,5,1,782,2,4,4,732,West,5 out of 12,Wagholi,New,1,Park,Leasehold,2025-02-02,69598,89,"Chavez, Duncan and Palmer",Yes,Ready to Move,2,Villa,Sale
+2,7,4,0,1721,1,4,4,1655,East,1 out of 5,Dhomkeel,New,2,Main Road,Leasehold,2025-01-23,201357,117,Price PLC,Yes,Under Construction,1,Villa,Rent
+2,9,1,1,1457,0,1,1,1363,West,Ground,Kharadi,Old,2,Park,Leasehold,2020-05-25,136958,94,Rodriguez-Johnson,No,Ready to Move,12,Villa,Sale
+0,0,5,1,1206,2,1,1,1118,West,1 out of 5,Kondhwa,Old,2,Main Road,Freehold,2022-09-27,73566,61,Garcia Inc,Yes,Ready to Move,8,Apartment,Rent
+0,7,2,2,1347,3,2,2,1260,South,1 out of 5,Dhomkeel,Old,1,Main Road,Freehold,2023-09-18,71391,53,"Lawson, Lopez and Young",Yes,Under Construction,12,Apartment,Rent
+0,2,1,1,1892,1,3,3,1831,North,1 out of 5,Hadapsar,New,3,Park,Freehold,2020-05-21,107844,57,Smith-Lewis,No,Ready to Move,12,Row House,Sale
+0,10,5,2,740,3,2,2,644,West,5 out of 12,Undri,New,2,Garden,Freehold,2022-10-26,42920,58,Olson Ltd,No,Ready to Move,5,Row House,Rent
+2,6,1,1,1246,1,4,4,1215,East,Ground,Bhekrai Nagar,New,1,Garden,Leasehold,2024-08-10,168210,135,Hill and Sons,Yes,Under Construction,2,Row House,Sale
+1,1,1,1,1784,2,2,2,1724,South,1 out of 5,Undri,New,2,Garden,Leasehold,2021-10-24,90984,51,Bowman LLC,Yes,Ready to Move,2,Apartment,Sale
+0,7,2,2,1207,0,2,2,1153,West,2 out of 10,Manjari,Old,1,Garden,Freehold,2021-11-02,107423,89,Reynolds-Vasquez,No,Under Construction,4,Row House,Rent
+1,3,1,1,1863,0,3,3,1796,North,Ground,Alandi,Old,2,Garden,Leasehold,2023-11-11,275724,148,"Thomas, Murphy and Waller",No,Under Construction,1,Row House,Sale
+1,6,2,2,1002,2,3,3,925,North,1 out of 5,Manjari,New,3,Main Road,Freehold,2020-06-17,67134,67,Martin-Williams,No,Under Construction,3,Villa,Rent
+2,3,2,1,1333,0,1,1,1283,East,Ground,Alandi,New,1,Park,Leasehold,2023-10-03,129301,97,Lopez Inc,Yes,Ready to Move,1,Row House,Sale
+2,6,1,1,1092,3,3,3,1008,West,5 out of 12,Manjari,New,1,Park,Leasehold,2024-11-18,75348,69,Griffin-Watkins,Yes,Ready to Move,12,Row House,Sale
+2,3,4,0,455,0,4,4,417,West,Ground,Bhekrai Nagar,New,3,Garden,Leasehold,2024-03-04,66885,147,Obrien-Dixon,Yes,Under Construction,12,Apartment,Sale
+2,7,2,0,1870,3,4,4,1804,East,5 out of 12,Bhekrai Nagar,Old,2,Main Road,Leasehold,2024-08-27,230010,123,"Maxwell, Carter and Stewart",No,Under Construction,7,Apartment,Sale
+0,1,3,0,1733,2,3,3,1657,North,1 out of 5,Hadapsar,New,3,Park,Leasehold,2022-11-20,126509,73,Wiggins-Rivera,No,Ready to Move,4,Apartment,Rent
+2,5,4,2,1322,0,2,2,1281,South,1 out of 5,Viman Nagar,Old,3,Garden,Leasehold,2024-08-06,144098,109,Miller LLC,No,Ready to Move,3,Row House,Sale
+0,6,3,0,909,1,3,3,829,West,5 out of 12,NIBM,Old,3,Garden,Leasehold,2022-10-09,53631,59,Webster LLC,No,Under Construction,12,Row House,Rent
+0,3,4,1,1114,1,4,4,1024,South,1 out of 5,Undri,Old,1,Garden,Freehold,2020-12-03,133680,120,"Riley, Krueger and Mcdonald",No,Ready to Move,4,Villa,Rent
+2,4,2,1,1228,0,3,3,1192,North,5 out of 12,Viman Nagar,Old,1,Garden,Leasehold,2021-10-30,144904,118,Harrell-Beck,No,Ready to Move,1,Row House,Rent
+0,2,5,1,1372,2,4,4,1279,South,Ground,Manjari,Old,1,Main Road,Freehold,2024-12-01,153664,112,French and Sons,Yes,Ready to Move,6,Apartment,Rent
+0,1,1,2,1520,3,1,1,1499,South,5 out of 12,Viman Nagar,Old,2,Park,Freehold,2023-02-03,76000,50,Dyer-Yang,No,Ready to Move,4,Apartment,Sale
+2,2,4,1,1670,0,1,1,1624,East,5 out of 12,Dhomkeel,Old,3,Garden,Freehold,2020-12-10,205410,123,"Nelson, Beltran and Schmidt",No,Ready to Move,2,Apartment,Sale
+0,10,4,1,1001,1,3,3,918,East,1 out of 5,Alandi,New,2,Garden,Leasehold,2022-10-19,138138,138,Hall-Summers,Yes,Under Construction,9,Villa,Rent
+0,8,1,2,798,1,2,2,707,North,2 out of 10,Wagholi,Old,2,Park,Freehold,2025-01-09,92568,116,"Gomez, Shea and Fitzgerald",No,Ready to Move,10,Apartment,Rent
+0,3,4,2,1002,3,4,4,952,West,2 out of 10,Magarpatta,New,3,Main Road,Freehold,2022-03-08,76152,76,"Bush, Castillo and Brown",No,Under Construction,4,Villa,Sale
+2,8,5,1,1216,0,4,4,1187,West,5 out of 12,Viman Nagar,Old,2,Park,Leasehold,2020-02-18,109440,90,Day-Estrada,Yes,Under Construction,6,Apartment,Rent
+2,9,3,1,670,1,4,4,632,West,1 out of 5,Wagholi,Old,2,Garden,Freehold,2021-06-10,56280,84,Nicholson and Sons,No,Ready to Move,12,Row House,Sale
+2,8,5,2,1071,0,4,4,981,West,Ground,Wagholi,Old,1,Park,Leasehold,2020-10-23,160650,150,"Brown, Butler and Mueller",Yes,Ready to Move,8,Apartment,Rent
+0,4,5,2,1044,3,4,4,961,East,Ground,Viman Nagar,New,3,Park,Freehold,2021-11-16,156600,150,Mason and Sons,No,Under Construction,7,Apartment,Rent
+2,10,1,2,1088,0,3,3,1043,North,2 out of 10,Manjari,New,3,Main Road,Leasehold,2020-06-15,110976,102,Clarke-Norman,No,Under Construction,12,Row House,Rent
+0,9,3,2,466,0,3,3,419,North,2 out of 10,Alandi,New,2,Garden,Leasehold,2023-10-17,47998,103,Snyder-Olson,Yes,Ready to Move,3,Villa,Sale
+0,5,1,0,722,0,2,2,638,South,2 out of 10,Wagholi,Old,2,Park,Leasehold,2020-06-20,93138,129,Davies-Day,Yes,Under Construction,2,Villa,Sale
+0,0,3,1,1922,3,1,1,1832,East,Ground,Magarpatta,New,1,Main Road,Leasehold,2023-04-07,211420,110,Stewart Ltd,No,Under Construction,5,Villa,Sale
+1,0,3,1,1490,3,3,3,1417,North,Ground,Manjari,New,3,Garden,Leasehold,2025-04-05,153470,103,"Hall, Williams and Ayers",No,Under Construction,8,Apartment,Sale
+0,4,1,2,1206,3,3,3,1136,North,2 out of 10,Undri,New,2,Park,Leasehold,2021-07-03,118188,98,Evans Group,No,Under Construction,6,Apartment,Rent
+2,6,2,0,940,0,1,1,846,East,2 out of 10,Alandi,New,3,Main Road,Leasehold,2022-09-02,73320,78,Nguyen-Salas,Yes,Ready to Move,12,Apartment,Sale
+0,10,1,2,738,2,4,4,708,West,Ground,Bhekrai Nagar,New,3,Garden,Leasehold,2020-02-21,37638,51,"James, Bullock and Osborne",Yes,Under Construction,4,Row House,Sale
+1,0,5,1,621,1,1,1,558,North,2 out of 10,NIBM,New,3,Park,Leasehold,2021-10-10,63963,103,Wilson Ltd,No,Under Construction,1,Villa,Rent
+1,7,2,2,1829,1,1,1,1776,South,1 out of 5,NIBM,New,3,Garden,Freehold,2021-11-10,122543,67,Stewart-Lewis,No,Ready to Move,4,Apartment,Sale
+1,6,3,2,456,0,4,4,423,East,5 out of 12,Hadapsar,New,1,Park,Leasehold,2023-12-16,38304,84,Mcintosh and Sons,Yes,Ready to Move,1,Villa,Rent
+0,7,3,1,1997,0,1,1,1909,West,2 out of 10,Viman Nagar,Old,3,Main Road,Freehold,2024-07-31,183724,92,"Jackson, Price and Navarro",No,Under Construction,3,Row House,Rent
+0,5,2,0,1860,1,1,1,1833,North,5 out of 12,Kondhwa,Old,1,Garden,Leasehold,2022-12-22,143220,77,Cruz Group,No,Ready to Move,7,Villa,Sale
+2,4,2,2,1556,0,2,2,1482,West,1 out of 5,Dhomkeel,New,1,Main Road,Leasehold,2020-12-28,231844,149,Herrera-Combs,Yes,Under Construction,6,Row House,Rent
+2,7,5,0,535,0,2,2,437,South,5 out of 12,Wagholi,New,2,Garden,Freehold,2020-11-11,64200,120,Marshall Inc,Yes,Under Construction,1,Row House,Sale
+1,10,4,0,1402,2,2,2,1307,West,5 out of 12,Wagholi,New,1,Garden,Leasehold,2020-07-12,203290,145,Foster-Johnson,Yes,Ready to Move,11,Villa,Sale
+2,6,5,0,1676,0,1,1,1599,West,2 out of 10,Viman Nagar,Old,2,Main Road,Freehold,2025-01-12,202796,121,Perez-Morgan,No,Ready to Move,4,Row House,Rent
+1,9,4,0,1468,3,2,2,1444,South,Ground,Hadapsar,New,2,Park,Freehold,2021-12-02,170288,116,Dodson LLC,No,Under Construction,7,Villa,Sale
+1,5,4,0,1359,1,2,2,1265,West,2 out of 10,Kharadi,Old,1,Park,Freehold,2023-03-26,187542,138,Smith and Sons,No,Ready to Move,12,Apartment,Rent
+1,8,4,2,1589,1,4,4,1569,South,5 out of 12,Wagholi,Old,3,Main Road,Leasehold,2023-01-17,100107,63,"Walker, Morales and Fields",Yes,Ready to Move,10,Row House,Rent
+1,5,5,1,979,2,1,1,900,South,1 out of 5,Dhomkeel,New,3,Main Road,Leasehold,2022-11-01,58740,60,Watson Inc,No,Under Construction,1,Row House,Rent
+2,3,1,1,1866,2,3,3,1834,East,2 out of 10,Viman Nagar,New,1,Main Road,Freehold,2021-09-27,272436,146,"Smith, Blair and Davis",Yes,Ready to Move,8,Row House,Sale
+2,8,1,2,1247,2,2,2,1166,North,2 out of 10,Hadapsar,Old,1,Garden,Leasehold,2020-01-31,88537,71,Wiggins Ltd,Yes,Ready to Move,3,Villa,Sale
+0,4,1,1,778,2,3,3,726,East,Ground,Bhekrai Nagar,New,3,Main Road,Freehold,2022-08-19,50570,65,Colon Inc,Yes,Ready to Move,1,Row House,Sale
+0,7,3,1,946,3,3,3,921,North,5 out of 12,Magarpatta,Old,3,Main Road,Freehold,2022-05-22,77572,82,James-Wise,No,Under Construction,2,Apartment,Rent
+0,8,2,2,1439,1,2,2,1402,East,1 out of 5,Undri,New,3,Main Road,Freehold,2023-03-03,119437,83,Johnson and Sons,No,Ready to Move,3,Apartment,Rent
+2,1,4,2,1560,2,2,2,1510,North,5 out of 12,NIBM,New,1,Main Road,Leasehold,2024-11-29,87360,56,Bender-Wilson,Yes,Under Construction,7,Row House,Sale
+0,8,4,0,1441,0,4,4,1420,West,5 out of 12,Dhomkeel,New,2,Park,Leasehold,2022-11-05,165715,115,Barnett-Roberts,No,Under Construction,8,Apartment,Rent
+0,2,4,0,462,0,3,3,405,East,5 out of 12,NIBM,Old,3,Main Road,Leasehold,2020-08-18,62370,135,Henry Ltd,No,Under Construction,2,Apartment,Sale
+2,2,2,0,1893,0,1,1,1853,West,Ground,Hadapsar,New,1,Park,Freehold,2021-10-10,191193,101,"Shaw, Aguirre and Silva",Yes,Ready to Move,5,Apartment,Rent
+2,1,3,1,710,0,4,4,670,South,2 out of 10,Wagholi,New,1,Main Road,Leasehold,2020-09-16,38340,54,Kelly Inc,No,Under Construction,10,Row House,Sale
+0,6,2,0,1580,1,3,3,1549,South,5 out of 12,Magarpatta,Old,3,Park,Leasehold,2020-05-17,148520,94,"Greene, Parker and Hill",No,Ready to Move,8,Row House,Sale
+1,4,2,0,741,1,2,2,720,South,5 out of 12,Bhekrai Nagar,New,2,Garden,Freehold,2021-09-01,46683,63,"Wolfe, Brooks and Davila",No,Ready to Move,3,Apartment,Rent
+0,1,5,2,1417,3,1,1,1383,North,1 out of 5,Dhomkeel,Old,1,Garden,Freehold,2022-01-13,113360,80,Williams-Estes,Yes,Under Construction,3,Villa,Sale
+2,3,1,0,890,0,3,3,817,West,1 out of 5,Kharadi,New,3,Main Road,Leasehold,2021-10-20,133500,150,"Cunningham, Cruz and Hoffman",Yes,Under Construction,1,Villa,Sale
+0,1,4,1,654,2,2,2,610,East,2 out of 10,Bhekrai Nagar,New,3,Main Road,Freehold,2022-06-24,68016,104,Smith-Rodriguez,No,Ready to Move,3,Apartment,Rent
+2,7,1,0,1208,3,4,4,1153,East,Ground,NIBM,Old,1,Park,Leasehold,2022-01-14,83352,69,"Lawson, Davis and Thomas",No,Ready to Move,11,Villa,Rent
+0,5,1,1,733,0,1,1,680,East,2 out of 10,Undri,Old,3,Park,Leasehold,2023-04-11,63038,86,"Barnett, Gibson and Knight",No,Under Construction,1,Apartment,Sale
+1,2,2,2,1494,0,1,1,1451,East,5 out of 12,Hadapsar,Old,2,Park,Freehold,2024-05-22,221112,148,Schultz Group,No,Ready to Move,2,Row House,Sale
+2,9,2,1,543,3,2,2,498,West,1 out of 5,Dhomkeel,New,2,Park,Freehold,2021-07-13,52671,97,"Maddox, Ward and Wallace",No,Under Construction,2,Villa,Sale
+1,7,3,1,1478,3,1,1,1433,East,Ground,Wagholi,New,1,Main Road,Leasehold,2020-03-24,133020,90,"Edwards, Gilbert and Fitzgerald",No,Under Construction,6,Row House,Rent
+1,3,4,1,590,1,3,3,543,East,5 out of 12,Viman Nagar,Old,2,Garden,Freehold,2023-06-26,30680,52,Taylor and Sons,No,Under Construction,4,Row House,Rent
+2,0,1,2,1549,2,2,2,1522,West,5 out of 12,Alandi,New,1,Garden,Freehold,2024-07-06,171939,111,Fowler-Stevens,No,Ready to Move,9,Row House,Rent
+0,5,5,0,1179,3,2,2,1097,East,2 out of 10,Undri,New,2,Park,Freehold,2020-01-17,82530,70,"Gomez, Jackson and Castro",No,Ready to Move,3,Villa,Sale
+2,9,2,0,569,2,3,3,534,East,5 out of 12,Bhekrai Nagar,Old,1,Garden,Leasehold,2024-08-15,42675,75,Beck-Jenkins,Yes,Ready to Move,8,Apartment,Rent
+2,2,4,1,723,0,4,4,645,North,1 out of 5,Alandi,New,2,Garden,Leasehold,2020-09-27,61455,85,Martinez PLC,Yes,Ready to Move,3,Apartment,Sale
+0,2,5,2,1396,3,2,2,1304,West,5 out of 12,NIBM,Old,1,Park,Leasehold,2021-08-16,115868,83,"Kelly, Rodgers and Williams",No,Under Construction,3,Apartment,Sale
+2,7,2,1,1824,0,2,2,1788,North,1 out of 5,Kharadi,Old,3,Main Road,Freehold,2022-03-25,200640,110,Wilson-Tucker,Yes,Under Construction,9,Apartment,Rent
+2,7,3,2,1602,0,3,3,1560,North,1 out of 5,Hadapsar,New,2,Park,Freehold,2020-08-19,131364,82,Molina-Holmes,Yes,Ready to Move,4,Villa,Rent
+1,3,3,2,846,0,2,2,775,South,1 out of 5,Wagholi,Old,2,Main Road,Leasehold,2024-09-06,72756,86,Ramsey Group,Yes,Ready to Move,11,Apartment,Rent
+1,6,2,1,763,3,1,1,679,East,5 out of 12,Undri,Old,2,Main Road,Leasehold,2020-08-21,41965,55,"Anthony, Wright and Phillips",Yes,Ready to Move,1,Row House,Rent
+2,8,3,2,783,3,4,4,751,North,2 out of 10,Hadapsar,Old,2,Garden,Leasehold,2022-09-08,50895,65,King-Medina,No,Under Construction,11,Row House,Rent
+1,2,1,0,1943,2,3,3,1873,North,5 out of 12,Hadapsar,New,2,Main Road,Freehold,2022-10-18,182642,94,Lester Inc,No,Under Construction,1,Row House,Sale
+1,9,2,0,1237,1,3,3,1178,East,1 out of 5,Kharadi,New,2,Garden,Freehold,2022-01-17,150914,122,Dickerson-Taylor,No,Ready to Move,12,Villa,Sale
+2,1,4,1,1983,2,2,2,1954,South,2 out of 10,Viman Nagar,New,1,Main Road,Freehold,2021-11-02,228045,115,"Todd, Rodriguez and Liu",Yes,Under Construction,5,Apartment,Rent
+2,2,5,1,485,2,2,2,454,East,Ground,Kharadi,Old,3,Main Road,Leasehold,2023-12-24,26190,54,"Martinez, Munoz and Collins",No,Under Construction,6,Villa,Rent
+2,3,4,1,957,1,4,4,901,North,5 out of 12,NIBM,New,2,Main Road,Freehold,2022-10-27,104313,109,Mcdaniel-Brown,Yes,Ready to Move,1,Row House,Sale
+2,7,5,1,897,0,4,4,808,South,5 out of 12,Manjari,Old,2,Park,Freehold,2021-05-19,74451,83,Nelson Inc,No,Under Construction,5,Villa,Sale
+1,1,1,2,1437,2,4,4,1368,South,Ground,Bhekrai Nagar,New,3,Park,Leasehold,2022-11-20,215550,150,"Barnes, Smith and Reed",Yes,Under Construction,12,Row House,Rent
+1,3,2,2,966,3,2,2,922,East,Ground,Hadapsar,Old,2,Garden,Leasehold,2022-01-28,82110,85,Parker-Hansen,Yes,Ready to Move,2,Apartment,Rent
+0,5,1,0,1336,2,2,2,1254,West,5 out of 12,Manjari,New,3,Main Road,Freehold,2023-08-14,108216,81,Crawford Inc,No,Ready to Move,5,Row House,Sale
+2,1,4,0,988,0,4,4,893,North,Ground,NIBM,New,2,Garden,Leasehold,2023-11-23,59280,60,Ortega-Johnson,Yes,Under Construction,6,Villa,Sale
+0,1,1,2,810,3,1,1,724,South,2 out of 10,Hadapsar,New,2,Main Road,Freehold,2022-03-12,107730,133,King and Sons,Yes,Ready to Move,6,Apartment,Sale
+2,9,5,0,1387,3,1,1,1306,West,5 out of 12,Kharadi,New,2,Main Road,Freehold,2020-09-01,128991,93,"Barron, Mclean and Ortega",No,Ready to Move,10,Row House,Sale
+1,0,4,2,1096,3,2,2,1043,South,Ground,Wagholi,Old,1,Park,Freehold,2024-02-08,80008,73,Salinas-Jordan,No,Ready to Move,6,Row House,Rent
+2,1,2,2,640,3,3,3,559,North,1 out of 5,Undri,Old,2,Garden,Leasehold,2023-10-25,85760,134,Miller Group,No,Ready to Move,3,Villa,Rent
+2,4,4,0,935,2,1,1,898,West,1 out of 5,Manjari,New,1,Main Road,Freehold,2023-07-05,92565,99,"Fernandez, Miller and Liu",No,Ready to Move,5,Row House,Rent
+2,8,4,1,849,3,3,3,776,South,2 out of 10,Alandi,Old,1,Park,Leasehold,2024-01-13,78108,92,Black Ltd,Yes,Under Construction,9,Villa,Rent
+0,7,1,1,1838,0,4,4,1780,West,Ground,Undri,Old,2,Garden,Freehold,2022-07-07,124984,68,Carey-Fisher,No,Under Construction,9,Villa,Rent
+1,0,2,2,1315,2,4,4,1239,North,5 out of 12,Alandi,New,3,Main Road,Leasehold,2022-07-16,144650,110,"Horn, Figueroa and Chavez",Yes,Under Construction,12,Apartment,Rent
+1,0,4,0,540,2,1,1,453,South,1 out of 5,Manjari,New,3,Park,Freehold,2024-05-27,79920,148,Miller PLC,Yes,Under Construction,3,Row House,Rent
+0,6,2,1,1142,3,2,2,1045,East,1 out of 5,Undri,Old,1,Main Road,Freehold,2024-05-27,134756,118,"Morton, Page and Walsh",No,Under Construction,3,Row House,Sale
+2,9,3,2,535,3,3,3,485,North,1 out of 5,Hadapsar,Old,2,Park,Leasehold,2021-08-23,56710,106,Garcia Group,No,Ready to Move,9,Apartment,Sale
+1,0,1,2,1568,2,2,2,1477,West,5 out of 12,Kharadi,New,1,Main Road,Freehold,2022-05-28,87808,56,Hubbard and Sons,Yes,Under Construction,2,Villa,Rent
+1,6,4,2,907,0,2,2,837,North,2 out of 10,Alandi,New,3,Main Road,Leasehold,2023-02-28,69839,77,Perez-Werner,Yes,Under Construction,8,Apartment,Sale
+1,6,5,1,1113,2,1,1,1023,East,2 out of 10,Bhekrai Nagar,Old,1,Park,Leasehold,2024-07-31,158046,142,"Richardson, Rice and Francis",No,Under Construction,10,Villa,Rent
+0,4,3,0,974,1,3,3,913,North,Ground,Kondhwa,Old,2,Garden,Leasehold,2022-07-30,123698,127,Webster Inc,No,Ready to Move,9,Row House,Sale
+0,5,2,1,1977,0,4,4,1890,East,5 out of 12,Alandi,Old,2,Main Road,Leasehold,2022-03-27,181884,92,Humphrey-Brown,Yes,Ready to Move,11,Row House,Sale
+1,5,2,1,1511,1,3,3,1450,East,Ground,Magarpatta,New,3,Park,Freehold,2023-05-08,173765,115,Andrews LLC,No,Under Construction,4,Row House,Sale
+2,5,3,1,1832,2,4,4,1775,South,2 out of 10,NIBM,New,3,Park,Freehold,2021-04-05,146560,80,Ross Group,Yes,Ready to Move,6,Villa,Rent
+2,3,3,1,1481,3,2,2,1452,North,2 out of 10,Manjari,New,1,Park,Freehold,2023-06-30,93303,63,"Orozco, Watson and Cooper",No,Under Construction,2,Row House,Rent
+0,8,2,1,1900,1,2,2,1850,South,1 out of 5,Kondhwa,New,3,Park,Freehold,2022-04-25,138700,73,Smith-Taylor,Yes,Under Construction,1,Apartment,Rent
+0,1,5,1,591,1,3,3,558,South,1 out of 5,Kharadi,Old,3,Garden,Leasehold,2023-12-01,39597,67,"Morales, Davis and Mckinney",No,Under Construction,1,Villa,Sale
+0,0,1,2,903,1,2,2,803,West,1 out of 5,Hadapsar,Old,1,Main Road,Freehold,2021-09-13,104748,116,Smith PLC,Yes,Ready to Move,5,Villa,Sale
+1,2,4,2,1296,3,1,1,1266,North,5 out of 12,Kondhwa,New,2,Garden,Leasehold,2023-07-24,189216,146,"Simpson, Reyes and Ward",No,Under Construction,12,Villa,Rent
+0,8,2,0,1258,0,3,3,1234,South,Ground,Manjari,New,1,Main Road,Leasehold,2023-09-15,152218,121,"Baker, Berry and Robbins",Yes,Ready to Move,11,Row House,Rent
+0,2,2,2,1262,2,2,2,1165,West,1 out of 5,NIBM,New,2,Garden,Leasehold,2023-05-21,121152,96,Mccoy-Ritter,No,Ready to Move,6,Apartment,Rent
+1,9,5,0,1231,2,1,1,1152,West,1 out of 5,Kondhwa,Old,2,Main Road,Leasehold,2024-12-31,104635,85,Murphy and Sons,No,Under Construction,4,Villa,Sale
+0,5,4,1,1141,0,4,4,1108,East,Ground,Bhekrai Nagar,Old,3,Main Road,Leasehold,2023-11-28,139202,122,Thompson Inc,No,Ready to Move,10,Villa,Sale
+2,9,3,2,1447,3,1,1,1411,West,2 out of 10,Wagholi,Old,3,Main Road,Leasehold,2024-03-03,108525,75,Hinton LLC,Yes,Under Construction,11,Villa,Sale
+2,6,3,2,984,3,4,4,961,West,Ground,Alandi,Old,3,Garden,Leasehold,2020-10-28,108240,110,Butler Inc,No,Ready to Move,3,Apartment,Rent
+1,8,3,0,1874,3,1,1,1843,West,Ground,Alandi,New,2,Garden,Freehold,2022-12-02,271730,145,Acosta Ltd,Yes,Under Construction,6,Villa,Rent
+0,5,3,2,1219,2,1,1,1150,East,1 out of 5,Undri,New,1,Park,Leasehold,2024-07-30,60950,50,Walker-Hernandez,Yes,Ready to Move,4,Apartment,Sale
+0,10,4,0,1926,1,4,4,1890,North,2 out of 10,Undri,New,2,Garden,Freehold,2023-11-15,227268,118,"Johnson, Weiss and Gentry",No,Ready to Move,7,Apartment,Rent
+1,4,2,1,695,0,2,2,602,North,1 out of 5,Viman Nagar,Old,2,Garden,Leasehold,2024-05-24,47955,69,Robinson Group,Yes,Ready to Move,7,Apartment,Rent
+1,2,4,0,564,0,1,1,527,East,5 out of 12,Wagholi,New,3,Park,Freehold,2020-05-06,58656,104,Sanchez-Mcintyre,Yes,Ready to Move,6,Apartment,Rent
+1,10,4,1,1861,0,4,4,1809,East,1 out of 5,Hadapsar,Old,2,Main Road,Leasehold,2021-01-10,147019,79,"Davis, Nielsen and Bowers",No,Under Construction,9,Row House,Sale
+2,1,5,2,1465,3,4,4,1402,South,5 out of 12,Manjari,New,3,Garden,Leasehold,2025-02-03,83505,57,Rivera-Sanchez,No,Under Construction,9,Row House,Sale
+2,5,2,1,1759,3,1,1,1703,West,5 out of 12,NIBM,Old,3,Main Road,Leasehold,2021-10-27,133684,76,Cruz Ltd,Yes,Under Construction,5,Apartment,Sale
+2,3,1,2,1072,2,2,2,995,West,1 out of 5,NIBM,Old,3,Park,Freehold,2023-08-12,92192,86,"Cervantes, Santos and Molina",Yes,Under Construction,11,Villa,Rent
+0,7,2,1,935,3,4,4,908,East,Ground,Alandi,Old,1,Park,Freehold,2021-07-07,96305,103,"Woods, Martin and Martinez",Yes,Under Construction,7,Apartment,Rent
+2,2,4,2,1876,0,4,4,1793,East,Ground,Hadapsar,New,3,Garden,Freehold,2023-09-08,226996,121,Gutierrez-Herrera,Yes,Under Construction,12,Villa,Rent
+1,0,5,0,527,3,1,1,442,North,Ground,NIBM,New,3,Main Road,Freehold,2024-09-24,43741,83,Montgomery PLC,No,Ready to Move,3,Villa,Rent
+1,1,5,1,1307,3,1,1,1216,South,2 out of 10,Kondhwa,New,3,Main Road,Freehold,2021-05-10,111095,85,York and Sons,Yes,Under Construction,3,Row House,Sale
+2,10,2,2,786,1,1,1,734,West,2 out of 10,Magarpatta,Old,1,Garden,Freehold,2021-05-21,52662,67,Freeman PLC,Yes,Under Construction,10,Row House,Rent
+1,3,1,0,799,0,1,1,740,West,2 out of 10,Kondhwa,New,1,Main Road,Freehold,2022-08-08,114257,143,Casey-Mcneil,Yes,Ready to Move,9,Villa,Sale
+0,7,2,2,1947,2,1,1,1886,West,5 out of 12,Undri,New,3,Park,Freehold,2022-10-03,155760,80,White Group,Yes,Ready to Move,8,Apartment,Rent
+0,5,2,0,1104,2,1,1,1035,South,5 out of 12,Bhekrai Nagar,New,1,Garden,Freehold,2020-04-23,153456,139,Wiley Ltd,No,Under Construction,1,Row House,Sale
+1,4,2,0,611,2,3,3,537,West,Ground,Undri,Old,2,Garden,Freehold,2021-04-19,34827,57,"Salinas, Myers and Johns",Yes,Under Construction,4,Row House,Rent
+2,8,1,2,1581,2,3,3,1551,South,5 out of 12,Bhekrai Nagar,Old,3,Garden,Freehold,2020-09-08,109089,69,Dudley and Sons,No,Ready to Move,11,Apartment,Rent
+1,0,4,0,1368,1,1,1,1334,North,2 out of 10,Kondhwa,Old,2,Main Road,Freehold,2020-01-25,168264,123,Davis-Brown,No,Under Construction,1,Row House,Rent
+1,8,5,0,1976,1,2,2,1904,North,5 out of 12,Kondhwa,Old,3,Garden,Leasehold,2024-04-24,185744,94,Parsons Inc,No,Ready to Move,12,Row House,Rent
+2,7,1,1,1400,0,4,4,1357,West,5 out of 12,Manjari,New,3,Park,Leasehold,2023-11-18,158200,113,Mcdaniel-Smith,No,Under Construction,7,Row House,Rent
+2,5,2,0,959,3,2,2,890,West,Ground,Viman Nagar,Old,1,Park,Leasehold,2021-02-24,47950,50,"Rasmussen, Mosley and Wang",Yes,Under Construction,12,Villa,Sale
+0,0,4,1,1783,0,1,1,1685,North,1 out of 5,Alandi,Old,2,Park,Leasehold,2022-03-29,137291,77,Pitts-Holt,No,Ready to Move,7,Villa,Sale
+1,1,5,2,1489,3,1,1,1418,East,5 out of 12,Kharadi,Old,2,Garden,Leasehold,2024-09-26,218883,147,Hammond-Acosta,Yes,Ready to Move,2,Row House,Rent
+2,8,4,1,924,0,3,3,825,North,Ground,Undri,New,1,Garden,Leasehold,2022-05-21,97020,105,Jackson-Gonzalez,No,Ready to Move,4,Villa,Rent
+1,2,1,2,1356,3,2,2,1274,North,Ground,Wagholi,Old,3,Main Road,Leasehold,2024-01-30,73224,54,Carroll-Preston,No,Under Construction,9,Apartment,Sale
+0,1,5,0,1847,2,3,3,1806,South,Ground,Magarpatta,New,3,Garden,Leasehold,2025-01-17,206864,112,Gonzalez-Vega,No,Ready to Move,6,Row House,Rent
+1,0,3,1,1660,0,2,2,1603,South,1 out of 5,Manjari,Old,3,Park,Leasehold,2022-10-24,230740,139,Chandler Group,Yes,Under Construction,6,Villa,Sale
+0,8,5,0,1795,2,1,1,1738,East,2 out of 10,Dhomkeel,New,1,Main Road,Leasehold,2023-04-16,269250,150,"Delgado, Lopez and Carroll",Yes,Under Construction,11,Villa,Sale
+0,3,3,1,1871,3,2,2,1800,East,Ground,Viman Nagar,New,2,Main Road,Freehold,2022-05-26,232004,124,Rodriguez Group,Yes,Ready to Move,4,Villa,Rent
+1,4,4,1,1181,3,4,4,1135,North,1 out of 5,Alandi,Old,3,Main Road,Leasehold,2023-06-26,106290,90,Moran Group,No,Under Construction,5,Villa,Rent
+0,4,3,1,897,2,4,4,844,East,5 out of 12,Kondhwa,New,2,Park,Leasehold,2021-10-22,48438,54,"Turner, Diaz and Peck",Yes,Under Construction,8,Row House,Sale
+1,1,1,0,835,1,1,1,769,South,Ground,Wagholi,New,3,Main Road,Leasehold,2023-08-28,124415,149,Hodges Inc,Yes,Under Construction,5,Villa,Sale
+0,2,5,2,1316,2,4,4,1231,North,5 out of 12,NIBM,New,2,Main Road,Freehold,2024-03-11,115808,88,Rice-Little,No,Ready to Move,12,Villa,Sale
+2,8,2,0,1042,1,2,2,942,East,5 out of 12,Magarpatta,Old,3,Garden,Freehold,2020-01-01,69814,67,"Jones, Powell and Herman",Yes,Under Construction,4,Villa,Sale
+1,2,5,1,674,2,4,4,614,South,5 out of 12,Magarpatta,New,1,Garden,Leasehold,2023-12-24,82902,123,Garza-Herrera,Yes,Under Construction,7,Apartment,Rent
+2,3,4,0,1599,0,4,4,1543,North,1 out of 5,Kharadi,Old,2,Garden,Leasehold,2023-08-24,235053,147,"Hill, Perkins and Thomas",No,Under Construction,12,Row House,Rent
+2,2,1,2,1002,2,3,3,952,South,5 out of 12,Bhekrai Nagar,New,3,Garden,Freehold,2022-03-24,114228,114,Hart Ltd,Yes,Under Construction,7,Row House,Rent
+2,1,4,1,1576,2,4,4,1501,East,1 out of 5,Undri,Old,1,Main Road,Leasehold,2020-05-04,119776,76,Oneill-Steele,Yes,Under Construction,10,Apartment,Sale
+1,6,3,0,693,2,4,4,665,South,2 out of 10,Manjari,New,2,Main Road,Freehold,2023-10-22,53361,77,Sheppard LLC,Yes,Ready to Move,9,Row House,Rent
+0,7,5,2,657,2,1,1,561,South,2 out of 10,Viman Nagar,New,1,Main Road,Freehold,2020-08-23,68985,105,"Clark, Knight and Tran",Yes,Ready to Move,10,Row House,Rent
+0,1,4,1,787,3,1,1,741,West,1 out of 5,Bhekrai Nagar,New,3,Park,Leasehold,2022-06-29,49581,63,George and Sons,Yes,Under Construction,1,Villa,Sale
+2,4,1,2,1344,2,4,4,1310,North,5 out of 12,Alandi,New,2,Garden,Leasehold,2023-11-16,81984,61,James LLC,No,Ready to Move,11,Apartment,Sale
+0,5,3,0,1491,3,4,4,1440,South,2 out of 10,Bhekrai Nagar,Old,3,Main Road,Leasehold,2022-01-25,128226,86,"Stanton, Taylor and Blair",No,Under Construction,8,Villa,Rent
+1,4,3,0,1706,0,3,3,1648,South,2 out of 10,Manjari,Old,1,Garden,Leasehold,2020-01-31,228604,134,"Bean, Frederick and Taylor",Yes,Ready to Move,1,Row House,Sale
+2,1,4,2,1548,0,1,1,1461,South,2 out of 10,Hadapsar,New,3,Garden,Freehold,2021-03-15,164088,106,Gonzalez-Andrews,No,Ready to Move,3,Villa,Sale
+1,2,2,2,1657,0,2,2,1559,West,1 out of 5,NIBM,New,2,Garden,Leasehold,2020-11-30,135874,82,Garcia-Landry,No,Ready to Move,6,Row House,Sale
+0,4,4,0,787,2,1,1,751,North,5 out of 12,Dhomkeel,Old,1,Main Road,Leasehold,2024-08-23,46433,59,Flores-Herrera,Yes,Under Construction,10,Row House,Rent
+2,4,2,1,1961,1,4,4,1882,North,Ground,NIBM,New,3,Main Road,Freehold,2024-08-19,178451,91,Black-Robinson,Yes,Under Construction,6,Row House,Sale
+2,1,4,0,1256,0,1,1,1165,North,5 out of 12,Bhekrai Nagar,Old,2,Main Road,Freehold,2025-02-06,121832,97,Bryant Inc,No,Ready to Move,12,Villa,Rent
+1,10,3,1,1932,1,2,2,1878,West,2 out of 10,Kondhwa,Old,2,Park,Freehold,2020-01-20,181608,94,Perez-Wheeler,Yes,Under Construction,3,Row House,Sale
+0,2,3,1,1660,0,4,4,1567,West,Ground,Alandi,New,3,Park,Leasehold,2020-10-16,230740,139,"Becker, Olson and Smith",No,Ready to Move,2,Apartment,Rent
+1,10,1,0,823,1,2,2,731,West,2 out of 10,Wagholi,New,2,Garden,Leasehold,2023-11-10,63371,77,Williams-Choi,No,Ready to Move,9,Villa,Sale
+0,8,1,2,1216,0,4,4,1117,South,5 out of 12,Dhomkeel,New,1,Park,Freehold,2023-05-25,98496,81,Williams-Mills,No,Under Construction,2,Apartment,Sale
+1,10,2,2,1314,1,3,3,1244,West,2 out of 10,Manjari,New,2,Garden,Freehold,2024-04-16,90666,69,Lyons Group,Yes,Ready to Move,4,Row House,Rent
+1,1,2,1,745,3,2,2,672,North,1 out of 5,Manjari,Old,1,Main Road,Freehold,2024-08-27,59600,80,Kemp-Orr,Yes,Ready to Move,11,Apartment,Sale
+2,2,4,1,1623,1,1,1,1527,North,2 out of 10,Undri,New,1,Main Road,Leasehold,2024-01-21,207744,128,"Garcia, West and Johnson",No,Under Construction,3,Villa,Sale
+0,10,4,1,1228,0,1,1,1191,West,Ground,Kondhwa,New,1,Garden,Freehold,2024-03-11,162096,132,Villa-Macdonald,Yes,Ready to Move,10,Villa,Rent
+2,7,1,1,798,2,2,2,772,West,1 out of 5,Wagholi,Old,1,Garden,Leasehold,2023-06-19,92568,116,Gordon Ltd,Yes,Ready to Move,12,Row House,Rent
+2,7,1,2,1451,1,2,2,1421,East,1 out of 5,Viman Nagar,Old,2,Park,Leasehold,2023-08-23,120433,83,"Yang, Lopez and Powell",Yes,Ready to Move,2,Row House,Sale
+2,3,4,1,488,0,4,4,453,West,5 out of 12,Bhekrai Nagar,Old,2,Park,Freehold,2020-07-31,29280,60,Dixon-Jackson,Yes,Under Construction,11,Apartment,Rent
+0,1,5,2,1603,0,4,4,1505,West,1 out of 5,Wagholi,New,3,Main Road,Leasehold,2022-02-09,149079,93,"Delacruz, Clay and Young",No,Ready to Move,5,Row House,Sale
+0,1,5,1,976,0,3,3,898,North,5 out of 12,Viman Nagar,New,3,Main Road,Leasehold,2020-03-28,101504,104,Preston and Sons,Yes,Ready to Move,5,Villa,Rent
+2,5,3,0,1876,3,1,1,1776,West,1 out of 5,Bhekrai Nagar,Old,3,Garden,Freehold,2023-01-10,251384,134,"Matthews, Welch and Brady",No,Under Construction,5,Row House,Rent
+2,1,4,1,1838,1,1,1,1803,West,5 out of 12,Dhomkeel,Old,2,Park,Leasehold,2024-03-22,150716,82,Lewis LLC,No,Under Construction,7,Apartment,Rent
+1,6,2,0,1221,1,4,4,1131,East,1 out of 5,Bhekrai Nagar,New,3,Main Road,Freehold,2025-03-07,167277,137,Murray Inc,Yes,Ready to Move,1,Villa,Sale
+2,1,4,0,1403,3,1,1,1343,South,Ground,Kondhwa,Old,2,Garden,Freehold,2020-08-31,126270,90,Brown PLC,Yes,Ready to Move,2,Row House,Rent
+2,5,3,2,1721,1,3,3,1652,West,2 out of 10,Wagholi,New,2,Main Road,Freehold,2021-09-07,135959,79,Eaton-Stevenson,No,Under Construction,3,Apartment,Sale
+2,5,2,0,1483,1,2,2,1454,South,5 out of 12,Undri,Old,1,Main Road,Freehold,2020-03-15,170545,115,"Morris, Sellers and Jackson",No,Ready to Move,10,Row House,Rent
+0,7,5,1,1147,3,3,3,1083,South,5 out of 12,Alandi,Old,2,Garden,Leasehold,2020-06-25,147963,129,Rivera-Turner,Yes,Under Construction,9,Row House,Rent
+1,0,1,1,991,3,2,2,958,East,1 out of 5,Kondhwa,New,2,Park,Leasehold,2022-07-25,82253,83,Bradley-Hill,Yes,Under Construction,5,Villa,Rent
+0,8,5,0,1343,0,3,3,1261,East,1 out of 5,Magarpatta,New,3,Park,Freehold,2020-10-22,181305,135,Clayton-Thompson,Yes,Ready to Move,12,Row House,Rent
+1,1,4,1,1450,0,1,1,1429,South,1 out of 5,NIBM,Old,2,Park,Leasehold,2023-07-15,207350,143,Simpson LLC,No,Under Construction,8,Row House,Rent
+0,9,2,0,1520,3,2,2,1435,West,Ground,Bhekrai Nagar,New,1,Park,Freehold,2022-05-14,147440,97,Miller-Williams,No,Under Construction,9,Apartment,Rent
+2,4,1,0,1063,1,4,4,977,South,Ground,Bhekrai Nagar,Old,1,Garden,Freehold,2022-09-23,82914,78,Clark-Hernandez,No,Ready to Move,1,Apartment,Rent
+1,4,5,0,1710,2,3,3,1658,South,Ground,Bhekrai Nagar,Old,3,Park,Leasehold,2023-03-18,177840,104,Mendez PLC,Yes,Under Construction,5,Apartment,Sale
+0,0,4,0,781,3,4,4,758,West,5 out of 12,Alandi,Old,3,Park,Freehold,2022-06-21,85910,110,"Johnson, Parker and Medina",No,Ready to Move,5,Apartment,Sale
+2,1,1,1,1429,0,3,3,1376,North,5 out of 12,Dhomkeel,New,1,Park,Leasehold,2024-02-03,191486,134,Archer-Petersen,No,Under Construction,11,Villa,Rent
+0,6,2,0,1058,0,4,4,991,West,5 out of 12,Dhomkeel,New,3,Garden,Freehold,2021-07-14,53958,51,"Flores, Ruiz and Arnold",Yes,Under Construction,6,Villa,Rent
+0,9,2,1,1078,0,2,2,1030,East,1 out of 5,Viman Nagar,Old,2,Garden,Leasehold,2020-02-27,100254,93,"Lee, Foster and Nolan",Yes,Ready to Move,3,Row House,Rent
+2,6,4,1,1473,3,3,3,1383,East,5 out of 12,Hadapsar,Old,1,Main Road,Freehold,2020-08-11,147300,100,Brown Group,No,Under Construction,6,Villa,Rent
+2,6,3,2,1472,0,2,2,1399,East,2 out of 10,Bhekrai Nagar,New,1,Main Road,Leasehold,2020-03-03,138368,94,Morris-Booth,Yes,Under Construction,1,Apartment,Sale
+2,6,1,1,632,0,3,3,590,West,2 out of 10,Kharadi,Old,2,Park,Leasehold,2022-11-08,89744,142,Bailey Group,No,Ready to Move,10,Villa,Rent
+1,8,1,1,1023,1,3,3,969,West,2 out of 10,Undri,New,2,Garden,Leasehold,2021-11-23,71610,70,Larson-Henson,Yes,Under Construction,11,Row House,Sale
+1,2,2,2,1923,2,1,1,1838,East,Ground,Viman Nagar,New,1,Main Road,Leasehold,2024-11-30,136533,71,"Boyd, Moody and Young",No,Ready to Move,10,Villa,Sale
+0,7,2,2,1474,0,3,3,1438,East,5 out of 12,Wagholi,New,2,Main Road,Leasehold,2025-01-02,98758,67,Jones-Costa,Yes,Ready to Move,7,Apartment,Rent
+0,5,5,2,1422,1,1,1,1388,North,Ground,Hadapsar,Old,2,Garden,Freehold,2021-01-04,89586,63,Baker-Lopez,Yes,Under Construction,9,Apartment,Rent
+1,9,2,1,1508,0,1,1,1464,North,5 out of 12,Hadapsar,Old,2,Main Road,Leasehold,2020-05-11,117624,78,Morris Ltd,Yes,Under Construction,3,Apartment,Rent
+1,4,1,2,604,0,1,1,517,North,2 out of 10,Kondhwa,Old,2,Park,Leasehold,2021-10-25,88184,146,Williams-Martin,No,Ready to Move,6,Row House,Rent
+1,7,5,2,1602,0,2,2,1561,East,Ground,Kharadi,Old,1,Main Road,Leasehold,2023-08-11,197046,123,Henderson Group,Yes,Under Construction,3,Row House,Rent
+1,0,4,0,1458,1,3,3,1417,South,1 out of 5,Undri,Old,1,Garden,Leasehold,2025-02-13,179334,123,Mercado-Ramirez,Yes,Ready to Move,12,Row House,Sale
+2,0,2,2,1250,0,1,1,1182,West,5 out of 12,Dhomkeel,Old,2,Park,Leasehold,2022-11-15,123750,99,Nelson and Sons,No,Ready to Move,12,Villa,Sale
+1,2,4,0,699,3,4,4,668,West,1 out of 5,Alandi,Old,2,Park,Leasehold,2020-08-02,62211,89,Davis PLC,No,Ready to Move,7,Villa,Rent
+2,3,3,2,1834,3,1,1,1810,South,Ground,Wagholi,New,2,Main Road,Leasehold,2024-09-15,146720,80,Howard Group,Yes,Ready to Move,10,Row House,Rent
+2,6,5,2,606,3,3,3,527,East,1 out of 5,Hadapsar,Old,3,Main Road,Leasehold,2020-01-03,50298,83,Cooley-Noble,No,Under Construction,4,Row House,Sale
+0,3,1,1,927,0,1,1,853,West,2 out of 10,Bhekrai Nagar,Old,1,Main Road,Leasehold,2020-10-08,123291,133,Robinson-Cooper,Yes,Ready to Move,1,Apartment,Rent
+1,9,1,2,524,3,1,1,450,North,1 out of 5,Viman Nagar,New,2,Main Road,Freehold,2025-01-28,69692,133,"Barrett, Novak and Sutton",Yes,Under Construction,8,Villa,Rent
+0,0,3,1,1924,2,1,1,1861,West,1 out of 5,NIBM,Old,3,Garden,Freehold,2020-11-05,209716,109,"Fleming, Roberts and Marsh",No,Ready to Move,1,Row House,Rent
+1,6,2,1,679,1,1,1,593,North,1 out of 5,Manjari,New,2,Park,Freehold,2024-07-07,57715,85,Johnson-Booth,No,Under Construction,6,Villa,Sale
+0,8,3,2,833,2,1,1,755,North,2 out of 10,Bhekrai Nagar,New,1,Garden,Freehold,2022-12-03,59143,71,Willis Inc,No,Under Construction,10,Villa,Rent
+2,1,4,0,1267,3,4,4,1229,South,1 out of 5,Wagholi,Old,1,Park,Leasehold,2022-06-04,106428,84,Smith LLC,Yes,Ready to Move,4,Row House,Sale
+0,6,2,2,1512,1,3,3,1468,South,5 out of 12,Undri,Old,2,Garden,Freehold,2020-04-27,184464,122,Jensen-Johnson,Yes,Ready to Move,6,Row House,Sale
+0,9,1,2,1470,0,3,3,1382,West,Ground,Undri,Old,1,Garden,Leasehold,2021-07-28,154350,105,Santos PLC,No,Under Construction,3,Apartment,Sale
+2,3,1,0,1401,0,3,3,1321,North,Ground,Kondhwa,Old,2,Main Road,Leasehold,2020-06-20,163917,117,Washington Inc,No,Ready to Move,2,Villa,Rent
+2,10,5,0,1828,0,2,2,1756,North,5 out of 12,Alandi,Old,2,Garden,Leasehold,2024-12-28,237640,130,Scott-Hudson,No,Ready to Move,5,Apartment,Rent
+0,5,1,2,1062,0,3,3,1021,North,1 out of 5,Magarpatta,New,3,Garden,Leasehold,2021-07-26,83898,79,Mahoney-Rose,Yes,Under Construction,2,Apartment,Sale
+1,9,4,0,588,2,2,2,536,West,Ground,Kondhwa,Old,3,Park,Leasehold,2023-12-28,40572,69,"Hernandez, Valdez and Lane",No,Ready to Move,7,Apartment,Sale
+0,8,5,1,1036,3,3,3,965,South,2 out of 10,Kondhwa,New,3,Main Road,Leasehold,2021-07-17,82880,80,Cisneros Inc,No,Ready to Move,8,Villa,Rent
+0,8,1,1,1690,0,3,3,1599,North,1 out of 5,Kondhwa,New,1,Garden,Freehold,2023-07-23,116610,69,Castillo-Burton,Yes,Under Construction,9,Row House,Sale
+1,6,2,0,1421,3,1,1,1348,West,1 out of 5,Hadapsar,Old,3,Garden,Freehold,2022-10-04,191835,135,Evans and Sons,Yes,Ready to Move,7,Villa,Sale
+0,9,1,1,701,1,1,1,622,North,2 out of 10,Bhekrai Nagar,Old,1,Main Road,Leasehold,2024-05-15,80615,115,Brown PLC,Yes,Ready to Move,12,Villa,Rent
+0,4,3,1,1976,3,1,1,1902,East,1 out of 5,Alandi,Old,2,Main Road,Leasehold,2020-06-06,118560,60,Wade-Lewis,Yes,Under Construction,4,Apartment,Rent
+1,10,3,2,1811,2,1,1,1740,West,Ground,Undri,New,3,Park,Leasehold,2022-04-03,112282,62,"Hanson, Richardson and Phillips",No,Ready to Move,10,Apartment,Rent
+0,6,4,1,828,0,1,1,747,North,2 out of 10,Magarpatta,New,2,Park,Leasehold,2023-04-05,70380,85,Cortez Ltd,No,Ready to Move,7,Apartment,Rent
+1,9,1,2,510,1,2,2,462,South,1 out of 5,Hadapsar,Old,2,Main Road,Leasehold,2024-12-26,49470,97,Wagner-Stark,Yes,Under Construction,9,Row House,Sale
+1,6,5,1,1139,2,3,3,1086,West,Ground,Manjari,New,1,Park,Freehold,2020-06-08,161738,142,Bailey LLC,No,Under Construction,6,Apartment,Rent
+2,0,4,1,848,3,3,3,748,West,Ground,Magarpatta,Old,3,Park,Leasehold,2024-03-14,98368,116,"Garcia, Allen and Davidson",Yes,Under Construction,12,Apartment,Rent
+2,6,1,1,702,2,1,1,637,West,1 out of 5,Undri,New,3,Garden,Leasehold,2020-05-22,99684,142,"Harris, Lee and Goodwin",No,Under Construction,7,Row House,Rent
+0,9,1,0,977,1,4,4,937,South,1 out of 5,Hadapsar,New,3,Garden,Leasehold,2022-02-14,115286,118,"Mitchell, Young and Lindsey",Yes,Ready to Move,4,Apartment,Sale
+0,5,2,1,1698,1,4,4,1654,West,1 out of 5,Magarpatta,New,2,Garden,Leasehold,2021-08-18,137538,81,Thornton-Gamble,Yes,Under Construction,4,Villa,Sale
+2,3,1,2,958,1,1,1,858,North,5 out of 12,Dhomkeel,Old,3,Park,Freehold,2020-08-05,63228,66,Smith-Goodman,Yes,Under Construction,7,Villa,Rent
+2,9,5,1,1593,2,1,1,1554,West,Ground,Magarpatta,New,2,Main Road,Freehold,2024-09-23,195939,123,Huang-Briggs,No,Under Construction,12,Row House,Sale
+1,8,3,2,1937,0,3,3,1908,South,5 out of 12,Alandi,New,1,Park,Leasehold,2021-07-30,145275,75,"Moreno, Cobb and Yang",No,Ready to Move,7,Villa,Rent
+2,7,5,1,953,3,4,4,927,North,2 out of 10,Wagholi,New,1,Main Road,Freehold,2022-02-12,56227,59,"Nelson, Rivera and Allen",No,Ready to Move,7,Villa,Sale
+0,1,3,0,604,3,4,4,559,North,Ground,Manjari,Old,1,Park,Freehold,2023-08-21,62816,104,Sanchez-Newman,Yes,Ready to Move,7,Row House,Sale
+2,5,3,1,808,2,4,4,763,North,Ground,Undri,Old,2,Garden,Leasehold,2021-10-29,117160,145,Maldonado-Nunez,No,Ready to Move,3,Apartment,Rent
+2,7,4,0,517,2,2,2,478,West,5 out of 12,Magarpatta,New,2,Park,Freehold,2023-11-10,60489,117,Carroll Ltd,No,Ready to Move,4,Row House,Sale
+2,8,5,0,1232,0,2,2,1198,West,5 out of 12,NIBM,New,3,Garden,Freehold,2024-10-27,64064,52,Johnson PLC,No,Ready to Move,12,Row House,Rent
+0,8,4,0,486,2,3,3,430,West,2 out of 10,Bhekrai Nagar,New,3,Main Road,Freehold,2024-01-05,72414,149,Austin and Sons,Yes,Ready to Move,1,Apartment,Rent
+1,0,2,2,1173,3,1,1,1095,North,2 out of 10,Alandi,New,1,Garden,Leasehold,2021-07-18,157182,134,"Bowman, Huff and Davis",Yes,Ready to Move,3,Villa,Sale
+0,9,1,0,1752,0,2,2,1731,East,1 out of 5,Hadapsar,Old,3,Main Road,Freehold,2024-01-06,134904,77,"Jones, Browning and Cortez",Yes,Under Construction,11,Apartment,Sale
+2,2,3,1,685,3,4,4,651,South,5 out of 12,Alandi,New,2,Main Road,Leasehold,2020-12-16,95215,139,"Miller, Johnson and Parker",Yes,Ready to Move,10,Villa,Rent
+1,3,1,0,1471,0,1,1,1422,North,Ground,Dhomkeel,New,2,Main Road,Freehold,2025-01-06,100028,68,"Mullins, Jennings and Lawrence",Yes,Ready to Move,1,Apartment,Rent
+1,2,4,0,1688,1,4,4,1596,North,Ground,Hadapsar,Old,2,Garden,Leasehold,2020-01-24,96216,57,"Ross, Moore and Moore",No,Ready to Move,10,Row House,Rent
+1,8,4,1,922,3,4,4,883,North,2 out of 10,Manjari,Old,2,Main Road,Leasehold,2021-02-04,130924,142,Johnson Ltd,No,Ready to Move,7,Villa,Sale
+2,7,3,0,547,3,1,1,484,North,1 out of 5,Magarpatta,New,2,Main Road,Freehold,2022-08-25,27350,50,"Stevens, Riddle and Kim",No,Ready to Move,2,Apartment,Sale
+2,3,1,2,952,1,4,4,910,North,2 out of 10,Manjari,Old,2,Main Road,Freehold,2022-12-24,139944,147,Fuentes LLC,Yes,Ready to Move,9,Villa,Rent
+1,5,5,1,885,3,3,3,830,East,1 out of 5,Hadapsar,New,3,Garden,Leasehold,2022-06-21,119475,135,"Norris, Hernandez and Bennett",No,Under Construction,11,Row House,Rent
+0,10,5,0,1253,2,4,4,1194,East,2 out of 10,NIBM,New,2,Park,Freehold,2023-09-03,144095,115,"Henry, Moss and Cardenas",No,Under Construction,9,Apartment,Sale
+0,4,2,1,1606,2,4,4,1513,North,1 out of 5,Alandi,Old,1,Garden,Leasehold,2021-06-01,171842,107,Scott Inc,Yes,Under Construction,10,Row House,Rent
+1,7,1,1,1366,0,2,2,1321,South,Ground,Alandi,Old,2,Garden,Freehold,2024-07-04,143430,105,Goodwin Inc,Yes,Under Construction,9,Apartment,Sale
+1,10,2,2,641,1,2,2,573,East,2 out of 10,Dhomkeel,Old,2,Park,Freehold,2024-01-03,95509,149,Robinson-Smith,No,Ready to Move,7,Villa,Sale
+2,2,3,1,1302,1,1,1,1215,North,2 out of 10,Alandi,Old,2,Garden,Leasehold,2021-11-30,113274,87,Johnson-Lewis,No,Ready to Move,12,Villa,Rent
+1,9,3,2,1445,1,3,3,1396,West,1 out of 5,Dhomkeel,New,3,Garden,Freehold,2021-08-17,212415,147,"Young, Allen and Murphy",Yes,Ready to Move,8,Row House,Sale
+0,10,5,0,1997,1,1,1,1933,East,Ground,NIBM,Old,3,Garden,Freehold,2023-06-15,261607,131,Davis-Diaz,No,Ready to Move,10,Villa,Rent
+2,8,4,1,777,0,2,2,682,North,5 out of 12,Kondhwa,Old,2,Garden,Leasehold,2024-06-09,70707,91,Patton LLC,No,Ready to Move,11,Villa,Rent
+2,6,2,2,1720,0,1,1,1665,West,2 out of 10,Kharadi,New,1,Park,Freehold,2022-07-22,165120,96,Daniels-Powell,Yes,Under Construction,11,Apartment,Rent
+1,9,5,1,1301,3,2,2,1260,South,5 out of 12,Dhomkeel,New,2,Garden,Freehold,2020-04-14,152217,117,Smith Ltd,No,Ready to Move,7,Apartment,Sale
+1,5,5,2,1137,1,4,4,1044,East,5 out of 12,Wagholi,New,3,Park,Freehold,2024-03-31,109152,96,"Wilson, Macdonald and Glenn",No,Under Construction,7,Row House,Rent
+2,0,1,2,700,2,4,4,612,South,1 out of 5,Wagholi,New,1,Main Road,Leasehold,2025-03-18,89600,128,Reilly LLC,Yes,Ready to Move,9,Row House,Rent
+1,3,3,1,1328,1,3,3,1239,North,2 out of 10,Hadapsar,Old,1,Park,Freehold,2023-09-25,84992,64,Morales-Walton,No,Under Construction,9,Villa,Sale
+2,10,5,2,991,0,1,1,928,East,1 out of 5,Kondhwa,New,3,Main Road,Leasehold,2024-10-22,112974,114,Khan-Gallagher,Yes,Under Construction,9,Apartment,Sale
+1,5,4,2,1762,2,1,1,1717,North,5 out of 12,Alandi,Old,3,Garden,Leasehold,2025-03-18,209678,119,Hall-Mckinney,No,Under Construction,7,Row House,Sale
+2,7,4,2,1631,0,4,4,1560,East,Ground,Viman Nagar,Old,2,Park,Freehold,2021-02-15,164731,101,"Lopez, Williams and Castro",Yes,Ready to Move,1,Row House,Rent
+2,8,5,2,1600,0,2,2,1540,West,2 out of 10,Hadapsar,Old,2,Main Road,Leasehold,2024-07-08,238400,149,Hurst PLC,Yes,Ready to Move,6,Row House,Rent
+0,1,2,2,1987,0,2,2,1917,East,5 out of 12,Dhomkeel,New,3,Park,Freehold,2021-03-19,210622,106,Barber-Pierce,No,Under Construction,12,Row House,Rent
+1,2,1,0,1272,2,4,4,1195,North,2 out of 10,Bhekrai Nagar,New,1,Garden,Leasehold,2023-08-18,113208,89,Kirby and Sons,Yes,Ready to Move,1,Row House,Rent
+1,5,2,0,1853,1,4,4,1795,East,2 out of 10,Hadapsar,Old,1,Main Road,Leasehold,2025-01-05,259420,140,"Holloway, Silva and Anderson",No,Under Construction,1,Row House,Sale
+1,3,5,1,590,1,3,3,534,South,Ground,NIBM,New,2,Garden,Freehold,2022-10-09,34810,59,Taylor-Weber,Yes,Under Construction,5,Row House,Rent
+1,7,2,1,644,3,1,1,579,North,5 out of 12,Hadapsar,Old,1,Main Road,Leasehold,2024-09-12,63112,98,"Ellis, Olson and Velez",Yes,Ready to Move,10,Row House,Sale
+0,10,3,0,1507,3,1,1,1439,West,2 out of 10,Kharadi,Old,1,Garden,Freehold,2020-04-22,223036,148,"Mason, Carpenter and Olson",No,Ready to Move,9,Apartment,Rent
+1,5,4,2,1139,2,2,2,1107,West,2 out of 10,NIBM,New,1,Main Road,Leasehold,2022-05-06,144653,127,"Rodriguez, Ramirez and Gonzalez",No,Under Construction,3,Villa,Sale
+0,9,2,2,777,0,1,1,677,East,2 out of 10,Undri,New,2,Main Road,Leasehold,2020-07-21,113442,146,Ross Group,No,Under Construction,10,Villa,Sale
+2,8,5,0,1463,3,1,1,1393,East,Ground,Hadapsar,New,1,Garden,Leasehold,2021-12-28,181412,124,"Miller, Russell and Torres",No,Under Construction,9,Villa,Rent
+0,1,4,0,1702,3,1,1,1669,North,5 out of 12,Hadapsar,Old,2,Park,Leasehold,2023-03-05,114034,67,Turner-Lane,Yes,Under Construction,6,Apartment,Sale
+1,0,2,0,977,0,1,1,901,East,1 out of 5,Manjari,New,3,Park,Freehold,2024-05-31,112355,115,Norman and Sons,No,Ready to Move,4,Villa,Sale
+1,4,4,1,641,1,3,3,586,North,Ground,Manjari,New,1,Garden,Freehold,2020-10-02,34614,54,Perez and Sons,No,Ready to Move,2,Apartment,Rent
+2,10,3,0,1633,1,3,3,1564,East,1 out of 5,Kondhwa,New,1,Garden,Leasehold,2023-11-09,187795,115,"Wells, Mueller and Johnson",No,Under Construction,3,Villa,Rent
+0,5,2,0,581,0,1,1,490,East,2 out of 10,Kondhwa,New,2,Main Road,Freehold,2020-12-12,59843,103,Gillespie LLC,Yes,Ready to Move,2,Row House,Rent
+2,10,5,0,972,2,3,3,895,East,Ground,Hadapsar,New,3,Park,Freehold,2023-02-13,78732,81,Graham and Sons,No,Ready to Move,1,Villa,Sale
+0,2,3,0,1575,3,2,2,1517,South,2 out of 10,NIBM,New,2,Park,Leasehold,2020-01-14,155925,99,"Miller, Johnson and Martinez",No,Ready to Move,8,Apartment,Sale
+2,1,4,2,558,2,1,1,493,West,5 out of 12,Undri,Old,3,Park,Freehold,2020-11-24,58590,105,Fischer Ltd,Yes,Ready to Move,11,Apartment,Sale
+2,0,1,0,920,1,4,4,872,South,Ground,Dhomkeel,Old,2,Main Road,Freehold,2020-07-25,46920,51,Sanchez-Henson,No,Under Construction,4,Apartment,Rent
+2,1,4,2,1455,3,3,3,1409,North,5 out of 12,Viman Nagar,Old,2,Main Road,Leasehold,2022-03-23,152775,105,Gibson and Sons,No,Ready to Move,9,Villa,Sale
+2,9,3,1,1889,3,1,1,1833,North,2 out of 10,Viman Nagar,New,3,Main Road,Leasehold,2023-12-09,247459,131,Lewis-Robles,Yes,Under Construction,8,Apartment,Sale
+1,8,5,0,586,1,2,2,523,West,2 out of 10,Kharadi,New,1,Garden,Leasehold,2021-10-29,77938,133,Beck-Brown,No,Under Construction,6,Apartment,Sale
+2,10,3,0,487,2,3,3,404,North,Ground,Hadapsar,Old,2,Park,Leasehold,2020-04-27,29707,61,Lewis-Woods,Yes,Ready to Move,12,Apartment,Rent
+2,2,3,0,1837,0,2,2,1784,West,1 out of 5,Wagholi,New,2,Garden,Leasehold,2024-05-16,112057,61,"Curtis, Ruiz and Mcdowell",No,Ready to Move,9,Row House,Sale
+1,7,1,0,817,0,1,1,761,East,Ground,Magarpatta,New,3,Main Road,Leasehold,2020-01-17,96406,118,Martinez-Ramsey,No,Under Construction,7,Row House,Sale
+0,5,3,2,818,2,1,1,797,North,1 out of 5,Magarpatta,New,2,Garden,Leasehold,2022-08-21,48262,59,"Schroeder, Schneider and Mathis",Yes,Under Construction,10,Apartment,Sale
+1,5,5,2,577,3,2,2,503,North,Ground,Hadapsar,Old,3,Main Road,Leasehold,2021-12-24,56546,98,Williams Group,Yes,Under Construction,9,Apartment,Rent
+1,6,4,0,1095,2,3,3,1065,South,1 out of 5,Viman Nagar,New,3,Garden,Freehold,2021-03-17,112785,103,Gibson PLC,No,Under Construction,1,Apartment,Sale
+1,0,5,1,1636,0,1,1,1565,West,Ground,Viman Nagar,Old,2,Garden,Leasehold,2021-04-17,124336,76,Lopez and Sons,Yes,Ready to Move,1,Row House,Sale
+1,1,2,1,1764,1,3,3,1667,East,1 out of 5,Wagholi,Old,2,Park,Freehold,2021-05-03,156996,89,Burns-Lewis,Yes,Ready to Move,5,Row House,Rent
+2,10,5,2,1972,3,2,2,1925,East,1 out of 5,Hadapsar,Old,3,Park,Leasehold,2021-07-13,238612,121,Valentine-Mullins,No,Ready to Move,9,Villa,Sale
+2,2,3,2,1159,1,2,2,1060,South,5 out of 12,NIBM,New,1,Park,Leasehold,2020-08-02,101992,88,"Johnson, Andrews and Berg",Yes,Ready to Move,4,Apartment,Rent
+0,3,5,2,1269,1,3,3,1170,North,5 out of 12,Kharadi,Old,3,Main Road,Leasehold,2021-10-12,100251,79,"Atkins, Weber and Townsend",No,Ready to Move,2,Villa,Sale
+2,6,5,0,1941,2,1,1,1854,West,Ground,Manjari,Old,1,Garden,Leasehold,2020-02-18,196041,101,"Hart, Velez and Gutierrez",No,Ready to Move,8,Villa,Rent
+1,0,2,2,627,1,3,3,594,West,Ground,Manjari,Old,1,Main Road,Freehold,2023-10-21,73359,117,Robinson LLC,Yes,Under Construction,5,Row House,Rent
+2,6,5,2,1631,2,3,3,1594,East,1 out of 5,Viman Nagar,New,3,Garden,Leasehold,2023-10-26,203875,125,Williams-Grant,No,Ready to Move,11,Row House,Rent
+2,2,4,0,1869,3,1,1,1790,South,Ground,Undri,Old,3,Park,Leasehold,2024-01-18,228018,122,Marsh-Smith,No,Ready to Move,3,Row House,Sale
+1,8,5,1,993,3,2,2,965,North,Ground,Magarpatta,New,1,Garden,Freehold,2025-01-11,87384,88,Andrews-Barnett,No,Ready to Move,12,Villa,Rent
+2,7,5,2,1347,2,2,2,1306,South,Ground,Dhomkeel,New,3,Main Road,Freehold,2020-11-28,132006,98,"Wang, Oneal and Ortiz",Yes,Under Construction,7,Villa,Rent
+2,0,1,1,1367,1,4,4,1324,South,Ground,Magarpatta,Old,3,Garden,Leasehold,2022-04-22,128498,94,Bray-Wright,No,Under Construction,10,Apartment,Rent
+1,1,3,1,1175,0,3,3,1088,South,5 out of 12,Viman Nagar,Old,1,Garden,Leasehold,2022-11-11,144525,123,Vega-Morris,Yes,Under Construction,10,Villa,Rent
+2,8,2,0,1829,2,3,3,1796,West,2 out of 10,Dhomkeel,New,2,Main Road,Leasehold,2021-06-19,111569,61,Warren PLC,Yes,Ready to Move,2,Row House,Sale
+2,1,5,0,1260,1,1,1,1217,West,2 out of 10,Undri,Old,2,Park,Freehold,2022-02-10,156240,124,Wilson Group,No,Ready to Move,5,Villa,Sale
+1,7,2,1,1151,0,2,2,1098,East,Ground,Viman Nagar,New,2,Garden,Leasehold,2020-11-11,57550,50,Decker-Walker,Yes,Under Construction,8,Apartment,Sale
+1,5,2,2,1018,3,4,4,938,West,5 out of 12,Kharadi,Old,1,Garden,Leasehold,2025-02-05,67188,66,Henry-Robles,Yes,Under Construction,6,Row House,Rent
+1,0,5,2,789,1,2,2,722,North,5 out of 12,Wagholi,Old,3,Park,Leasehold,2022-12-18,100992,128,"Arnold, Ward and Buck",Yes,Under Construction,5,Villa,Sale
+0,9,2,0,768,1,4,4,739,East,2 out of 10,Undri,New,2,Main Road,Freehold,2022-01-23,113664,148,Smith Group,No,Ready to Move,2,Row House,Rent
+2,3,2,1,909,1,4,4,879,West,5 out of 12,Wagholi,Old,1,Main Road,Leasehold,2023-06-27,52722,58,"Garcia, Ward and Erickson",No,Ready to Move,1,Row House,Sale
+1,10,2,0,1010,2,2,2,974,South,1 out of 5,Magarpatta,New,2,Garden,Leasehold,2020-02-09,64640,64,Barrett and Sons,Yes,Ready to Move,10,Villa,Rent
+1,6,1,1,1637,0,4,4,1558,North,2 out of 10,Dhomkeel,Old,1,Garden,Freehold,2020-08-28,150604,92,"Strong, Montgomery and Thompson",Yes,Ready to Move,3,Villa,Rent
+1,7,4,1,1370,0,1,1,1328,South,5 out of 12,NIBM,Old,1,Garden,Freehold,2024-02-25,86310,63,"Hall, Robbins and Tucker",Yes,Ready to Move,7,Apartment,Sale
+1,10,3,0,1364,2,1,1,1317,West,2 out of 10,Viman Nagar,New,2,Garden,Freehold,2024-09-29,190960,140,Blankenship-Garcia,No,Under Construction,10,Villa,Sale
+2,6,2,2,940,1,1,1,894,North,Ground,Alandi,Old,3,Main Road,Leasehold,2022-02-26,80840,86,Griffin Ltd,No,Ready to Move,6,Villa,Rent
+0,6,2,0,1023,3,3,3,926,East,Ground,Dhomkeel,Old,1,Main Road,Leasehold,2020-06-07,142197,139,"Hartman, Bernard and Ross",Yes,Under Construction,9,Villa,Sale
+0,7,3,2,1091,0,2,2,1063,East,Ground,Viman Nagar,New,3,Park,Leasehold,2022-03-27,146194,134,Clark-Torres,No,Ready to Move,2,Apartment,Rent
+1,6,4,0,1389,1,2,2,1310,West,2 out of 10,Kharadi,New,1,Garden,Freehold,2024-11-20,118065,85,Riley-Goodman,Yes,Ready to Move,10,Row House,Sale
+2,3,1,0,1119,2,2,2,1042,North,1 out of 5,Magarpatta,Old,2,Park,Freehold,2023-05-06,126447,113,"Salazar, Cameron and Stone",Yes,Ready to Move,12,Apartment,Sale
+1,1,1,1,1065,3,3,3,1032,West,1 out of 5,Dhomkeel,New,1,Garden,Leasehold,2024-08-02,100110,94,Oliver PLC,No,Ready to Move,1,Row House,Sale
+0,7,2,2,1876,1,2,2,1852,North,Ground,Wagholi,Old,2,Park,Freehold,2022-06-01,106932,57,Jones Group,Yes,Under Construction,4,Villa,Rent
+1,6,2,0,1160,0,1,1,1082,North,2 out of 10,Kharadi,Old,1,Main Road,Leasehold,2024-07-10,62640,54,Watkins Ltd,Yes,Under Construction,12,Villa,Sale
+1,10,5,2,877,2,3,3,805,South,Ground,Hadapsar,New,3,Park,Freehold,2022-12-20,67529,77,Aguilar-Michael,No,Under Construction,11,Row House,Sale
+1,3,4,1,1550,2,4,4,1490,East,Ground,Kondhwa,Old,2,Main Road,Freehold,2024-05-09,230950,149,Clark and Sons,No,Under Construction,12,Row House,Sale
+0,4,1,2,1875,1,1,1,1844,West,Ground,Bhekrai Nagar,New,1,Main Road,Leasehold,2020-12-10,172500,92,Cummings-Martin,Yes,Under Construction,2,Apartment,Sale
+1,6,5,2,656,0,1,1,571,East,Ground,Bhekrai Nagar,Old,1,Park,Freehold,2024-01-18,73472,112,Simon Group,No,Ready to Move,12,Villa,Rent
+2,6,4,2,1378,3,3,3,1283,East,Ground,Manjari,Old,2,Park,Leasehold,2023-12-25,68900,50,Robles Inc,No,Under Construction,11,Apartment,Sale
+2,9,1,0,913,0,2,2,816,East,2 out of 10,Viman Nagar,Old,1,Garden,Leasehold,2025-01-27,56606,62,Sexton PLC,No,Ready to Move,8,Row House,Sale
+2,3,4,1,1013,1,1,1,956,North,1 out of 5,Magarpatta,New,2,Garden,Freehold,2021-11-24,115482,114,Costa and Sons,No,Ready to Move,12,Apartment,Rent
+0,0,5,2,1292,2,2,2,1207,West,1 out of 5,Magarpatta,Old,3,Park,Leasehold,2020-01-29,131784,102,"Lowe, Bennett and Bradley",No,Under Construction,7,Apartment,Rent
+2,4,1,1,900,2,2,2,848,East,1 out of 5,Viman Nagar,Old,3,Garden,Freehold,2022-09-10,90000,100,"Romero, Randall and Gibbs",Yes,Ready to Move,5,Apartment,Sale
+2,0,4,1,731,2,2,2,681,East,2 out of 10,Kharadi,New,2,Garden,Freehold,2021-10-01,78948,108,"Price, Moore and Ellison",No,Under Construction,1,Villa,Sale
+0,9,5,1,1558,1,2,2,1466,North,1 out of 5,Undri,Old,1,Park,Leasehold,2022-05-06,218120,140,Golden-Williams,Yes,Ready to Move,12,Villa,Rent
+1,6,2,2,1732,3,2,2,1636,West,5 out of 12,Alandi,New,1,Main Road,Freehold,2024-12-21,206108,119,Kerr PLC,Yes,Ready to Move,11,Row House,Sale
+0,3,1,0,1630,1,3,3,1550,East,5 out of 12,Dhomkeel,New,3,Garden,Freehold,2020-02-10,163000,100,"Wilson, Smith and Padilla",Yes,Under Construction,11,Apartment,Rent
+0,1,2,1,1437,3,3,3,1337,East,1 out of 5,Kondhwa,Old,2,Main Road,Freehold,2022-03-04,77598,54,Martinez-Mclaughlin,No,Under Construction,6,Row House,Sale
+0,7,5,2,820,3,2,2,732,East,5 out of 12,Alandi,New,2,Garden,Leasehold,2022-03-28,45100,55,Jones Group,Yes,Ready to Move,12,Apartment,Sale
+2,1,2,2,1432,0,4,4,1392,North,5 out of 12,Undri,New,2,Garden,Leasehold,2021-12-24,199048,139,"Carson, Acosta and English",Yes,Under Construction,9,Apartment,Sale
+0,0,5,2,1475,3,4,4,1449,West,Ground,Kondhwa,New,2,Main Road,Freehold,2022-02-14,213875,145,Austin-Baker,Yes,Under Construction,12,Villa,Rent
+1,10,1,1,1601,1,3,3,1506,East,5 out of 12,Dhomkeel,Old,3,Main Road,Freehold,2021-11-21,206529,129,Kelley Ltd,Yes,Ready to Move,7,Row House,Sale
+2,1,4,1,1405,3,3,3,1362,South,1 out of 5,NIBM,Old,2,Garden,Leasehold,2022-04-04,132070,94,Murphy-Ferrell,Yes,Under Construction,8,Apartment,Rent
+0,6,2,1,502,3,2,2,418,North,5 out of 12,Wagholi,New,1,Park,Leasehold,2023-12-23,50200,100,Wright-Stone,Yes,Ready to Move,8,Apartment,Sale
+1,2,1,2,1861,3,2,2,1762,East,2 out of 10,Kondhwa,Old,3,Garden,Leasehold,2023-01-10,225181,121,Murray-Richard,Yes,Under Construction,10,Row House,Sale
+2,6,4,2,715,1,1,1,686,South,Ground,Wagholi,Old,2,Park,Freehold,2023-10-22,86515,121,"Atkins, Davis and Mccoy",No,Under Construction,1,Villa,Sale
+0,8,3,2,1590,1,2,2,1533,South,Ground,NIBM,New,3,Main Road,Leasehold,2023-10-14,189210,119,"Kim, Guerrero and Jones",Yes,Under Construction,6,Villa,Rent
+0,4,2,2,906,0,4,4,869,South,2 out of 10,Kondhwa,New,3,Garden,Freehold,2024-03-27,77010,85,Potter Inc,Yes,Ready to Move,4,Villa,Sale
+2,2,3,2,919,3,1,1,890,East,1 out of 5,Undri,Old,3,Garden,Freehold,2024-05-13,102928,112,Kelly Inc,Yes,Under Construction,4,Villa,Sale
+1,4,1,0,1149,0,4,4,1072,South,Ground,Wagholi,Old,1,Garden,Freehold,2022-02-04,74685,65,Daugherty-Sloan,Yes,Ready to Move,9,Villa,Rent
+0,6,3,2,488,3,3,3,423,South,2 out of 10,Wagholi,New,1,Park,Leasehold,2021-08-16,65392,134,"Greene, Brown and Trevino",Yes,Under Construction,3,Row House,Sale
+0,8,2,2,1037,2,4,4,1008,West,2 out of 10,Viman Nagar,New,1,Main Road,Leasehold,2020-01-14,135847,131,Parrish and Sons,No,Under Construction,11,Row House,Rent
+1,1,3,1,637,1,1,1,571,North,1 out of 5,Bhekrai Nagar,New,3,Park,Freehold,2025-04-03,87906,138,Armstrong-Powell,No,Ready to Move,4,Apartment,Sale
+1,6,2,2,1054,0,4,4,981,South,1 out of 5,Wagholi,New,2,Main Road,Leasehold,2024-05-02,69564,66,Thompson-Adams,No,Ready to Move,6,Apartment,Rent
+2,7,1,0,840,1,2,2,763,East,2 out of 10,Manjari,New,3,Garden,Leasehold,2022-07-09,121800,145,Johnson and Sons,No,Under Construction,10,Row House,Sale
+1,6,3,2,535,1,4,4,444,North,1 out of 5,Bhekrai Nagar,Old,1,Park,Leasehold,2023-08-30,80250,150,Fuller-Humphrey,No,Ready to Move,10,Row House,Sale
+1,7,1,2,898,0,1,1,866,North,1 out of 5,Kondhwa,New,1,Garden,Freehold,2022-05-16,101474,113,Welch PLC,No,Under Construction,4,Row House,Sale
+1,4,2,1,631,3,3,3,547,North,1 out of 5,Kondhwa,New,3,Main Road,Freehold,2023-06-16,83923,133,Fry LLC,Yes,Under Construction,10,Villa,Sale
+0,4,5,0,830,1,2,2,771,West,5 out of 12,Kondhwa,New,1,Main Road,Leasehold,2024-03-24,59760,72,Wilson Group,No,Ready to Move,4,Apartment,Sale
+0,1,1,2,936,2,4,4,854,West,Ground,Kharadi,New,2,Park,Freehold,2020-09-23,128232,137,Clark and Sons,Yes,Ready to Move,9,Villa,Sale
+0,5,1,1,742,2,1,1,693,East,Ground,Kharadi,New,3,Main Road,Freehold,2020-01-07,64554,87,"Smith, Garrett and Kennedy",Yes,Ready to Move,9,Row House,Sale
+0,4,1,1,1138,0,4,4,1047,South,2 out of 10,Bhekrai Nagar,New,3,Park,Freehold,2020-12-05,87626,77,"Nichols, Perez and Houston",Yes,Under Construction,1,Row House,Rent
+1,3,3,2,1121,3,1,1,1045,South,5 out of 12,Alandi,New,2,Park,Freehold,2023-08-14,160303,143,"Burgess, Callahan and Howard",Yes,Under Construction,11,Apartment,Rent
+2,3,2,2,1124,1,2,2,1060,South,1 out of 5,Hadapsar,New,2,Garden,Freehold,2024-12-28,97788,87,Bentley Inc,Yes,Under Construction,9,Villa,Sale
+2,4,5,1,723,3,2,2,691,South,Ground,NIBM,New,1,Park,Leasehold,2023-02-21,104835,145,"Clark, Hull and Hines",No,Under Construction,1,Row House,Rent
+2,5,3,0,620,3,1,1,554,South,1 out of 5,Hadapsar,Old,2,Main Road,Freehold,2023-06-19,65100,105,Stafford-Vaughn,No,Ready to Move,8,Villa,Sale
+1,2,1,2,654,3,1,1,629,West,Ground,Viman Nagar,Old,2,Park,Leasehold,2022-05-30,52320,80,"Coleman, Daniels and Campbell",Yes,Ready to Move,5,Apartment,Sale
+2,4,5,0,1086,0,2,2,1031,South,Ground,Bhekrai Nagar,Old,1,Park,Freehold,2023-12-11,122718,113,Frost Group,No,Ready to Move,6,Apartment,Sale
+1,2,5,1,1105,2,2,2,1017,West,Ground,Manjari,New,1,Park,Freehold,2022-02-02,77350,70,Curry-Aguirre,No,Ready to Move,3,Row House,Sale
+0,7,1,0,1712,0,3,3,1621,West,1 out of 5,Kondhwa,New,2,Main Road,Freehold,2022-10-12,154080,90,Lowe-Cervantes,No,Under Construction,8,Row House,Sale
+1,0,3,0,1658,3,2,2,1610,West,Ground,Kondhwa,Old,3,Main Road,Freehold,2022-10-26,89532,54,"Stephens, Dennis and King",No,Under Construction,9,Villa,Rent
+0,10,5,1,1903,3,3,3,1818,North,Ground,Bhekrai Nagar,Old,3,Garden,Freehold,2021-08-26,209330,110,Gross-Moore,No,Ready to Move,2,Villa,Rent
+2,10,2,0,1722,3,2,2,1643,North,Ground,Kondhwa,New,3,Park,Leasehold,2024-03-09,173922,101,"Harmon, Haynes and Smith",No,Under Construction,3,Apartment,Rent
+1,10,2,0,1332,2,1,1,1298,South,5 out of 12,Wagholi,New,3,Main Road,Freehold,2020-07-24,186480,140,Johnson-Price,No,Under Construction,2,Row House,Rent
+2,9,4,2,1042,1,1,1,1011,East,Ground,Hadapsar,New,1,Garden,Freehold,2025-02-23,107326,103,Collins-Jones,Yes,Ready to Move,11,Apartment,Sale
+0,1,4,1,1108,2,3,3,1013,North,5 out of 12,Viman Nagar,Old,3,Garden,Leasehold,2022-04-26,135176,122,"Spears, Martin and Lambert",No,Under Construction,12,Villa,Rent
+0,8,5,1,878,1,4,4,787,South,5 out of 12,Bhekrai Nagar,Old,1,Garden,Freehold,2023-04-15,77264,88,"Klein, Gaines and Graham",Yes,Ready to Move,1,Row House,Rent
+0,10,3,0,1932,2,3,3,1864,West,1 out of 5,Undri,Old,1,Park,Freehold,2025-02-13,135240,70,Cook-Miranda,Yes,Under Construction,2,Villa,Rent
+1,5,3,0,1040,0,2,2,950,South,1 out of 5,Alandi,Old,2,Main Road,Leasehold,2024-08-14,68640,66,Jenkins-Washington,Yes,Ready to Move,3,Row House,Rent
+0,0,4,2,1044,0,1,1,968,South,1 out of 5,Bhekrai Nagar,New,3,Main Road,Freehold,2022-01-06,134676,129,"Green, Jones and Smith",No,Ready to Move,10,Apartment,Rent
+2,7,1,1,1331,2,4,4,1301,South,5 out of 12,Kondhwa,Old,3,Main Road,Leasehold,2024-06-15,175692,132,"Bowers, Vasquez and Fox",No,Ready to Move,5,Row House,Rent
+2,4,4,0,543,3,1,1,455,North,2 out of 10,NIBM,Old,2,Main Road,Leasehold,2024-08-04,32580,60,"Mccarthy, Johnson and Williams",Yes,Ready to Move,4,Villa,Sale
+1,4,5,1,502,1,2,2,444,West,Ground,Kharadi,New,2,Garden,Freehold,2024-07-09,55722,111,"Lynn, Rodriguez and Padilla",Yes,Ready to Move,4,Row House,Sale
+2,8,2,1,1649,2,3,3,1614,South,1 out of 5,Magarpatta,Old,1,Park,Leasehold,2022-07-09,179741,109,"Norman, Taylor and Maldonado",No,Under Construction,10,Row House,Rent
+0,0,4,2,974,0,1,1,944,South,5 out of 12,NIBM,Old,1,Park,Leasehold,2023-07-20,123698,127,Wilson LLC,Yes,Ready to Move,10,Apartment,Rent
+2,4,1,0,1732,2,4,4,1639,West,1 out of 5,Magarpatta,New,3,Garden,Leasehold,2022-08-14,109116,63,Brown-Avila,Yes,Ready to Move,3,Apartment,Sale
+0,0,2,1,1656,3,2,2,1630,South,5 out of 12,Dhomkeel,Old,2,Garden,Freehold,2021-07-26,198720,120,Reynolds-Gibson,No,Ready to Move,3,Apartment,Sale
+2,0,5,2,1547,0,1,1,1453,West,1 out of 5,NIBM,Old,2,Garden,Leasehold,2021-09-14,114478,74,Yang and Sons,Yes,Ready to Move,7,Row House,Sale
+0,10,5,1,1294,0,3,3,1262,South,Ground,Kharadi,New,2,Park,Freehold,2020-11-07,134576,104,Brown-Smith,Yes,Ready to Move,4,Row House,Rent
+2,4,2,0,1790,0,3,3,1714,East,1 out of 5,NIBM,New,2,Garden,Freehold,2021-08-17,232700,130,"Richardson, Martinez and Clark",No,Ready to Move,3,Apartment,Rent
+1,5,5,2,1872,2,3,3,1834,East,2 out of 10,Wagholi,Old,2,Garden,Leasehold,2024-04-25,138528,74,"Johnson, Alvarez and Murillo",No,Under Construction,8,Apartment,Rent
+2,7,1,1,886,2,3,3,829,North,Ground,Kharadi,Old,1,Park,Freehold,2023-11-25,71766,81,Baker-Carter,Yes,Under Construction,3,Row House,Rent
+1,0,4,0,700,2,3,3,652,North,1 out of 5,Bhekrai Nagar,Old,2,Park,Freehold,2021-09-25,45500,65,"Davis, King and Ross",Yes,Under Construction,1,Villa,Sale
+0,7,5,2,964,3,4,4,892,South,Ground,Manjari,New,1,Main Road,Leasehold,2020-11-04,143636,149,"Kelly, Gallegos and Blair",Yes,Under Construction,6,Apartment,Rent
+2,1,3,1,1370,1,3,3,1303,North,1 out of 5,Magarpatta,New,2,Park,Leasehold,2021-09-30,113710,83,Kelley PLC,No,Ready to Move,1,Villa,Sale
+2,6,4,2,1475,1,2,2,1420,South,2 out of 10,Dhomkeel,Old,3,Garden,Leasehold,2024-05-11,119475,81,Sanchez PLC,Yes,Under Construction,6,Apartment,Sale
+2,4,3,0,983,2,2,2,926,East,Ground,Viman Nagar,New,3,Garden,Leasehold,2023-11-10,136637,139,"Johnson, Odonnell and Roberts",Yes,Ready to Move,9,Villa,Sale
+1,5,1,1,645,1,3,3,596,North,2 out of 10,Undri,New,1,Main Road,Freehold,2022-08-22,32895,51,"Cox, Delacruz and Mcconnell",No,Under Construction,1,Apartment,Rent
+0,0,2,0,1748,0,1,1,1691,East,1 out of 5,Manjari,New,2,Main Road,Freehold,2022-02-07,187036,107,"Bates, Dunn and White",Yes,Under Construction,9,Villa,Rent
+0,0,1,1,971,3,1,1,905,West,2 out of 10,Viman Nagar,Old,2,Garden,Freehold,2021-11-21,125259,129,Woods-Boone,No,Under Construction,7,Row House,Rent
+0,3,3,0,1550,2,4,4,1471,North,5 out of 12,Hadapsar,Old,3,Main Road,Freehold,2020-05-03,116250,75,Castillo-Tran,No,Ready to Move,7,Row House,Rent
+1,1,5,1,1470,1,3,3,1441,North,1 out of 5,Dhomkeel,New,3,Main Road,Leasehold,2022-07-07,97020,66,Johnson-Lewis,Yes,Ready to Move,7,Apartment,Sale
+0,7,4,0,1889,0,3,3,1850,West,Ground,Manjari,Old,2,Main Road,Leasehold,2020-03-31,147342,78,Dixon LLC,Yes,Ready to Move,8,Apartment,Sale
+0,3,2,1,630,0,2,2,608,North,2 out of 10,Bhekrai Nagar,New,1,Garden,Leasehold,2022-08-18,65520,104,Freeman LLC,Yes,Under Construction,4,Villa,Rent
+1,2,1,0,1022,2,4,4,932,South,Ground,Dhomkeel,Old,1,Garden,Freehold,2020-01-14,111398,109,Coleman-Sanders,No,Ready to Move,4,Row House,Sale
+0,10,5,1,710,2,1,1,681,East,Ground,Kharadi,Old,2,Main Road,Freehold,2023-10-25,78810,111,Edwards PLC,Yes,Ready to Move,11,Apartment,Sale
+2,2,2,0,1096,3,1,1,1059,West,Ground,Wagholi,New,2,Main Road,Freehold,2023-07-30,97544,89,Davidson-Harris,Yes,Ready to Move,2,Apartment,Rent
+1,10,3,1,1131,0,4,4,1051,West,1 out of 5,Dhomkeel,New,3,Park,Freehold,2023-11-17,62205,55,Payne-Alexander,No,Under Construction,2,Row House,Rent
+0,10,1,0,1400,0,4,4,1354,North,Ground,Wagholi,New,1,Main Road,Freehold,2020-04-29,193200,138,Hall-Blackwell,Yes,Ready to Move,7,Row House,Sale
+1,1,3,2,1391,2,2,2,1371,West,2 out of 10,Alandi,Old,2,Park,Freehold,2020-10-27,70941,51,Boyd-Fernandez,Yes,Under Construction,8,Apartment,Rent
+1,5,2,0,1234,2,2,2,1213,West,5 out of 12,NIBM,Old,1,Main Road,Leasehold,2024-06-01,130804,106,"Oneill, Guerra and Smith",Yes,Under Construction,11,Row House,Sale
+0,9,2,0,952,3,2,2,872,East,Ground,Kondhwa,Old,2,Park,Leasehold,2024-07-18,128520,135,Gibson-Serrano,Yes,Under Construction,3,Row House,Sale
+1,5,2,0,1166,2,1,1,1129,West,2 out of 10,Kharadi,Old,2,Park,Freehold,2022-10-22,102608,88,Harris Ltd,Yes,Under Construction,7,Row House,Sale
+2,2,3,2,957,1,4,4,866,North,5 out of 12,Wagholi,Old,3,Garden,Leasehold,2020-09-25,54549,57,Murray-Ortiz,Yes,Ready to Move,3,Villa,Sale
+0,6,2,0,951,1,2,2,857,North,5 out of 12,Manjari,Old,2,Main Road,Freehold,2020-10-31,119826,126,Alvarez-Hale,Yes,Ready to Move,9,Villa,Sale
+0,7,4,1,1753,3,2,2,1732,East,Ground,Viman Nagar,New,2,Park,Freehold,2023-08-05,163029,93,James-Munoz,No,Under Construction,7,Apartment,Rent
+1,10,2,1,1613,1,1,1,1552,East,5 out of 12,Alandi,Old,3,Garden,Freehold,2025-04-06,114523,71,Jackson and Sons,No,Under Construction,7,Row House,Rent
+0,8,5,0,796,0,3,3,772,South,Ground,Viman Nagar,New,2,Main Road,Freehold,2024-11-21,103480,130,"Baker, Nelson and Ward",Yes,Under Construction,11,Row House,Sale
+0,1,5,2,1090,1,3,3,1009,South,1 out of 5,Alandi,New,3,Park,Leasehold,2025-02-16,95920,88,Matthews PLC,No,Ready to Move,10,Villa,Rent
+1,2,2,0,1531,1,3,3,1458,West,1 out of 5,Viman Nagar,Old,3,Main Road,Leasehold,2022-09-15,140852,92,Patterson-Johnson,Yes,Ready to Move,1,Row House,Sale
+1,7,4,0,1117,2,1,1,1096,West,2 out of 10,Magarpatta,Old,1,Park,Leasehold,2021-12-19,89360,80,Edwards and Sons,Yes,Ready to Move,4,Apartment,Rent
+0,10,3,2,1236,1,3,3,1166,North,5 out of 12,Kondhwa,New,2,Garden,Leasehold,2023-09-16,180456,146,Mcclain-Mayer,No,Under Construction,5,Row House,Sale
+2,7,1,1,759,0,4,4,662,North,1 out of 5,Hadapsar,Old,3,Park,Freehold,2023-01-15,56166,74,Conway-Valencia,No,Under Construction,10,Row House,Sale
+1,8,5,0,1920,3,2,2,1895,East,1 out of 5,Wagholi,New,1,Main Road,Leasehold,2023-08-29,216960,113,Wood PLC,Yes,Under Construction,4,Apartment,Sale
+1,1,4,0,1329,0,1,1,1261,West,5 out of 12,NIBM,New,1,Park,Leasehold,2022-01-17,123597,93,Keller LLC,No,Ready to Move,11,Apartment,Rent
+1,2,2,1,1187,3,1,1,1157,East,1 out of 5,Bhekrai Nagar,Old,3,Garden,Leasehold,2023-12-28,102082,86,Dudley Ltd,Yes,Ready to Move,2,Villa,Rent
+1,4,3,0,1595,2,4,4,1524,North,2 out of 10,NIBM,New,3,Garden,Freehold,2022-08-26,126005,79,Williams Group,Yes,Under Construction,10,Row House,Sale
+1,7,1,2,1302,2,2,2,1233,East,5 out of 12,Manjari,New,2,Garden,Freehold,2023-12-19,101556,78,Hall-Campbell,Yes,Under Construction,5,Villa,Sale
+1,0,5,0,1540,1,3,3,1507,West,2 out of 10,Magarpatta,Old,2,Main Road,Leasehold,2020-03-27,143220,93,"Werner, Reynolds and White",Yes,Under Construction,3,Villa,Rent
+2,1,1,0,986,2,4,4,891,South,Ground,NIBM,Old,1,Park,Freehold,2024-11-10,128180,130,"Oliver, Friedman and Reyes",No,Under Construction,1,Villa,Sale
+1,10,4,0,846,0,1,1,778,West,5 out of 12,Bhekrai Nagar,New,2,Garden,Freehold,2024-05-25,114210,135,Jimenez-Ryan,No,Under Construction,11,Apartment,Sale
+2,6,3,1,1610,0,3,3,1551,North,2 out of 10,NIBM,Old,2,Main Road,Freehold,2021-05-12,141680,88,Hull-Gordon,Yes,Under Construction,12,Row House,Sale
+2,4,1,1,1646,3,4,4,1549,West,1 out of 5,Manjari,New,3,Garden,Freehold,2021-08-08,131680,80,Bell Group,No,Ready to Move,5,Row House,Rent
+0,9,1,0,1349,0,1,1,1296,North,1 out of 5,Hadapsar,New,3,Park,Leasehold,2024-03-26,196954,146,"Kelly, Smith and Myers",No,Ready to Move,5,Villa,Sale
+0,10,3,2,559,2,4,4,514,North,5 out of 12,Magarpatta,New,3,Park,Freehold,2024-08-20,37453,67,"Kelley, Alexander and Watkins",No,Under Construction,9,Apartment,Sale
+2,9,4,2,711,0,4,4,635,South,1 out of 5,Manjari,Old,2,Main Road,Freehold,2022-03-06,88164,124,Oconnell PLC,No,Under Construction,5,Villa,Sale
+0,7,1,2,983,0,3,3,948,South,Ground,Bhekrai Nagar,Old,2,Garden,Leasehold,2024-06-19,63895,65,Fowler-Newman,Yes,Ready to Move,10,Apartment,Sale
+2,3,2,1,1411,3,3,3,1388,North,Ground,Bhekrai Nagar,New,1,Park,Leasehold,2021-06-03,134045,95,"Velasquez, Jones and Martin",Yes,Ready to Move,8,Row House,Rent
+1,10,5,0,809,0,3,3,744,East,2 out of 10,Bhekrai Nagar,New,1,Main Road,Freehold,2021-07-11,83327,103,Adams LLC,Yes,Under Construction,1,Apartment,Rent
+1,1,5,2,468,2,1,1,383,West,1 out of 5,Bhekrai Nagar,New,3,Park,Freehold,2022-12-12,29952,64,James-Murray,Yes,Ready to Move,7,Apartment,Sale
+0,9,2,2,483,0,1,1,388,East,2 out of 10,NIBM,New,3,Garden,Leasehold,2023-03-19,66171,137,"Evans, Adams and Mata",Yes,Ready to Move,1,Apartment,Sale
+0,0,3,1,1928,2,2,2,1880,North,2 out of 10,Bhekrai Nagar,Old,1,Park,Freehold,2024-08-22,248712,129,Carson-Johnston,No,Ready to Move,9,Row House,Sale
+2,6,1,2,1142,2,3,3,1116,East,5 out of 12,Bhekrai Nagar,Old,1,Park,Freehold,2024-09-24,151886,133,Ford-Ortega,Yes,Under Construction,1,Villa,Rent
+1,4,2,2,1401,0,2,2,1345,North,2 out of 10,Bhekrai Nagar,New,2,Garden,Freehold,2023-05-04,91065,65,Waters-Garcia,Yes,Under Construction,2,Villa,Sale
+2,7,3,1,1377,3,4,4,1308,West,Ground,Magarpatta,New,3,Garden,Freehold,2024-11-21,126684,92,Fleming-Franklin,No,Ready to Move,6,Villa,Rent
+1,10,4,1,1234,3,2,2,1195,North,Ground,Bhekrai Nagar,New,2,Main Road,Freehold,2023-09-05,119698,97,Flores-Christensen,Yes,Ready to Move,5,Villa,Rent
+2,10,4,0,1927,0,1,1,1871,East,Ground,Wagholi,New,3,Garden,Freehold,2022-05-25,148379,77,Jones-Garcia,No,Ready to Move,10,Villa,Sale
+2,0,4,2,715,0,4,4,677,West,Ground,Manjari,New,2,Park,Leasehold,2022-05-21,55055,77,"Carter, Randall and Stephenson",No,Under Construction,12,Apartment,Rent
+0,3,3,1,1821,1,2,2,1749,North,5 out of 12,Dhomkeel,New,3,Park,Freehold,2024-07-19,118365,65,"Williams, Williams and Sims",Yes,Ready to Move,12,Row House,Rent
+0,3,1,1,823,2,3,3,744,South,5 out of 12,Wagholi,New,3,Main Road,Freehold,2024-09-03,86415,105,"Byrd, Harris and Alexander",Yes,Under Construction,6,Villa,Rent
+1,6,2,0,1505,3,2,2,1455,East,1 out of 5,Undri,New,2,Main Road,Leasehold,2024-12-03,94815,63,Hernandez and Sons,No,Ready to Move,3,Row House,Rent
+1,2,1,2,1148,1,2,2,1127,East,5 out of 12,Kondhwa,Old,1,Park,Leasehold,2023-06-23,146944,128,Martin PLC,Yes,Ready to Move,10,Row House,Rent
+2,6,3,0,777,2,2,2,701,North,Ground,Undri,Old,1,Garden,Leasehold,2023-09-19,66822,86,"Michael, Brown and Jones",Yes,Ready to Move,3,Apartment,Sale
+2,8,3,0,1460,2,1,1,1417,West,5 out of 12,Alandi,New,1,Main Road,Leasehold,2022-01-22,159140,109,Parker Group,No,Under Construction,1,Row House,Rent
+0,10,3,1,1018,3,3,3,927,West,5 out of 12,Manjari,New,1,Main Road,Freehold,2021-06-13,103836,102,Harris Inc,Yes,Under Construction,6,Villa,Sale
+0,6,5,1,1243,1,1,1,1153,West,Ground,Kharadi,Old,2,Garden,Leasehold,2023-06-28,180235,145,Williams-Gomez,No,Ready to Move,3,Villa,Sale
+2,3,5,0,1529,2,4,4,1448,West,2 out of 10,Kharadi,New,1,Garden,Leasehold,2024-05-12,220176,144,Brown PLC,No,Ready to Move,12,Apartment,Rent
+0,0,1,1,1181,2,2,2,1113,West,Ground,Hadapsar,New,2,Park,Leasehold,2022-03-22,153530,130,"Harvey, Woods and Rivers",No,Ready to Move,10,Row House,Sale
+2,3,2,1,1330,2,3,3,1297,South,Ground,Kharadi,Old,2,Garden,Freehold,2022-08-09,188860,142,"Jefferson, Galloway and Bennett",No,Under Construction,8,Villa,Sale
+1,3,2,2,1872,2,1,1,1785,South,5 out of 12,Undri,Old,3,Main Road,Freehold,2021-08-22,159120,85,Smith and Sons,Yes,Ready to Move,9,Row House,Rent
+0,4,3,0,910,1,3,3,879,South,Ground,Kondhwa,New,3,Garden,Leasehold,2020-08-13,88270,97,"Bell, Anderson and Brown",Yes,Under Construction,9,Villa,Rent
+2,7,2,2,1684,1,1,1,1593,East,5 out of 12,Dhomkeel,Old,2,Main Road,Freehold,2022-03-13,84200,50,Cervantes LLC,No,Under Construction,3,Row House,Rent
+1,4,4,0,852,0,4,4,831,South,Ground,Magarpatta,New,3,Park,Leasehold,2021-12-12,42600,50,"Smith, Edwards and Fisher",No,Ready to Move,9,Villa,Rent
+1,7,3,2,1521,3,1,1,1482,South,5 out of 12,Viman Nagar,New,1,Park,Leasehold,2021-08-10,190125,125,Rivers LLC,No,Under Construction,5,Villa,Rent
+1,0,1,1,1379,3,1,1,1291,West,2 out of 10,Viman Nagar,New,1,Main Road,Leasehold,2023-05-23,84119,61,Summers Ltd,Yes,Ready to Move,10,Apartment,Sale
+2,6,1,0,680,0,2,2,656,North,2 out of 10,Dhomkeel,Old,3,Park,Leasehold,2021-12-09,57120,84,Anderson-Roberts,Yes,Under Construction,10,Apartment,Sale
+1,1,1,2,1174,1,1,1,1122,East,2 out of 10,Kondhwa,Old,3,Main Road,Freehold,2022-02-24,111530,95,Wood Inc,No,Ready to Move,7,Villa,Sale
+1,1,3,0,1408,1,4,4,1366,West,2 out of 10,Dhomkeel,Old,3,Park,Freehold,2024-04-26,194304,138,Schroeder Ltd,Yes,Ready to Move,9,Villa,Rent
+2,8,4,0,587,1,2,2,531,West,2 out of 10,Magarpatta,New,3,Park,Leasehold,2020-11-13,81006,138,"Bennett, Keller and Brewer",Yes,Ready to Move,8,Villa,Sale
+0,10,4,2,751,2,2,2,688,East,5 out of 12,Kondhwa,Old,3,Garden,Leasehold,2023-02-09,43558,58,"Johnson, Lowery and Terry",Yes,Under Construction,5,Row House,Rent
+2,1,3,1,1370,2,1,1,1302,South,1 out of 5,Hadapsar,Old,3,Garden,Freehold,2023-03-18,187690,137,"Cruz, Brooks and Huff",No,Under Construction,10,Row House,Rent
+2,4,3,2,712,2,3,3,688,North,2 out of 10,Dhomkeel,Old,1,Main Road,Leasehold,2023-06-20,86152,121,Miller-Cruz,Yes,Ready to Move,12,Row House,Sale
+0,6,3,2,545,1,4,4,501,North,5 out of 12,Wagholi,Old,3,Main Road,Leasehold,2022-01-10,41965,77,Pittman-Hart,No,Ready to Move,3,Row House,Sale
+0,1,5,0,1640,1,4,4,1605,South,2 out of 10,Undri,New,2,Garden,Freehold,2022-07-26,136120,83,Watson Inc,No,Under Construction,12,Apartment,Sale
+0,10,3,0,1593,1,2,2,1558,North,1 out of 5,Magarpatta,Old,2,Garden,Freehold,2024-03-09,230985,145,Morris and Sons,No,Under Construction,10,Villa,Sale
+2,8,2,0,1235,1,3,3,1139,East,2 out of 10,Alandi,New,1,Park,Freehold,2024-03-28,154375,125,"Marshall, Harrison and Garcia",No,Ready to Move,10,Apartment,Sale
+0,1,1,1,1155,0,1,1,1096,North,5 out of 12,Kondhwa,Old,3,Garden,Leasehold,2023-02-15,124740,108,"Wright, Byrd and Hutchinson",Yes,Ready to Move,9,Villa,Rent
+2,10,3,2,1167,1,1,1,1133,West,5 out of 12,Magarpatta,Old,1,Main Road,Freehold,2023-12-22,163380,140,"Rodriguez, Bartlett and Foster",Yes,Ready to Move,6,Row House,Sale
+1,0,1,0,1012,3,4,4,958,North,2 out of 10,Kharadi,Old,1,Garden,Freehold,2022-06-20,140668,139,Nunez-Ramirez,No,Under Construction,6,Apartment,Sale
+2,8,4,1,608,2,3,3,516,North,2 out of 10,Viman Nagar,Old,2,Park,Freehold,2021-03-20,72960,120,"Cooke, Ward and Martin",Yes,Ready to Move,11,Villa,Rent
+0,5,1,2,1889,3,2,2,1816,North,1 out of 5,Hadapsar,Old,2,Park,Leasehold,2024-07-12,134119,71,Roth LLC,No,Ready to Move,11,Villa,Rent
+1,8,1,1,1131,2,4,4,1111,South,Ground,Magarpatta,New,2,Main Road,Freehold,2020-03-18,127803,113,"Ward, Coleman and Robinson",No,Ready to Move,9,Villa,Sale
+0,0,3,1,885,0,3,3,786,North,5 out of 12,Wagholi,Old,3,Garden,Leasehold,2025-01-10,45135,51,Williams and Sons,No,Under Construction,7,Row House,Sale
+2,4,5,1,845,3,4,4,781,East,5 out of 12,Dhomkeel,New,1,Garden,Freehold,2023-02-16,56615,67,Jenkins-Jimenez,Yes,Ready to Move,7,Villa,Sale
+0,6,2,1,574,3,2,2,499,North,1 out of 5,Manjari,New,1,Park,Freehold,2023-03-10,47642,83,"Snyder, Knapp and Cox",Yes,Ready to Move,3,Apartment,Rent
+0,3,3,0,1184,1,3,3,1100,South,1 out of 5,Viman Nagar,Old,1,Main Road,Leasehold,2020-11-30,61568,52,Vega and Sons,Yes,Under Construction,6,Villa,Sale
+0,9,1,1,1272,2,2,2,1226,West,2 out of 10,Hadapsar,New,2,Garden,Freehold,2024-12-12,87768,69,Harrell Group,No,Under Construction,5,Apartment,Rent
+2,7,4,0,746,2,2,2,694,North,5 out of 12,Manjari,New,1,Garden,Freehold,2020-09-13,37300,50,Mccullough Inc,Yes,Under Construction,10,Villa,Rent
+0,4,5,1,885,0,3,3,838,North,2 out of 10,Bhekrai Nagar,New,3,Garden,Freehold,2023-07-11,76995,87,Davis PLC,No,Under Construction,7,Apartment,Rent
+2,8,4,2,1204,3,3,3,1129,East,2 out of 10,Manjari,Old,3,Main Road,Leasehold,2023-01-19,110768,92,Newman-Burch,No,Ready to Move,9,Apartment,Rent
+2,10,4,0,1159,0,1,1,1128,North,1 out of 5,Kondhwa,New,2,Park,Leasehold,2021-05-27,140239,121,"Hutchinson, Fisher and Richardson",No,Ready to Move,5,Row House,Sale
+2,3,5,0,732,2,3,3,705,West,5 out of 12,Kharadi,New,2,Main Road,Leasehold,2021-04-07,97356,133,"Turner, Johnson and Miller",Yes,Ready to Move,8,Row House,Rent
+1,10,4,2,785,1,1,1,763,East,5 out of 12,Kharadi,New,3,Park,Leasehold,2021-04-08,88705,113,"Escobar, Roberts and Rodriguez",No,Under Construction,11,Villa,Rent
+1,0,3,2,1000,2,1,1,947,East,Ground,Kharadi,Old,3,Park,Leasehold,2024-04-13,88000,88,"Benton, Carter and Lucero",Yes,Ready to Move,4,Row House,Sale
+1,6,3,0,1037,0,3,3,966,North,2 out of 10,Undri,New,3,Main Road,Freehold,2021-04-02,90219,87,Copeland Inc,Yes,Under Construction,12,Villa,Sale
+2,9,5,0,1296,0,1,1,1263,West,1 out of 5,Kharadi,Old,3,Main Road,Freehold,2025-04-02,104976,81,Miller-Lopez,Yes,Under Construction,6,Apartment,Rent
+1,8,2,2,1894,0,4,4,1841,East,2 out of 10,Bhekrai Nagar,Old,2,Park,Freehold,2020-01-06,162884,86,"Ramirez, Whitaker and Conway",Yes,Ready to Move,9,Villa,Rent
+2,1,5,1,1513,0,2,2,1465,South,2 out of 10,Magarpatta,Old,2,Main Road,Leasehold,2025-01-08,124066,82,Baker PLC,Yes,Under Construction,6,Apartment,Sale
+0,8,5,1,477,1,2,2,442,East,5 out of 12,Hadapsar,New,1,Park,Leasehold,2022-01-04,67734,142,Jenkins Group,Yes,Under Construction,3,Row House,Rent
+0,5,5,1,1265,0,1,1,1184,West,5 out of 12,Undri,Old,1,Main Road,Freehold,2020-05-06,122705,97,Weber-Williams,No,Under Construction,7,Row House,Sale
+2,2,5,1,1198,1,2,2,1121,South,Ground,Alandi,New,1,Main Road,Freehold,2023-10-26,97038,81,Castillo and Sons,Yes,Under Construction,10,Row House,Rent
+1,0,1,1,1733,0,3,3,1647,North,1 out of 5,Dhomkeel,Old,2,Garden,Freehold,2021-09-11,251285,145,"Davis, Flowers and Anderson",No,Under Construction,11,Row House,Rent
+1,1,5,0,1559,1,2,2,1485,South,Ground,Viman Nagar,Old,2,Park,Leasehold,2021-09-26,113807,73,Cook-Sweeney,No,Ready to Move,12,Villa,Sale
+1,4,4,2,1810,0,2,2,1779,North,5 out of 12,NIBM,Old,1,Main Road,Leasehold,2025-01-06,257020,142,Burnett Ltd,No,Ready to Move,3,Apartment,Rent
+2,6,1,2,1490,0,2,2,1421,North,2 out of 10,Kharadi,New,3,Main Road,Freehold,2021-03-22,166880,112,"Wright, Anderson and Jackson",Yes,Ready to Move,11,Row House,Sale
+1,0,1,0,1368,2,3,3,1338,North,1 out of 5,Kondhwa,Old,3,Main Road,Freehold,2025-03-26,146376,107,Smith and Sons,No,Ready to Move,5,Villa,Rent
+2,8,3,0,1941,2,2,2,1916,East,5 out of 12,Viman Nagar,Old,1,Main Road,Freehold,2023-11-23,236802,122,Webster-Miller,Yes,Under Construction,9,Villa,Sale
+1,1,3,2,1856,0,3,3,1835,West,5 out of 12,Alandi,New,2,Garden,Freehold,2023-01-04,196736,106,Bryant Group,Yes,Under Construction,2,Row House,Rent
+0,8,3,0,611,1,4,4,545,East,1 out of 5,Manjari,Old,3,Park,Leasehold,2024-08-29,40326,66,Thomas-Martin,No,Under Construction,4,Apartment,Rent
+0,7,1,0,1598,1,3,3,1513,South,Ground,Bhekrai Nagar,Old,2,Park,Leasehold,2022-03-17,142222,89,Johnson and Sons,No,Under Construction,8,Villa,Rent
+0,1,4,2,1271,3,3,3,1212,South,5 out of 12,Undri,Old,2,Main Road,Leasehold,2021-03-01,179211,141,Kim Group,Yes,Under Construction,7,Row House,Sale
+0,4,2,1,1163,1,1,1,1066,North,Ground,Bhekrai Nagar,New,2,Main Road,Freehold,2021-10-19,116300,100,Allen-Torres,No,Ready to Move,11,Villa,Rent
+1,8,5,1,1747,2,1,1,1706,East,5 out of 12,Undri,New,1,Garden,Leasehold,2021-05-15,249821,143,"Douglas, Reed and Mckenzie",No,Ready to Move,4,Apartment,Rent
+1,3,1,2,477,1,4,4,399,East,5 out of 12,Kondhwa,New,3,Main Road,Leasehold,2020-01-21,27666,58,Marks LLC,No,Under Construction,10,Villa,Rent
+1,8,3,1,1945,2,4,4,1907,North,Ground,Dhomkeel,New,2,Garden,Leasehold,2021-07-14,194500,100,"Coleman, Jarvis and Hahn",No,Ready to Move,11,Villa,Rent
+2,5,3,2,1439,0,3,3,1367,South,5 out of 12,Bhekrai Nagar,New,1,Garden,Freehold,2024-01-15,215850,150,Frye Ltd,No,Under Construction,7,Row House,Sale
+1,3,3,0,1776,3,4,4,1698,East,1 out of 5,Kharadi,Old,1,Garden,Freehold,2023-11-25,143856,81,Carroll LLC,Yes,Under Construction,4,Villa,Sale
+2,2,5,1,471,2,2,2,434,North,2 out of 10,Dhomkeel,Old,2,Garden,Leasehold,2020-07-21,41919,89,Campbell-Farmer,No,Under Construction,9,Row House,Sale
+0,10,1,2,1782,2,1,1,1736,North,1 out of 5,Kondhwa,Old,3,Garden,Leasehold,2021-03-29,151470,85,Jones LLC,No,Under Construction,10,Apartment,Sale
+1,3,4,1,1935,2,3,3,1840,East,2 out of 10,Kharadi,New,3,Garden,Freehold,2021-05-07,164475,85,Ferguson PLC,No,Under Construction,3,Row House,Rent
+1,4,3,1,1281,3,2,2,1187,West,2 out of 10,NIBM,New,3,Garden,Leasehold,2023-02-26,112728,88,Terry and Sons,Yes,Under Construction,6,Row House,Rent
+2,0,1,0,1444,1,3,3,1354,West,5 out of 12,Viman Nagar,Old,3,Park,Leasehold,2021-06-21,111188,77,Jenkins Inc,Yes,Under Construction,3,Apartment,Rent
+2,0,2,0,1684,1,2,2,1615,South,5 out of 12,NIBM,New,1,Park,Freehold,2025-01-07,250916,149,Barnes LLC,No,Under Construction,3,Row House,Rent
+2,7,1,1,1349,2,1,1,1270,East,Ground,Kharadi,New,3,Main Road,Leasehold,2024-02-04,101175,75,Orozco Inc,Yes,Ready to Move,2,Villa,Rent
+0,8,4,0,1087,2,4,4,994,East,1 out of 5,Viman Nagar,Old,1,Main Road,Freehold,2024-11-07,160876,148,Marshall-Galvan,No,Under Construction,12,Villa,Rent
+1,4,1,2,1234,2,2,2,1171,South,2 out of 10,Undri,Old,3,Garden,Freehold,2022-12-26,111060,90,Mitchell LLC,No,Under Construction,10,Apartment,Sale
+1,10,2,1,1966,3,4,4,1934,East,5 out of 12,Hadapsar,Old,3,Park,Leasehold,2024-12-22,245750,125,Alexander-Gonzalez,No,Under Construction,5,Villa,Sale
+2,4,1,0,762,1,4,4,698,North,1 out of 5,NIBM,New,1,Main Road,Freehold,2023-05-11,44196,58,Murphy Inc,Yes,Ready to Move,2,Row House,Sale
+1,4,4,0,1558,1,4,4,1533,East,5 out of 12,Magarpatta,New,2,Main Road,Freehold,2023-04-01,194750,125,Holmes-Gardner,Yes,Ready to Move,3,Apartment,Sale
+0,9,1,0,1340,2,2,2,1300,North,Ground,Kondhwa,New,3,Park,Leasehold,2021-03-19,158120,118,"Brooks, Martinez and Wright",No,Ready to Move,9,Apartment,Rent
+2,8,5,1,1308,2,1,1,1246,South,1 out of 5,Viman Nagar,Old,1,Garden,Freehold,2020-05-13,172656,132,Ball-Williams,No,Under Construction,6,Row House,Sale
+0,1,2,1,1064,0,3,3,1022,South,2 out of 10,Kondhwa,New,2,Garden,Freehold,2023-10-17,84056,79,"Hernandez, Wilson and Mcintosh",Yes,Ready to Move,2,Villa,Rent
+1,0,2,1,1865,3,1,1,1838,East,5 out of 12,Hadapsar,Old,2,Garden,Freehold,2022-07-28,115630,62,Johnson-Rogers,No,Ready to Move,9,Villa,Rent
+1,4,5,0,1780,0,4,4,1704,North,Ground,Bhekrai Nagar,Old,1,Main Road,Leasehold,2020-06-18,240300,135,Russell PLC,No,Ready to Move,1,Row House,Rent
+0,4,4,0,1139,2,3,3,1074,South,2 out of 10,Manjari,Old,2,Garden,Leasehold,2023-01-20,117317,103,Robertson Ltd,Yes,Ready to Move,1,Row House,Rent
+1,4,3,0,1352,1,4,4,1322,North,2 out of 10,NIBM,Old,2,Main Road,Freehold,2023-09-22,75712,56,"Payne, Jones and James",No,Under Construction,8,Apartment,Sale
+2,6,4,1,884,0,4,4,821,West,5 out of 12,Hadapsar,Old,3,Main Road,Leasehold,2022-09-29,121992,138,Henderson Group,No,Under Construction,5,Row House,Sale
+2,2,1,2,1717,2,3,3,1677,East,5 out of 12,Kharadi,Old,3,Garden,Leasehold,2024-11-12,199172,116,Gay-Robertson,Yes,Ready to Move,12,Villa,Sale
+0,9,1,1,1836,1,2,2,1760,East,Ground,Undri,New,2,Main Road,Leasehold,2021-08-04,117504,64,"Castro, Farmer and Li",No,Ready to Move,10,Villa,Rent
+1,1,5,0,601,1,4,4,535,East,1 out of 5,Hadapsar,Old,1,Garden,Freehold,2021-07-08,57696,96,Arnold-Ortega,No,Ready to Move,9,Villa,Rent
+0,9,2,1,1495,0,2,2,1432,South,5 out of 12,Hadapsar,New,3,Garden,Leasehold,2022-03-28,139035,93,Young Inc,No,Under Construction,10,Apartment,Rent
+0,1,2,2,458,1,3,3,400,North,1 out of 5,Manjari,New,2,Main Road,Leasehold,2021-05-02,27022,59,"Anderson, Walton and Abbott",No,Ready to Move,2,Row House,Rent
+2,3,1,0,1177,0,1,1,1091,South,Ground,Manjari,New,2,Garden,Leasehold,2022-11-12,97691,83,"Wells, May and Meyer",Yes,Ready to Move,2,Apartment,Sale
+2,9,5,0,1582,2,3,3,1554,North,1 out of 5,Hadapsar,Old,3,Park,Freehold,2022-07-19,230972,146,"Butler, Pace and Jefferson",No,Ready to Move,8,Apartment,Sale
+2,10,1,1,1681,2,1,1,1611,East,2 out of 10,Dhomkeel,New,1,Park,Freehold,2024-01-27,115989,69,"Arnold, Schneider and Richardson",Yes,Ready to Move,9,Row House,Sale
+2,0,3,0,1581,2,4,4,1486,North,2 out of 10,Bhekrai Nagar,Old,3,Main Road,Leasehold,2023-07-05,98022,62,Williams LLC,Yes,Ready to Move,11,Row House,Sale
+2,10,5,1,1403,0,1,1,1324,West,5 out of 12,Undri,Old,3,Garden,Leasehold,2021-11-02,180987,129,"Blanchard, Davis and Myers",Yes,Under Construction,7,Villa,Sale
+1,4,4,0,1420,3,4,4,1357,South,5 out of 12,Hadapsar,New,1,Main Road,Leasehold,2022-12-20,178920,126,Robertson PLC,No,Under Construction,4,Apartment,Sale
+2,5,2,0,1579,0,2,2,1526,East,Ground,Kharadi,New,1,Park,Freehold,2021-08-04,138952,88,Barnes Ltd,No,Ready to Move,6,Villa,Sale
+0,5,3,0,1338,3,2,2,1266,West,5 out of 12,Magarpatta,Old,1,Garden,Freehold,2020-06-22,179292,134,"Thompson, Reid and Nelson",No,Under Construction,5,Apartment,Sale
+0,3,3,2,1665,1,3,3,1599,West,5 out of 12,Viman Nagar,New,2,Park,Freehold,2022-04-22,236430,142,Cook Inc,Yes,Ready to Move,10,Row House,Rent
+0,1,2,0,1524,1,3,3,1484,South,1 out of 5,NIBM,New,3,Garden,Leasehold,2020-12-05,86868,57,Williams-Miller,Yes,Ready to Move,10,Row House,Sale
+2,2,3,2,1141,1,2,2,1100,East,5 out of 12,NIBM,New,1,Main Road,Leasehold,2023-11-06,84434,74,"Munoz, Gomez and Johnston",No,Under Construction,3,Villa,Sale
+2,1,4,2,1543,2,3,3,1511,West,Ground,Manjari,Old,1,Park,Freehold,2024-01-15,131155,85,Morales and Sons,Yes,Under Construction,11,Apartment,Rent
+1,10,3,2,947,1,2,2,860,North,Ground,Undri,Old,1,Park,Leasehold,2020-04-20,48297,51,Ruiz-Norton,No,Ready to Move,4,Row House,Rent
+1,4,2,1,1003,3,3,3,955,West,2 out of 10,Dhomkeel,New,1,Park,Freehold,2021-06-25,109327,109,Levine-Ramirez,Yes,Ready to Move,10,Villa,Rent
+0,5,3,1,692,1,2,2,630,East,2 out of 10,Bhekrai Nagar,Old,1,Park,Freehold,2020-10-05,89960,130,Miller-Beasley,No,Under Construction,1,Apartment,Rent
+1,7,3,1,1228,1,1,1,1171,West,Ground,NIBM,New,2,Park,Freehold,2024-09-21,122800,100,Berger LLC,Yes,Under Construction,3,Villa,Sale
+0,9,1,2,1294,2,4,4,1230,West,2 out of 10,Hadapsar,Old,2,Main Road,Leasehold,2024-12-17,130694,101,"Boyd, Reed and Mendez",No,Ready to Move,6,Row House,Sale
+0,2,2,0,1158,2,4,4,1088,South,5 out of 12,Kharadi,Old,3,Main Road,Leasehold,2022-03-29,99588,86,Guzman Inc,Yes,Ready to Move,2,Row House,Sale
+2,1,1,2,1034,2,2,2,972,South,1 out of 5,Kharadi,New,2,Park,Freehold,2021-12-02,75482,73,"Taylor, Levy and Mckinney",Yes,Ready to Move,10,Villa,Sale
+0,10,2,1,1043,0,2,2,954,West,5 out of 12,NIBM,Old,1,Park,Leasehold,2023-03-08,74053,71,Fuentes-Cobb,Yes,Under Construction,1,Apartment,Rent
+1,4,1,0,1541,1,2,2,1443,North,1 out of 5,Kondhwa,New,3,Garden,Freehold,2022-08-28,115575,75,"Peterson, Miles and Baker",Yes,Under Construction,3,Apartment,Sale
+2,5,5,2,1422,2,2,2,1343,West,Ground,Bhekrai Nagar,New,2,Garden,Freehold,2022-01-02,182016,128,"Boyd, Hale and Rivera",No,Ready to Move,1,Apartment,Rent
+2,8,1,0,1766,2,2,2,1671,West,2 out of 10,Hadapsar,New,1,Main Road,Freehold,2022-01-18,234878,133,Pierce-Page,No,Under Construction,5,Apartment,Sale
+2,0,5,2,1373,3,2,2,1317,North,Ground,Kondhwa,New,3,Garden,Freehold,2021-11-03,112586,82,Robertson PLC,No,Ready to Move,7,Apartment,Sale
+0,3,5,0,1695,2,3,3,1630,North,2 out of 10,Manjari,Old,3,Garden,Freehold,2021-11-12,172890,102,Schroeder-Ellis,Yes,Ready to Move,7,Villa,Rent
+0,6,5,2,697,1,3,3,632,North,1 out of 5,Dhomkeel,New,2,Park,Leasehold,2020-08-04,57154,82,Miranda-Kelly,No,Ready to Move,7,Apartment,Rent
+1,9,3,0,1128,3,4,4,1097,South,5 out of 12,Bhekrai Nagar,Old,3,Main Road,Leasehold,2022-04-24,92496,82,Howard-Klein,Yes,Under Construction,2,Apartment,Rent
+2,5,4,1,1346,0,2,2,1250,West,Ground,Dhomkeel,Old,2,Garden,Freehold,2024-02-01,154790,115,Martinez-Duncan,No,Under Construction,12,Apartment,Rent
+1,8,4,0,1520,0,3,3,1467,South,5 out of 12,Hadapsar,Old,3,Garden,Freehold,2024-11-13,188480,124,"Hughes, Williams and Martinez",No,Ready to Move,8,Row House,Sale
+1,7,5,1,1890,3,3,3,1867,West,2 out of 10,Kondhwa,Old,1,Main Road,Freehold,2023-11-03,215460,114,Bishop-Murray,Yes,Ready to Move,2,Villa,Sale
+2,1,1,1,1914,2,2,2,1847,East,2 out of 10,Magarpatta,New,2,Park,Freehold,2023-02-02,178002,93,Johnson-Madden,Yes,Under Construction,3,Row House,Sale
+1,2,2,0,1725,2,2,2,1633,East,5 out of 12,Kondhwa,Old,3,Garden,Freehold,2020-11-28,186300,108,Davis Ltd,No,Ready to Move,7,Apartment,Rent
+0,5,2,1,1759,2,3,3,1680,West,Ground,Manjari,New,3,Park,Freehold,2022-08-11,244501,139,"Santiago, Brown and Wilcox",No,Under Construction,2,Row House,Rent
+0,6,3,1,1687,3,3,3,1603,South,5 out of 12,Undri,Old,3,Park,Freehold,2021-01-22,126525,75,"Brown, Reed and Estrada",No,Ready to Move,12,Row House,Rent
+1,6,3,1,554,2,1,1,511,East,5 out of 12,Alandi,Old,2,Main Road,Freehold,2023-03-15,68696,124,Smith PLC,No,Under Construction,2,Apartment,Sale
+1,8,2,2,1071,2,2,2,1025,North,Ground,NIBM,Old,2,Main Road,Leasehold,2023-10-27,126378,118,"Contreras, Anderson and Williamson",No,Under Construction,12,Apartment,Rent
+0,4,5,2,1191,1,2,2,1097,South,1 out of 5,Undri,New,3,Park,Leasehold,2024-02-16,140538,118,Young-Lee,No,Ready to Move,4,Villa,Rent
+1,4,2,1,736,0,4,4,688,East,Ground,Wagholi,New,1,Park,Freehold,2022-09-17,103040,140,Woods and Sons,No,Under Construction,1,Villa,Sale
+2,2,4,0,1423,1,1,1,1368,North,Ground,Kondhwa,Old,1,Main Road,Freehold,2021-06-27,86803,61,Carter-Madden,No,Under Construction,1,Apartment,Rent
+2,1,3,0,1175,2,4,4,1092,North,Ground,Magarpatta,Old,1,Garden,Leasehold,2024-06-28,157450,134,Reeves Ltd,Yes,Ready to Move,12,Apartment,Sale
+0,7,3,2,954,1,1,1,902,North,5 out of 12,Kondhwa,New,3,Park,Leasehold,2022-06-10,140238,147,"Perez, Robinson and Reese",No,Under Construction,3,Row House,Sale
+2,4,4,2,1467,2,1,1,1367,West,5 out of 12,NIBM,New,3,Main Road,Freehold,2021-01-02,98289,67,Dyer and Sons,Yes,Under Construction,12,Apartment,Rent
+2,6,3,2,748,3,2,2,661,West,5 out of 12,Hadapsar,New,3,Park,Leasehold,2021-10-03,38896,52,"Schroeder, Kane and Bryant",No,Ready to Move,2,Apartment,Sale
+0,4,2,2,1610,1,2,2,1566,South,5 out of 12,Hadapsar,Old,2,Garden,Freehold,2024-05-26,133630,83,"Sharp, Hanna and Smith",No,Under Construction,4,Row House,Sale
+0,10,3,1,646,0,3,3,613,West,Ground,Hadapsar,Old,2,Main Road,Leasehold,2022-10-09,91732,142,Delgado-Miller,Yes,Ready to Move,2,Villa,Sale
+0,4,5,2,1151,3,4,4,1098,North,Ground,Viman Nagar,Old,3,Garden,Freehold,2023-09-09,143875,125,Petty-Oconnor,Yes,Under Construction,3,Row House,Rent
+1,6,3,0,1641,1,3,3,1542,North,Ground,Wagholi,New,3,Park,Leasehold,2020-04-16,121434,74,Jones and Sons,No,Under Construction,1,Apartment,Sale
+1,0,2,1,1968,0,3,3,1910,East,1 out of 5,Kharadi,Old,1,Main Road,Freehold,2022-08-17,171216,87,"Wagner, Johnson and Sweeney",Yes,Under Construction,2,Row House,Rent
+2,10,3,1,1794,1,1,1,1720,South,2 out of 10,Wagholi,New,3,Garden,Leasehold,2022-06-24,98670,55,"Schultz, Baldwin and Wilson",No,Under Construction,7,Apartment,Rent
+1,3,2,2,470,2,3,3,442,East,1 out of 5,Manjari,Old,2,Main Road,Freehold,2021-04-27,26790,57,Sampson Inc,Yes,Ready to Move,6,Apartment,Rent
+0,2,3,2,622,2,3,3,570,North,Ground,NIBM,New,1,Park,Leasehold,2021-06-30,64066,103,Dennis-Reynolds,Yes,Ready to Move,11,Row House,Rent
+1,2,1,1,726,2,3,3,660,North,Ground,Undri,New,2,Park,Freehold,2024-12-22,54450,75,"Avery, Spears and Rodriguez",Yes,Under Construction,6,Villa,Rent
+0,5,2,1,1166,2,3,3,1093,West,5 out of 12,Viman Nagar,Old,1,Main Road,Freehold,2024-06-17,111936,96,Everett Inc,Yes,Ready to Move,4,Villa,Sale
+1,6,4,2,999,0,4,4,939,South,5 out of 12,Magarpatta,Old,3,Garden,Freehold,2025-02-04,77922,78,Snyder Group,Yes,Under Construction,8,Row House,Sale
+2,0,5,1,630,3,2,2,571,East,1 out of 5,Dhomkeel,New,2,Garden,Leasehold,2023-04-25,35280,56,"Carroll, Brewer and Stark",Yes,Under Construction,11,Apartment,Sale
+2,4,3,0,1556,3,3,3,1521,North,5 out of 12,Dhomkeel,New,1,Main Road,Freehold,2023-09-04,160268,103,Carson-Freeman,Yes,Ready to Move,1,Apartment,Sale
+0,3,1,0,990,2,4,4,923,East,1 out of 5,Kharadi,New,1,Garden,Freehold,2022-11-28,95040,96,Meyer-Baker,Yes,Under Construction,4,Villa,Sale
+1,1,1,0,1087,0,1,1,1011,North,Ground,Manjari,Old,3,Main Road,Leasehold,2020-08-28,141310,130,"Byrd, Solis and Boyd",No,Ready to Move,9,Villa,Sale
+2,10,5,1,1256,0,1,1,1181,West,2 out of 10,NIBM,New,3,Main Road,Leasehold,2020-04-11,100480,80,"Stanley, Hatfield and Craig",Yes,Ready to Move,11,Row House,Sale
+2,3,3,2,1712,2,2,2,1621,South,5 out of 12,Bhekrai Nagar,New,3,Main Road,Freehold,2022-03-25,202016,118,Hernandez PLC,No,Under Construction,6,Apartment,Rent
+1,8,1,1,632,3,4,4,575,West,Ground,Undri,Old,1,Main Road,Leasehold,2023-10-19,54352,86,Cantu-Matthews,Yes,Under Construction,12,Villa,Sale
+2,2,1,0,1210,2,3,3,1154,East,Ground,NIBM,Old,3,Main Road,Freehold,2020-02-04,150040,124,Williams LLC,Yes,Ready to Move,8,Row House,Rent
+0,4,1,2,1500,1,3,3,1427,South,5 out of 12,Dhomkeel,Old,1,Park,Leasehold,2020-11-26,133500,89,Howe LLC,No,Ready to Move,11,Row House,Sale
+0,10,5,2,1979,0,2,2,1919,East,5 out of 12,Hadapsar,Old,1,Garden,Freehold,2023-11-05,259249,131,Sanchez Group,No,Ready to Move,5,Row House,Sale
+1,5,2,0,1522,0,2,2,1437,East,Ground,Kharadi,Old,3,Park,Leasehold,2022-02-19,136980,90,Young PLC,Yes,Under Construction,6,Row House,Sale
+1,8,4,2,904,3,3,3,844,East,1 out of 5,Hadapsar,New,2,Park,Leasehold,2023-12-18,107576,119,Rivera-Goodman,Yes,Under Construction,10,Apartment,Rent
+0,2,5,2,913,3,1,1,839,North,2 out of 10,Undri,New,3,Garden,Freehold,2022-08-01,52041,57,Jackson PLC,No,Under Construction,3,Villa,Sale
+2,7,3,2,1948,0,1,1,1921,South,2 out of 10,Dhomkeel,New,3,Park,Freehold,2023-11-06,274668,141,Hess-Duncan,No,Ready to Move,9,Row House,Sale
+0,0,2,0,1032,3,3,3,1008,West,Ground,Undri,New,3,Garden,Freehold,2024-02-26,93912,91,"Lambert, Williams and Valdez",No,Ready to Move,11,Villa,Sale
+2,5,4,2,1637,1,4,4,1568,North,5 out of 12,NIBM,New,1,Garden,Leasehold,2022-01-15,232454,142,Buckley PLC,Yes,Under Construction,9,Apartment,Rent
+1,1,4,0,1544,0,4,4,1475,North,Ground,Wagholi,Old,2,Garden,Leasehold,2022-04-27,92640,60,Clark LLC,No,Under Construction,3,Row House,Rent
+0,4,5,2,1240,1,4,4,1155,North,1 out of 5,Dhomkeel,Old,3,Main Road,Freehold,2021-09-29,101680,82,Jones-Tucker,No,Under Construction,5,Apartment,Rent
+0,0,2,1,1840,0,4,4,1796,South,5 out of 12,Kondhwa,New,3,Park,Freehold,2024-11-11,270480,147,Thompson and Sons,No,Under Construction,8,Villa,Sale
+0,1,5,0,1379,3,3,3,1331,West,5 out of 12,Kondhwa,New,3,Park,Freehold,2022-04-20,205471,149,Carrillo-Richardson,No,Under Construction,7,Row House,Rent
+0,7,2,0,1360,0,1,1,1296,East,Ground,Wagholi,New,1,Garden,Leasehold,2021-12-30,87040,64,"Aguirre, Parks and Zhang",Yes,Under Construction,5,Villa,Rent
+0,5,3,2,1474,3,3,3,1416,South,1 out of 5,Hadapsar,New,1,Garden,Freehold,2024-06-22,184250,125,Peters PLC,Yes,Ready to Move,9,Villa,Rent
+1,4,2,1,1740,3,3,3,1649,North,1 out of 5,Viman Nagar,Old,3,Main Road,Freehold,2023-08-08,250560,144,"Boone, Wilcox and Flores",Yes,Ready to Move,11,Row House,Rent
+2,5,5,0,1086,2,4,4,1019,South,1 out of 5,Kondhwa,Old,1,Park,Leasehold,2022-06-08,100998,93,Rollins Ltd,Yes,Ready to Move,2,Apartment,Rent
+2,5,2,1,1756,2,2,2,1683,West,1 out of 5,Wagholi,Old,3,Park,Leasehold,2024-09-10,223012,127,Harris-Kim,Yes,Ready to Move,9,Apartment,Rent
+2,4,2,0,1869,1,3,3,1796,East,Ground,Bhekrai Nagar,New,3,Garden,Leasehold,2024-02-07,259791,139,Hudson Ltd,No,Under Construction,2,Apartment,Sale
+1,4,5,2,1626,2,1,1,1539,East,5 out of 12,Magarpatta,Old,1,Park,Leasehold,2020-07-15,136584,84,Oliver Ltd,Yes,Ready to Move,3,Villa,Sale
+0,7,2,0,893,1,2,2,858,South,1 out of 5,Wagholi,Old,1,Main Road,Leasehold,2023-02-03,82156,92,Summers-Smith,No,Ready to Move,4,Villa,Sale
+1,7,2,1,1912,3,1,1,1864,East,5 out of 12,Undri,New,2,Garden,Freehold,2023-02-13,267680,140,"Williams, Thompson and Campbell",No,Under Construction,5,Row House,Rent
+1,3,3,0,711,1,1,1,626,East,5 out of 12,Viman Nagar,Old,3,Garden,Freehold,2024-07-04,91719,129,"Casey, Thompson and Mccormick",No,Ready to Move,1,Villa,Rent
+2,7,4,2,1243,2,3,3,1186,South,Ground,Dhomkeel,New,2,Main Road,Freehold,2023-01-30,78309,63,Ramirez-Stone,No,Ready to Move,6,Villa,Sale
+0,4,2,1,1475,1,4,4,1377,South,5 out of 12,Undri,New,1,Park,Freehold,2024-12-09,182900,124,Mcdaniel-Harding,Yes,Ready to Move,5,Villa,Sale
+2,9,2,2,455,0,3,3,390,North,5 out of 12,Undri,Old,1,Main Road,Leasehold,2021-04-30,37310,82,Gordon-Orozco,No,Ready to Move,12,Row House,Sale
+2,8,4,1,868,2,3,3,773,North,Ground,NIBM,Old,1,Park,Freehold,2021-01-18,72912,84,Haas Ltd,No,Under Construction,10,Apartment,Rent
+2,9,1,0,690,0,3,3,613,South,1 out of 5,Kondhwa,New,2,Garden,Freehold,2023-11-27,47610,69,Gay LLC,Yes,Ready to Move,3,Row House,Rent
+1,7,2,1,1114,1,2,2,1041,South,Ground,NIBM,New,3,Main Road,Leasehold,2022-05-19,114742,103,Jones and Sons,No,Under Construction,6,Row House,Rent
+0,1,1,2,982,1,1,1,886,South,5 out of 12,Undri,New,1,Main Road,Freehold,2024-10-06,145336,148,"Hunter, White and Morgan",No,Under Construction,8,Apartment,Sale
+0,9,4,2,483,0,4,4,416,South,2 out of 10,Manjari,New,2,Main Road,Leasehold,2023-09-18,49266,102,"Green, Brown and Dixon",No,Ready to Move,4,Apartment,Rent
+1,7,3,2,1251,1,1,1,1189,East,1 out of 5,Magarpatta,Old,2,Park,Leasehold,2024-11-29,138861,111,Miller-Stewart,Yes,Ready to Move,6,Villa,Sale
+2,9,4,1,625,2,2,2,603,East,1 out of 5,Magarpatta,New,1,Main Road,Leasehold,2023-02-27,80625,129,Martinez PLC,No,Ready to Move,6,Row House,Sale
+1,10,1,1,1633,0,3,3,1604,South,5 out of 12,Kharadi,New,1,Garden,Freehold,2022-04-21,119209,73,Ray Inc,No,Ready to Move,1,Villa,Rent
+0,3,1,1,1999,1,3,3,1905,East,1 out of 5,Manjari,Old,1,Park,Freehold,2022-07-15,211894,106,Lynch-Meyers,Yes,Ready to Move,12,Villa,Rent
+0,4,1,2,1308,3,4,4,1284,East,1 out of 5,Kharadi,Old,1,Garden,Freehold,2023-01-27,189660,145,Turner PLC,No,Ready to Move,1,Apartment,Rent
+1,5,2,1,1369,1,2,2,1276,North,1 out of 5,NIBM,New,3,Main Road,Freehold,2021-09-02,153328,112,"Ruiz, Grant and Nichols",No,Ready to Move,12,Apartment,Rent
+0,8,4,1,634,1,2,2,613,South,5 out of 12,NIBM,New,3,Park,Freehold,2024-11-07,46282,73,Carter Ltd,Yes,Under Construction,6,Row House,Rent
+1,7,5,0,1513,1,1,1,1470,North,2 out of 10,Wagholi,New,2,Park,Leasehold,2023-12-16,87754,58,Sims Group,No,Ready to Move,6,Villa,Rent
+2,2,5,0,1622,2,4,4,1566,East,Ground,Kondhwa,New,2,Main Road,Freehold,2020-12-03,136248,84,Martin PLC,Yes,Under Construction,6,Villa,Rent
+2,4,4,1,762,0,4,4,668,North,2 out of 10,Bhekrai Nagar,New,3,Park,Leasehold,2020-11-04,108966,143,George and Sons,No,Under Construction,4,Row House,Sale
+2,8,2,2,784,0,4,4,755,East,1 out of 5,Wagholi,New,1,Main Road,Leasehold,2020-10-05,104272,133,Brown-Mccormick,Yes,Under Construction,9,Apartment,Rent
+1,10,3,2,869,0,2,2,828,South,5 out of 12,NIBM,Old,3,Park,Leasehold,2022-09-11,81686,94,Nelson and Sons,Yes,Ready to Move,5,Villa,Sale
+0,6,1,2,501,1,2,2,406,East,2 out of 10,Dhomkeel,New,1,Garden,Freehold,2023-11-18,40581,81,Long LLC,No,Under Construction,9,Villa,Sale
+0,5,5,2,813,1,2,2,753,North,1 out of 5,Kondhwa,New,3,Main Road,Freehold,2022-11-29,96747,119,Dunn LLC,Yes,Ready to Move,5,Villa,Rent
+0,9,5,2,552,2,3,3,511,West,2 out of 10,Hadapsar,New,3,Main Road,Leasehold,2023-12-21,56856,103,Johnson-Davis,Yes,Ready to Move,2,Row House,Rent
+0,6,3,0,1051,3,2,2,963,North,Ground,Wagholi,New,2,Park,Freehold,2023-12-31,112457,107,Valenzuela Inc,Yes,Under Construction,11,Row House,Sale
+2,4,3,0,1845,2,1,1,1746,South,Ground,Kharadi,Old,1,Park,Leasehold,2021-05-29,260145,141,Hanson-Olsen,No,Under Construction,3,Villa,Rent
+1,1,4,0,766,2,4,4,723,North,Ground,Kondhwa,Old,3,Garden,Freehold,2024-08-08,94218,123,Simpson-Hess,Yes,Under Construction,3,Row House,Rent
+0,10,3,2,1051,3,1,1,999,North,5 out of 12,Undri,Old,2,Park,Freehold,2021-04-07,115610,110,Carter LLC,Yes,Under Construction,11,Villa,Rent
+1,5,3,0,1619,2,1,1,1568,South,2 out of 10,Hadapsar,New,1,Park,Freehold,2024-02-12,179709,111,Clark Group,No,Ready to Move,9,Apartment,Rent
+1,5,1,0,1260,2,2,2,1199,East,2 out of 10,Kharadi,New,2,Main Road,Freehold,2021-06-13,189000,150,Johnson and Sons,Yes,Ready to Move,2,Row House,Sale
+0,8,5,2,1259,0,1,1,1198,North,5 out of 12,Manjari,New,2,Garden,Leasehold,2022-01-31,132195,105,"Roberts, Kelly and Marshall",Yes,Under Construction,5,Apartment,Sale
+0,5,5,1,1459,3,2,2,1405,East,Ground,Alandi,Old,3,Park,Leasehold,2020-04-25,116720,80,Kelly Ltd,No,Under Construction,1,Row House,Sale
+0,2,2,2,803,3,3,3,722,East,2 out of 10,Manjari,Old,2,Garden,Freehold,2020-06-23,74679,93,"Green, Richards and Powell",No,Under Construction,7,Villa,Sale
+1,4,3,0,1779,0,3,3,1691,East,Ground,Bhekrai Nagar,Old,1,Park,Leasehold,2021-05-17,193911,109,Valencia PLC,No,Ready to Move,10,Villa,Sale
+0,6,1,1,795,2,2,2,730,East,2 out of 10,Hadapsar,Old,3,Park,Leasehold,2021-09-09,92220,116,Atkinson-Garcia,Yes,Ready to Move,11,Row House,Sale
+1,5,3,0,1452,3,3,3,1417,North,1 out of 5,Dhomkeel,New,1,Main Road,Leasehold,2020-06-30,169884,117,"Washington, Espinoza and Hines",Yes,Ready to Move,3,Villa,Sale
+2,0,5,0,718,2,4,4,662,South,5 out of 12,Viman Nagar,Old,3,Park,Leasehold,2021-04-07,97648,136,"Castro, Wiley and Mitchell",No,Ready to Move,1,Apartment,Rent
+0,3,4,2,950,1,2,2,915,South,Ground,Undri,Old,2,Garden,Leasehold,2022-11-06,59850,63,Young-Avery,Yes,Under Construction,4,Apartment,Rent
+1,7,2,1,501,2,4,4,432,North,Ground,Dhomkeel,New,2,Park,Leasehold,2024-06-07,29058,58,Davidson and Sons,No,Ready to Move,1,Villa,Sale
+0,6,3,0,1271,0,2,2,1171,East,1 out of 5,Viman Nagar,Old,3,Main Road,Leasehold,2022-09-19,88970,70,Grant-Mccoy,Yes,Under Construction,11,Apartment,Rent
+0,4,5,0,1640,2,2,2,1574,South,5 out of 12,Kharadi,New,2,Garden,Leasehold,2022-01-09,218120,133,Carney Group,No,Under Construction,11,Row House,Rent
+2,8,2,2,902,0,4,4,854,North,1 out of 5,NIBM,New,2,Park,Freehold,2023-07-24,65846,73,Perez and Sons,No,Under Construction,9,Apartment,Sale
+2,3,5,1,1782,2,3,3,1757,West,1 out of 5,Kondhwa,Old,2,Garden,Leasehold,2025-02-13,151470,85,"Estrada, Velez and Mills",Yes,Under Construction,5,Row House,Sale
+1,3,5,2,1802,1,3,3,1765,East,2 out of 10,NIBM,Old,2,Main Road,Freehold,2022-11-12,207230,115,"Levine, Neal and Perry",No,Under Construction,1,Apartment,Rent
+1,10,4,0,837,0,4,4,789,West,Ground,Manjari,New,3,Garden,Freehold,2024-12-21,104625,125,Wright Ltd,Yes,Under Construction,12,Apartment,Sale
+0,4,1,1,1877,0,1,1,1814,North,1 out of 5,Manjari,New,1,Main Road,Freehold,2021-07-14,114497,61,Hansen LLC,Yes,Ready to Move,8,Apartment,Sale
+1,0,3,1,915,0,4,4,847,West,2 out of 10,Hadapsar,New,2,Garden,Freehold,2023-12-16,72285,79,Harvey-Jones,No,Under Construction,5,Villa,Sale
+0,5,5,1,1939,0,3,3,1866,North,Ground,Alandi,New,1,Garden,Leasehold,2024-11-23,269521,139,"Graves, Caldwell and Medina",No,Under Construction,8,Villa,Rent
+0,1,5,1,948,0,1,1,908,West,2 out of 10,Alandi,New,3,Main Road,Leasehold,2025-02-20,103332,109,"Payne, Young and Burch",Yes,Ready to Move,5,Row House,Rent
+2,1,2,2,1290,3,2,2,1202,North,Ground,Bhekrai Nagar,Old,2,Park,Leasehold,2020-10-20,179310,139,Jefferson Group,No,Under Construction,2,Apartment,Rent
+2,2,5,2,1255,0,4,4,1212,East,Ground,Viman Nagar,New,1,Main Road,Leasehold,2020-05-27,109185,87,"Thompson, Summers and Wyatt",No,Ready to Move,10,Villa,Sale
+1,9,1,2,529,2,3,3,459,East,1 out of 5,Kharadi,New,3,Main Road,Leasehold,2021-05-29,30682,58,Montes PLC,Yes,Under Construction,3,Apartment,Rent
+0,4,2,2,1108,3,4,4,1019,West,Ground,Hadapsar,Old,3,Garden,Freehold,2024-11-29,85316,77,Bell LLC,No,Ready to Move,9,Row House,Rent
+2,0,5,0,729,0,4,4,681,South,1 out of 5,Manjari,New,3,Park,Freehold,2020-06-29,65610,90,Warren PLC,No,Ready to Move,4,Villa,Sale
+1,0,2,1,947,1,3,3,924,South,1 out of 5,NIBM,New,3,Main Road,Leasehold,2025-01-11,80495,85,Patterson-Perez,Yes,Under Construction,8,Villa,Sale
+2,3,1,1,953,2,4,4,898,North,5 out of 12,Wagholi,New,3,Garden,Leasehold,2022-07-01,104830,110,"Smith, Perkins and Atkins",No,Ready to Move,7,Apartment,Rent
+0,8,2,1,1189,0,1,1,1134,East,Ground,NIBM,New,2,Main Road,Leasehold,2021-03-26,101065,85,Charles-Garcia,No,Ready to Move,2,Row House,Rent
+0,6,3,1,1651,2,3,3,1628,East,1 out of 5,Wagholi,New,1,Main Road,Freehold,2021-01-15,146939,89,"Thomas, King and Green",Yes,Ready to Move,10,Row House,Sale
+2,3,2,0,933,1,1,1,840,East,5 out of 12,Undri,New,1,Main Road,Freehold,2020-08-03,133419,143,"Warner, Parker and Benson",No,Under Construction,10,Villa,Sale
+0,5,2,2,1211,2,2,2,1149,North,2 out of 10,Kondhwa,Old,1,Garden,Leasehold,2021-05-17,156219,129,"Wise, Wright and Ramirez",No,Ready to Move,4,Villa,Sale
+2,5,5,2,1327,0,1,1,1268,East,Ground,Bhekrai Nagar,Old,1,Main Road,Freehold,2023-06-27,120757,91,"Cochran, Daniels and Rogers",No,Under Construction,3,Villa,Rent
+1,2,1,1,1018,3,4,4,970,South,2 out of 10,Wagholi,New,2,Park,Freehold,2024-10-22,80422,79,Jacobs-Gregory,No,Under Construction,8,Row House,Sale
+1,0,3,1,1756,3,4,4,1675,East,1 out of 5,NIBM,Old,2,Main Road,Leasehold,2023-02-21,87800,50,Garza and Sons,No,Ready to Move,12,Villa,Rent
+1,0,3,1,496,3,3,3,461,West,Ground,Hadapsar,Old,3,Main Road,Leasehold,2024-03-27,27280,55,Mejia and Sons,Yes,Under Construction,11,Apartment,Rent
+0,2,3,1,1854,2,2,2,1784,West,1 out of 5,Manjari,New,3,Park,Leasehold,2025-03-22,153882,83,Mcbride Ltd,No,Ready to Move,4,Apartment,Rent
+0,5,5,2,966,3,2,2,870,South,Ground,Wagholi,New,1,Main Road,Leasehold,2023-04-02,107226,111,Gardner-Scott,No,Ready to Move,2,Row House,Sale
+1,4,5,2,479,3,1,1,390,North,Ground,Kondhwa,New,3,Main Road,Freehold,2024-01-07,60354,126,"Miller, Gonzales and Garcia",Yes,Ready to Move,3,Row House,Sale
+1,4,3,1,1981,1,2,2,1913,South,5 out of 12,Dhomkeel,New,2,Main Road,Freehold,2021-07-31,271397,137,Garrett-Carlson,No,Ready to Move,10,Row House,Rent
+1,1,3,0,1907,0,1,1,1841,East,1 out of 5,Kondhwa,Old,1,Garden,Freehold,2020-07-30,146839,77,Adams Group,Yes,Under Construction,2,Apartment,Rent
+1,4,4,1,881,3,4,4,857,East,5 out of 12,NIBM,Old,2,Garden,Freehold,2023-11-23,66956,76,"Buchanan, Rogers and Rodriguez",Yes,Under Construction,1,Row House,Rent
+1,2,5,2,568,3,1,1,534,South,1 out of 5,Kharadi,Old,2,Main Road,Leasehold,2024-12-07,61344,108,Myers Ltd,No,Ready to Move,8,Row House,Rent
+2,7,5,2,1553,0,1,1,1506,South,Ground,Wagholi,New,2,Main Road,Freehold,2021-05-10,180148,116,Lee Group,Yes,Under Construction,11,Villa,Sale
+1,4,5,0,1683,3,2,2,1618,North,2 out of 10,NIBM,New,2,Main Road,Leasehold,2022-04-05,138006,82,Taylor-Thomas,No,Under Construction,11,Villa,Sale
+2,6,3,1,1097,3,3,3,1066,South,1 out of 5,Magarpatta,Old,1,Garden,Freehold,2023-12-13,68014,62,"Hogan, Cook and Hale",Yes,Under Construction,12,Apartment,Sale
+0,4,2,2,993,1,3,3,912,North,5 out of 12,Undri,Old,1,Park,Freehold,2021-02-04,55608,56,Buckley Inc,Yes,Under Construction,5,Villa,Rent
+0,9,4,1,1346,0,1,1,1266,West,2 out of 10,Undri,Old,1,Garden,Freehold,2020-02-19,193824,144,Taylor LLC,No,Under Construction,9,Apartment,Rent
+1,5,3,0,1904,3,3,3,1833,South,1 out of 5,Kharadi,Old,3,Garden,Leasehold,2021-11-08,226576,119,Moore Group,No,Under Construction,7,Villa,Rent
+1,5,4,0,1168,0,1,1,1141,South,5 out of 12,Kondhwa,New,2,Main Road,Freehold,2022-09-20,153008,131,Morgan Inc,Yes,Ready to Move,10,Villa,Sale
+0,7,4,0,1536,2,4,4,1515,North,2 out of 10,Kharadi,New,2,Garden,Freehold,2020-07-14,82944,54,Brown-Stewart,Yes,Under Construction,6,Apartment,Sale
+0,0,5,1,592,1,1,1,493,North,Ground,Dhomkeel,Old,1,Park,Freehold,2022-07-07,51504,87,Evans PLC,No,Ready to Move,1,Villa,Rent
+2,5,2,1,456,3,2,2,435,West,2 out of 10,Kondhwa,New,1,Park,Freehold,2020-12-29,58824,129,Wise-Estrada,Yes,Ready to Move,2,Row House,Sale
+2,0,3,2,1968,2,1,1,1936,West,2 out of 10,Kondhwa,New,1,Garden,Leasehold,2022-05-20,257808,131,"Roberts, Thompson and Peterson",No,Ready to Move,11,Apartment,Rent
+2,7,3,2,1848,3,4,4,1796,North,1 out of 5,Wagholi,New,2,Park,Leasehold,2020-05-11,140448,76,Lee Group,No,Ready to Move,10,Villa,Rent
+2,2,5,2,1557,0,2,2,1529,West,2 out of 10,Kharadi,Old,2,Garden,Leasehold,2020-09-24,200853,129,"Miller, Martin and Nichols",Yes,Under Construction,5,Villa,Rent
+1,1,5,2,1434,0,1,1,1346,East,2 out of 10,Undri,New,3,Park,Leasehold,2022-04-17,74568,52,Price-Coleman,No,Ready to Move,6,Apartment,Rent
+1,9,2,0,1539,0,4,4,1467,South,1 out of 5,Alandi,Old,1,Main Road,Leasehold,2022-08-04,110808,72,Phelps Inc,Yes,Ready to Move,8,Villa,Sale
+1,3,3,2,647,2,1,1,589,North,2 out of 10,Kharadi,New,1,Main Road,Leasehold,2020-03-16,43349,67,Porter-Stewart,Yes,Ready to Move,3,Apartment,Sale
+1,4,2,1,1933,2,4,4,1856,South,5 out of 12,Undri,Old,3,Garden,Leasehold,2020-12-17,123712,64,Moore-Miranda,No,Ready to Move,4,Apartment,Sale
+0,2,2,2,1963,0,1,1,1884,East,2 out of 10,Manjari,New,2,Garden,Freehold,2024-01-06,210041,107,Mullen-Smith,Yes,Ready to Move,9,Villa,Rent
+0,9,5,1,498,3,2,2,399,North,Ground,Manjari,Old,1,Garden,Freehold,2023-12-16,64740,130,Thompson-Kim,Yes,Under Construction,12,Row House,Rent
+2,10,4,1,1478,1,1,1,1395,North,1 out of 5,Hadapsar,New,3,Park,Freehold,2024-05-09,91636,62,Miles-Fischer,No,Under Construction,6,Apartment,Rent
+1,8,4,2,659,0,3,3,578,West,1 out of 5,Wagholi,Old,1,Park,Freehold,2021-02-17,94896,144,Douglas Inc,Yes,Ready to Move,12,Apartment,Rent
+1,5,5,0,939,2,1,1,846,West,Ground,Hadapsar,Old,2,Park,Freehold,2023-01-30,132399,141,Nguyen-Day,No,Ready to Move,1,Apartment,Rent
+0,9,5,1,1118,3,2,2,1072,North,2 out of 10,Wagholi,New,1,Garden,Leasehold,2023-01-07,127452,114,"Mendez, Brown and Smith",No,Under Construction,10,Villa,Rent
+1,7,3,2,1485,1,1,1,1413,North,5 out of 12,Kondhwa,Old,3,Main Road,Leasehold,2021-04-30,114345,77,Johnson PLC,Yes,Ready to Move,2,Apartment,Sale
+2,1,4,1,957,2,3,3,888,East,1 out of 5,Kondhwa,Old,2,Garden,Leasehold,2022-10-16,133023,139,"Williams, Ray and Gay",Yes,Ready to Move,4,Apartment,Rent
+0,10,3,1,1008,1,2,2,946,North,1 out of 5,Manjari,Old,2,Park,Freehold,2024-05-29,134064,133,Duncan-Hall,No,Under Construction,6,Apartment,Rent
+1,9,4,0,1097,1,2,2,1025,West,1 out of 5,Viman Nagar,Old,1,Park,Leasehold,2020-09-01,78984,72,Goodwin-Cameron,No,Ready to Move,1,Row House,Sale
+2,5,4,1,1370,2,3,3,1288,South,1 out of 5,Undri,New,3,Park,Freehold,2023-01-29,154810,113,Kemp Inc,Yes,Under Construction,10,Row House,Sale
+2,0,5,0,1405,3,2,2,1374,North,1 out of 5,Kharadi,Old,1,Garden,Freehold,2020-10-27,209345,149,Huff LLC,Yes,Under Construction,3,Apartment,Sale
+1,3,3,1,1042,3,2,2,1022,East,Ground,Kondhwa,Old,1,Park,Leasehold,2021-06-22,86486,83,Mccullough Group,No,Under Construction,5,Apartment,Sale
+0,2,4,2,1320,0,4,4,1241,East,2 out of 10,Dhomkeel,New,1,Main Road,Leasehold,2021-07-08,141240,107,Miller LLC,Yes,Ready to Move,5,Apartment,Rent
+1,9,4,1,998,2,4,4,921,North,5 out of 12,Magarpatta,New,3,Garden,Freehold,2022-04-13,130738,131,"Cummings, Mitchell and Martinez",No,Ready to Move,6,Row House,Rent
+2,10,3,1,906,1,4,4,841,West,1 out of 5,Viman Nagar,New,3,Garden,Freehold,2022-01-09,95130,105,"Harris, Jacobs and Martin",Yes,Ready to Move,5,Villa,Rent
+1,4,4,2,467,3,3,3,435,South,5 out of 12,Kondhwa,Old,3,Garden,Freehold,2020-06-21,42030,90,Barnes and Sons,No,Ready to Move,3,Row House,Rent
+0,8,1,1,1155,1,2,2,1096,South,5 out of 12,Undri,New,3,Main Road,Freehold,2021-08-08,152460,132,Clark-King,No,Ready to Move,5,Apartment,Sale
+2,3,2,1,1529,2,1,1,1431,West,2 out of 10,Manjari,New,1,Garden,Freehold,2024-05-29,198770,130,"Davenport, Murillo and Lane",No,Under Construction,12,Row House,Rent
+2,7,3,1,1138,0,1,1,1089,South,5 out of 12,NIBM,Old,3,Park,Leasehold,2025-02-20,139974,123,Patrick Ltd,No,Under Construction,3,Villa,Sale
+0,10,1,0,1191,2,4,4,1116,West,Ground,Undri,New,1,Park,Freehold,2020-08-16,164358,138,Williams and Sons,Yes,Ready to Move,7,Villa,Sale
+1,2,2,0,992,3,1,1,922,South,1 out of 5,Kharadi,New,1,Park,Leasehold,2021-07-08,99200,100,Harris-Kemp,No,Ready to Move,6,Villa,Sale
+0,0,5,2,840,2,3,3,779,East,1 out of 5,Manjari,New,1,Garden,Freehold,2021-06-01,114240,136,Roach and Sons,Yes,Ready to Move,7,Apartment,Sale
+1,4,2,1,1408,2,1,1,1387,North,1 out of 5,Dhomkeel,Old,2,Park,Leasehold,2024-07-22,190080,135,Thomas-Welch,Yes,Under Construction,12,Apartment,Sale
+1,2,3,1,1026,1,3,3,963,South,5 out of 12,Dhomkeel,New,3,Main Road,Freehold,2021-12-25,139536,136,"Holland, Torres and Underwood",No,Ready to Move,3,Villa,Rent
+0,7,5,1,1193,1,3,3,1169,North,Ground,Wagholi,New,3,Park,Freehold,2023-01-22,59650,50,Russell Ltd,Yes,Ready to Move,12,Apartment,Rent
+2,7,2,2,1748,3,1,1,1676,East,Ground,Wagholi,New,1,Park,Leasehold,2023-11-14,157320,90,Leach LLC,Yes,Ready to Move,7,Villa,Sale
+2,1,3,2,539,3,1,1,508,South,2 out of 10,Manjari,New,1,Garden,Leasehold,2025-01-18,71148,132,"Wright, Hill and Long",No,Under Construction,12,Villa,Rent
+2,0,5,0,1407,0,1,1,1381,North,Ground,Manjari,Old,1,Main Road,Freehold,2024-10-02,80199,57,Cox Ltd,Yes,Ready to Move,5,Apartment,Sale
+0,7,1,1,1489,1,3,3,1438,South,2 out of 10,Bhekrai Nagar,Old,2,Park,Freehold,2022-06-12,186125,125,"Williams, Martinez and Tyler",Yes,Ready to Move,6,Villa,Sale
+2,6,2,0,1897,0,3,3,1840,North,5 out of 12,Bhekrai Nagar,Old,1,Main Road,Freehold,2021-10-18,214361,113,Perez-Sherman,Yes,Under Construction,1,Row House,Rent
+1,0,3,1,742,1,2,2,659,West,5 out of 12,Manjari,Old,1,Garden,Freehold,2021-10-20,83846,113,Douglas PLC,No,Under Construction,8,Row House,Rent
